@@ -1,22 +1,39 @@
 - id: Ghost
-  avatar: avatars/ghost.png
+  avatar: avatars/icon-logo.png
   bio: The professional publishing platform
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/
   location: On a plane
 - id: Another Author
-  avatar: avatars/ghost.png
+  avatar: avatars/icon-logo.png
   bio: This is another test author with a profile background image
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/
   location: On a plane
   profile_image: img/alex-knight-326705-unsplash.jpg
-- id: Tom
-  avatar: avatars/ghost.png
-  bio: The professional publishing platform
+- id: Concepts
+  avatar: avatars/icon-logo.png
+  bio: notes devoted to the mental models that make up the world
+  location: In the mind
   twitter: gabrielstwin
-  facebook: ghost
-  website: https://ghost.org/
+- id: Humanity
+  avatar: avatars/icon-logo.png
+  bio: How humans come together, or not
+  twitter: gabrielstwin
   location: Pacific Coast
+- id: From the heart
+  avatar: avatars/icon-logo.png
+  bio: The progression of youth
+  location: Across the generations
+- id: Dance
+  avatar: avatars/icon-logo.png
+  bio: Improvised movement, inspired by sights and sounds
+  website: https://www.youtube.com/channel/UCzj5e7D_PpceHqCaWrE_bmg
+  location: Through the bones
+- id: Art
+  avatar: avatars/icon-logo.png
+  bio: Street Art, transient art...
+  website: https://www.instagram.com/gabriels_twin/
+  location: Through the bones
