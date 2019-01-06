@@ -38,24 +38,15 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                balalhladflgadfgladlfg
+                I am Tom Watson, an Australian living on the West coast of the USA. My posts will cut across a range of topics that are dear to me, including dance, rites of passage, software engineering, books reviews, street art and more.
               </p>
               <blockquote>
                 <p>
-                  If you'd like to set up a site like this for yourself, head over to{' '}
-                  <a href="https://ghost.org">Ghost.org</a> and start a free 14 day trial to give
-                  Ghost a try!
+                  My intent is to refine my thinking by practicing my writing, and to centralize some of my creative expression. If folks get something out of these posts, that is just a nice bonus!
                 </p>
               </blockquote>
               <p>
-                If you're a developer: Ghost is a completely open source (MIT) Node.js application
-                built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite,
-                and is publicly available <a href="https://github.com/TryGhost/ghost">on Github</a>.
-              </p>
-              <p>
-                If you need help with using Ghost, you'll find a ton of useful articles on{' '}
-                <a href="https://help.ghost.org">our knowledgebase</a>, as well as extensive{' '}
-                <a href="https://docs.ghost.org">developer documentation</a>.
+                Thanks for your visit and hope you enjoy
               </p>
             </div>
           </PostFullContent>
