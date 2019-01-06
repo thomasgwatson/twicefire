@@ -29,10 +29,10 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'twice fire',
+  description: 'aspects of Tom Watson',
   coverImage: 'img/s.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/title-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
