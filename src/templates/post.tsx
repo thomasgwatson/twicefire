@@ -22,6 +22,7 @@ import { colors } from '../styles/colors';
 import { inner, outer, SiteHeader, SiteMain } from '../styles/shared';
 import config from '../website-config';
 import PostCCFooterRight from '../components/PostCCFooterRight';
+import CreativeCommonsText from '../components/CreativeCommonsText';
 
 const PostTemplate = css`
   .site-main {
@@ -298,13 +299,14 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
 
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
-              <PostFullFooter>
-                <AuthorCard author={post.frontmatter.author} />
-                <PostCCFooterRight />
-              </PostFullFooter>
+
               <PostFullFooter>
                 <AuthorCard author={post.frontmatter.author} />
                 <PostFullFooterRight authorId={post.frontmatter.author.id} />
+              </PostFullFooter>
+              <PostFullFooter>
+                <CreativeCommonsText/>
+                <PostCCFooterRight />
               </PostFullFooter>
             </article>
           </div>
