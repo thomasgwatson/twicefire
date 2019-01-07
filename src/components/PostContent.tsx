@@ -8,7 +8,7 @@ import { colors } from '../styles/colors';
 export const PostFullContent = styled.section`
   position: relative;
   margin: 0 auto;
-  padding: 70px 100px 0;
+  padding: 7px 50px 0;
   min-height: 230px;
   font-family: Georgia, serif;
   font-size: 2.2rem;
@@ -192,6 +192,7 @@ export const PostFullContent = styled.section`
   /* .fluid-width-video-wrapper { */
   .gatsby-resp-iframe-wrapper {
     margin: 1.5em 0 3em;
+    padding-bottom: 65% !important;
   }
 
   hr {
