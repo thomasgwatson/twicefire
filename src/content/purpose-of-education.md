@@ -4,7 +4,7 @@ title: "Returning from the Bodega Bay Summer Trip"
 author: Tom Watson
 tags: ["rites of passage"]
 image: img/bodega.jpg
-date: "2018-09-12T15:11:55.000Z"
+date: "2018-10-10T15:11:55.000Z"
 draft: false
 ---
 
