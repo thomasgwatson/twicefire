@@ -1,24 +1,29 @@
 ---
 layout: post
-title: "The Purpose of Education"
-author: Ghost
-tags: ["Speeches"]
-image: img/demo4.jpg
-date: "2012-08-20T15:11:55.000Z"
+title: "Returning from the Bodega Bay Summer Trip"
+author: Tom Watson
+tags: ["rites of passage"]
+image: img/bodega.jpg
+date: "2018-09-12T15:11:55.000Z"
 draft: false
 ---
 
+<sub>_Epistemic status: Reflective, anecdotal_<sub/>
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+I just spent my birthday hiking up a windswept hill with my youth group, of teenage boys, and my homie Chaise, instead of spending my birthday and anniversary weekend with my love Chelsey and my friends.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+The future shape of humanity hangs in the balance. Who and what are we to become in this century? One facet of that is the future of "men"; men-folk, boys, lads, however we choose to identity them (/us).
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+I started my journey with this group over two years ago; it was already apparent then, that the fate of men was **'up for grabs'**; contested. In part, this comes from our industrial way of living, disrupting the guidance, mentoring and rites of passage that youth commonly received.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+And with this disruption, boys and young men can't wait; they try to figure things out for themselves. From movies, from porn, from computer games, from memes, from internet chat boards, but mainly from their equally anchorless peers. It is a real roll of the dice in that regard. And some of them find and follow 4chan, "Men's Rights Activists", nihilist edge-lords, Pick Up Artists, Jordan B Peterson and other folks whose values and ideas take us backward, towards even more oppressive and stratified ways of being together.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+> But where are 'we'? Are 'we' showing up for these boys? 'We', cis men-folk that strive to be 'woke'. That strive to be 'progressive', 'forward-thinking', 'conscious', etc. Are we too caught up in our own lives; our own troubles; our own pleasures and responsibilities; to show up?
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+This year, our program has a surplus of women group-leaders, more than we have girl youth; and a lack of men group-leaders for the boys that are seeking mentorship. Big Brother/Big Sister programs have dire need of Big Brothers and a oversupply of Big Sisters. Men seem to be increasingly abandoning the teaching profession. At our parent meetings, we have one father show up out of five (we have two lesbian couple families, so not counting those families for this purpose). Yesterday when the boys were picked up from the camping trip, one of the boys noted, _"None of the dads are here to pick us up"_ (although two of them dropped their boys off on Saturday).
 
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+> It looks like women are showing up for youth of all genders but are 'we'? Did we miss this mentorship, guidance and care from men-folk in our development? Are we left questioning what it even looks like, let alone how 'we' could provide it to the next generation of young men?
+
+All of us are following and figuring out our own paths. I don't expect all of us men-folk to contribute in the same way. But I am asking us to do more. At a minimum, work on yourself. Figure out if you missed out on a rite of passage, some mentorship or guidance, and then go and seek it out. Figure out the best traits that humans exhibit, whether they are defined as masculine or feminine, and explore your best-self through them. Don't forget that some of the best ways to work on yourself are to help, mentor and learn with others. You can grow and heal around being 'a man' while working with youth and sharing in their search for what it is to be 'a better man'. Run a youth group; coach a sports team; show up for your nephews, younger brothers, etc; try out Big Brother; be a camp counselor; Teach for America; work for nature programs... find a way, please, please, find a way.
+
+Please support the [Stepping Stones Project](https://www.steppingstonesproject.org/) if you can; donate your money, your time or fill one of the open roles!

@@ -4,7 +4,7 @@ title: "Inside a dream"
 author: Tom Watson
 tags: ["dance", "new style hustle"]
 image: img/insideadream.jpg
-date: "2018-09-06T23:46:37.121Z"
+date: "2018-11-06T23:46:37.121Z"
 draft: false
 ---
 
