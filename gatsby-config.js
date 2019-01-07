@@ -9,7 +9,6 @@ module.exports = {
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
-  pathPrefix: "/twicefire",
   plugins: [
     'gatsby-plugin-sharp',
     {
