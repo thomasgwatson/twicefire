@@ -2,7 +2,7 @@
 layout: post
 title: A Full and Comprehensive Style Test
 image: img/sunss.jpg
-author: Ghost
+author: Tom Watson
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Tests

@@ -1,9 +1,10 @@
 ---
 title: "Smoke and Mirrors"
 author: Tom Watson
-tags: []
+tags: 
+    - dance
 image: img/smokeandmirrors.jpg
-date: "2019-01-03T10:00:00.000Z"
+date: "2018-05-03T10:00:00.000Z"
 draft: false
 ---
 
