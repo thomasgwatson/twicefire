@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Jan 2019 22:39:40 GMT</lastBuildDate><item><title><![CDATA[Inside a dream]]></title><description><![CDATA[👋 Welcome. Chelsey and I visited a friend’s pre-burn party. They had built their core camp infrastructure out of shipping containers and…]]></description><link>https://twicefire.com/insideadream/</link><guid isPermaLink="false">https://twicefire.com/insideadream/</guid><pubDate>Tue, 06 Nov 2018 23:46:37 GMT</pubDate><content:encoded>&lt;div&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Jan 2019 22:51:59 GMT</lastBuildDate><item><title><![CDATA[Inside a dream]]></title><description><![CDATA[👋 Welcome. Chelsey and I visited a friend’s pre-burn party. They had built their core camp infrastructure out of shipping containers and…]]></description><link>https://twicefire.com/insideadream/</link><guid isPermaLink="false">https://twicefire.com/insideadream/</guid><pubDate>Tue, 06 Nov 2018 23:46:37 GMT</pubDate><content:encoded>&lt;div&gt;
           &lt;div
             class=&quot;gatsby-resp-iframe-wrapper&quot;
             style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1rem&quot;
@@ -55,10 +55,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Test Image&quot;
         title=&quot;&quot;
-        src=&quot;/twicefire/static/8bafcea43f0bc141b01ef5b43dd2003b/ae198/testimg1.jpg&quot;
-        srcset=&quot;/twicefire/static/8bafcea43f0bc141b01ef5b43dd2003b/82c04/testimg1.jpg 293w,
-/twicefire/static/8bafcea43f0bc141b01ef5b43dd2003b/5511d/testimg1.jpg 585w,
-/twicefire/static/8bafcea43f0bc141b01ef5b43dd2003b/ae198/testimg1.jpg 1080w&quot;
+        src=&quot;/static/8bafcea43f0bc141b01ef5b43dd2003b/ae198/testimg1.jpg&quot;
+        srcset=&quot;/static/8bafcea43f0bc141b01ef5b43dd2003b/82c04/testimg1.jpg 293w,
+/static/8bafcea43f0bc141b01ef5b43dd2003b/5511d/testimg1.jpg 585w,
+/static/8bafcea43f0bc141b01ef5b43dd2003b/ae198/testimg1.jpg 1080w&quot;
         sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
       /&gt;
   &lt;/span&gt;&lt;/p&gt;
@@ -78,9 +78,9 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Small Test Image&quot;
         title=&quot;&quot;
-        src=&quot;/twicefire/static/b629d579b1c63df6750fc11d47141796/d6719/testimg2.jpg&quot;
-        srcset=&quot;/twicefire/static/b629d579b1c63df6750fc11d47141796/88570/testimg2.jpg 293w,
-/twicefire/static/b629d579b1c63df6750fc11d47141796/d6719/testimg2.jpg 300w&quot;
+        src=&quot;/static/b629d579b1c63df6750fc11d47141796/d6719/testimg2.jpg&quot;
+        srcset=&quot;/static/b629d579b1c63df6750fc11d47141796/88570/testimg2.jpg 293w,
+/static/b629d579b1c63df6750fc11d47141796/d6719/testimg2.jpg 300w&quot;
         sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
       /&gt;
   &lt;/span&gt;&lt;/p&gt;
@@ -252,7 +252,7 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;![Image description](/path/to/image.jpg)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/7371e/computer.jpg&quot;
+    href=&quot;/static/4aec4f6250f1a9c047e5e7973c9e348b/7371e/computer.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -270,11 +270,11 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Computer&quot;
         title=&quot;&quot;
-        src=&quot;/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/27561/computer.jpg&quot;
-        srcset=&quot;/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/06456/computer.jpg 293w,
-/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/4b3e4/computer.jpg 585w,
-/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/27561/computer.jpg 1170w,
-/twicefire/static/4aec4f6250f1a9c047e5e7973c9e348b/7371e/computer.jpg 1200w&quot;
+        src=&quot;/static/4aec4f6250f1a9c047e5e7973c9e348b/27561/computer.jpg&quot;
+        srcset=&quot;/static/4aec4f6250f1a9c047e5e7973c9e348b/06456/computer.jpg 293w,
+/static/4aec4f6250f1a9c047e5e7973c9e348b/4b3e4/computer.jpg 585w,
+/static/4aec4f6250f1a9c047e5e7973c9e348b/27561/computer.jpg 1170w,
+/static/4aec4f6250f1a9c047e5e7973c9e348b/7371e/computer.jpg 1200w&quot;
         sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
       /&gt;
   &lt;/span&gt;
@@ -303,4 +303,4 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 &lt;h2&gt;Dividing things up&lt;/h2&gt;
 &lt;p&gt;If you’re writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code class=&quot;language-text&quot;&gt;---&lt;/code&gt; on a new line will create a sleek divider, anywhere you want it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you’re still curious about more advanced tips then check out the &lt;a href=&quot;/twicefire/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you’d rather learn about how Ghost taxononomies work, we’ve got a overview of &lt;a href=&quot;/twicefire/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you’re still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you’d rather learn about how Ghost taxononomies work, we’ve got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content:encoded></item></channel></rss>
