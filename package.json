@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "twicefire",
+  "description": "twice fire, a personal site for Tom Watson",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Tom Watson <thomasgabriel.watson@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",

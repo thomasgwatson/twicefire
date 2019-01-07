@@ -51,7 +51,7 @@ const AuthorBio = styled.h2`
   max-width: 600px;
   font-size: 2rem;
   line-height: 1.3em;
-  font-weight: 300;
+  font-weight: 600;
   letter-spacing: 0.5px;
   opacity: 0.8;
 `;
@@ -163,11 +163,7 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                     {author.location} <Bull>&bull;</Bull>
                   </div>
                 )}
-                <div className={`${HiddenMobile}`}>
-                  {totalCount > 1 && `${totalCount} posts`}
-                  {totalCount === 1 && `1 post`}
-                  {totalCount === 0 && `No posts`} <Bull>•</Bull>
-                </div>
+
                 {author.website && (
                   <div>
                     <a
