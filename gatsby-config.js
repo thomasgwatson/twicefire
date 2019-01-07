@@ -2,13 +2,14 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'insideOut',
-    description: 'The internal life of Thomas G Watson',
-    siteUrl: 'https://insideOut.com', // full path to blog - no ending slash
+    title: 'twicefire',
+    description: 'The internal life of Tom Watson',
+    siteUrl: 'https://twicefire.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
+  pathPrefix: "/twicefire",
   plugins: [
     'gatsby-plugin-sharp',
     {

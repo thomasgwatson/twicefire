@@ -6,6 +6,7 @@
   "author": "Tom Watson <thomasgabriel.watson@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "clean": "rimraf public",
     "dev": "gatsby develop",
