@@ -1,14 +1,16 @@
-import { graphql } from 'gatsby';
-import * as React from 'react';
+import { graphql } from 'gatsby'
+import * as React from 'react'
 import { css } from 'emotion'
-import Helmet from 'react-helmet';
+import Helmet from 'react-helmet'
 
-import Footer from '../components/Footer';
-import SiteNav from '../components/header/SiteNav';
-import PostCard from '../components/PostCard';
-import Wrapper from '../components/Wrapper';
-import IndexLayout from '../layouts';
-import config from '../website-config';
+import Footer from '../components/Footer'
+import SiteNav from '../components/header/SiteNav'
+import PostCard from '../components/PostCard'
+import Wrapper from '../components/Wrapper'
+import IndexLayout from '../layouts'
+import favicon16 from "../content/img/favicon-16x16.png"
+import favicon32 from "../content/img/favicon-32x32.png"
+import config from '../website-config'
 import {
   inner,
   outer,
@@ -19,8 +21,8 @@ import {
   SiteHeaderContent,
   SiteMain,
   SiteTitle,
-} from '../styles/shared';
-import { PageContext } from '../templates/post';
+} from '../styles/shared'
+import { PageContext } from '../templates/post'
 
 const HomePosts = css`
   @media (min-width: 795px) {
@@ -89,7 +91,9 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
   const height = String(Number(width) / props.data.header.childImageSharp.fluid.aspectRatio);
   return (
     <IndexLayout className={`${HomePosts}`}>
-      <Helmet>
+      <Helmet >
+        <link rel='icon' type='image/png' sizes="16x16" href={`${favicon16}`}/>
+        <link rel='icon' type='image/png' sizes="32x32" href={`${favicon32}`}/>
         <html lang={config.lang} />
         <title>{config.title}</title>
         <meta name="description" content={config.description} />
