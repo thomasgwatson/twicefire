@@ -321,7 +321,7 @@ ul,
 ol,
 dl,
 blockquote {
-  margin: 0 0 1.5em 0;
+  margin: 1em 0 1.5em 0;
 }
 
 ol,

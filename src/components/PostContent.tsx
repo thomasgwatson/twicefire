@@ -184,6 +184,11 @@ export const PostFullContent = styled.section`
     line-height: inherit;
     background: transparent;
   }
+  
+  .gatsby-resp-image-link {
+    box-shadow: none;
+  }
+
 
   pre code :not(span) {
     color: inherit;
