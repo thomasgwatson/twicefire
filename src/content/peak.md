@@ -86,10 +86,22 @@ Deliberate practice requires constant tuning and shifting; we get less and less 
 
 ### Implications for education <a name="educ"></a>
 
-Education, notionally orientated to improving expertise, is the first field that the authors examine regarding the implications of Peak. Specifically, they detail a trial conducted at the university undergraduate level
+Education, notionally orientated to improving expertise, is the first field that the authors examine regarding the implications of Peak. Specifically, in chapter 9, they detail a trial conducted at the University of British Columbia, at the undergraduate level. Splitting a large course into two cohort, the study only shifted their twelfth week of instruction, on the topic of electromagnetic waves.
+
+In the study cohort, the goal was not to just feed the students the required information for that week but to instead prompt them to practice thinking like physicists. Before each class both cohorts were prompted to read short additional material. The first difference was that the study cohort was also asked a battery of true/false online questions, that would give them immediate feedback about whether they were employing the same mental representations that a physicist ought to be. The next difference was the study cohort dropped the classic lecture style. Instead, the cohort was broken up into small groups and asked 'clicker' questions. These questions could be answered electronically, the answers sent straight to the instructor. Before answering, the students would be given a chance to discuss the question within their group. After the answers were submitted, the instructor would display the answers and discuss, and then answer additional questions students had. Several of these questions were asked and if a decent number of students struggled with a particular concept, the lecturer would take that as a cue to offer a mini-lecture on that topic. This question-discuss-answer-feedback loop was replicated by another 'active learning' task, where students wrote up short answers and the lecturers moved around the groups, dropping into different discussions. This allowed a tighter feedback loop than the traditional lecture: students were regularly tested on their concepts (without the pressure of being 'graded'), got feedback, with some level of expert mentorship and ostensibly built up better mental representations of electromagnetic waves.
+
+So, what was the tested difference between the study and control cohorts after this? Both cohorts received multiple-choice quiz. The control cohort averaged 41% and the study cohort averaged 74% (Random guessing would net you about 23%). That is a huge improvement. The study authors determined that it produced outcomes better than two standard deviations above the mean, overcoming [Bloom's 2 sigma problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). Certainly a result that I would like to see replicated in a wide cross-section of studies. This study was published in 2011, and I would be curious to know to what extent these techniques have been adopted across high education. On p.254, the authors do touch on this subject, saying that the techniques rapidly spread across science departments at UBC... but we hear nothing about their wider dissemination from the 5-6 years between the referenced study and Peak's publication.
+
+The other main line of study I would like to see more of is: would these educational models also hold for younger learners. The 'test-and-adjust' frame of Wieman and co's work reminds me of another simple educational intervention, ["Teaching At The Right Level"](https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning); testing kids on specific abilities and moving them into different grade classes based on their results. The JPAL studies are not the first time I have heard of the effectiveness of avoiding age-class bracketing: [The Finnish Lesson](https://amzn.to/2CjPXPE) cites the idea of 'teaching to the right level' as one of the important aspects of why the Fins performed so well by educational measures. Wieman and co's study included a micro-level loop of 'testing to the right level', by testing students and slowing down when material was not understood. 
 
 ---
 ### Implications for software engineering <a name="engderp"></a>
 
+
+
 ---
 ### Touching on drive, motivation, opportunity, IQ and privilege 
+
+###### Amazon referrals for books mentioned in this review 
+ - [Peak](https://amzn.to/2AOgcgW)
+ - [The Finnish Lesson 2.0](https://amzn.to/2CjPXPE)
