@@ -65,10 +65,10 @@ const SubscribeOverlay = styled.div`
     text-align: center;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
     background: linear-gradient(
-      color(var(--blue) whiteness(+7%)),
-      color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
-      color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
-      color(var(--blue) lightness(-4%) saturation(-10%))
+      color(var(--jade) whiteness(+7%)),
+      color(var(--jade) lightness(-7%) saturation(-10%)) 60%,
+      color(var(--jade) lightness(-7%) saturation(-10%)) 90%,
+      color(var(--jade) lightness(-4%) saturation(-10%))
     );
     border-radius: 8px;
     box-shadow: 0 0 0 1px inset rgba(0, 0, 0, 0.14);

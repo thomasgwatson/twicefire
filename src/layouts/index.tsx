@@ -281,8 +281,8 @@ body {
 
 ::selection {
   text-shadow: none;
-  /* background: color(var(--blue) lightness(+30%)); */
-  background: ${lighten('0.3', colors.blue)};
+  /* background: color(var(--jade) lightness(+30%)); */
+  background: ${lighten('0.3', colors.jade)};
 }
 
 hr {
@@ -401,8 +401,8 @@ blockquote cite a {
 }
 
 a {
-  /* color: color(var(--blue) l(-5%)); */
-  color: ${darken('0.05', colors.blue)};
+  /* color: color(var(--jade) l(-5%)); */
+  color: ${darken('0.05', colors.jade)};
   text-decoration: none;
 }
 

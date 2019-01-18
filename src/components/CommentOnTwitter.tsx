@@ -30,8 +30,8 @@ const CommentButton = css`
   transition: all ease 0.2s;
 
   :hover {
-    border-color: ${colors.blue};
-    color: ${colors.blue};
+    border-color: ${colors.jade};
+    color: ${colors.jade};
     text-decoration: none;
   }
 `;

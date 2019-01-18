@@ -78,11 +78,11 @@ export const PostFullContent = styled.section`
   a {
     color: #000;
     word-break: break-word;
-    box-shadow: ${colors.blue} 0 -1px 0 inset;
+    box-shadow: ${colors.jade} 0 -1px 0 inset;
   }
 
   a:hover {
-    color: ${colors.blue};
+    color: ${colors.jade};
     text-decoration: none;
   }
 
@@ -135,7 +135,7 @@ export const PostFullContent = styled.section`
   blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #baa935 3px solid;
   }
 
   blockquote p {
@@ -279,7 +279,7 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0;
     padding: 1em 0 1.5em;
     border: 0;
-    color: ${colors.blue};
+    color: ${colors.jade};
     font-family: Georgia, serif;
     font-size: 3.2rem;
     line-height: 1.35em;
