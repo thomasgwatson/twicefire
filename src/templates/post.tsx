@@ -307,6 +307,7 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                 <AuthorCard author={post.frontmatter.author} />
                 <CommentOnTwitter postUrl={config.siteUrl + props.pathContext.slug}/>
               </PostFullFooter>
+              {/* Creative Commons text PostFullFooter */}
               <PostFullFooter>
                 <CreativeCommonsText/>
                 <PostCCFooterRight />

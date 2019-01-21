@@ -44,9 +44,16 @@ module.exports = {
     },
     'gatsby-transformer-json',
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'data',
+        path: path.join(__dirname, 'src', 'data'),
+      },
+    },
+    {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://twicefire.com',
       },
     },
     'gatsby-plugin-emotion',

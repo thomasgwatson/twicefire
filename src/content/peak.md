@@ -55,7 +55,7 @@ That is somewhat unfortunate if you care muchly about one of those "excluded" fi
 
 ###### Mentorship <a name="mentor"></a>
 
-Mentors guide you on your path to mastery. They often set one's curriculum, shift the focus of practice and, most importantly, they provide rapid, accurate feedback on errors. Getting accurate and speedy feedback is one of the most powerful mechanisms in human experience. It is the essential underpinning of how we learn to navigate reality overtime. Mentors greatly improve this feedback process, particularly if the discipline is well understood. Beyond their instructive guidance, a boarder sense of being mentored by someone no doubt has benefits to motivation and well-being.
+Mentors guide you on your path to mastery. They often set one's curriculum, shift the focus of practice and, most importantly, they provide rapid, accurate feedback on errors. Getting accurate and speedy feedback is one of the most powerful mechanisms in human experience. It is the essential underpinning of how we learn to navigate reality overtime. Mentors greatly improve this feedback process, particularly if the discipline is well understood. Beyond their instructive guidance, a broader sense of being mentored by someone no doubt has benefits to motivation and well-being.
 
 
 ---
@@ -67,7 +67,7 @@ We are constantly predicting what will happen around us and correcting our expec
 ---
 ###### Mental representations <a name="menrep"></a>
 
-Ericcson and Pool place great importance on their concept of _mental representations_. They are important because they must be developed by practitioners for them to be able to critique themselves. Think of how a musician can glance at a score and immediate develop a 'sense' of how it should sound. A dancer feeling the stickiness of their last sequence and knowing that they did not quite nail it. A chess master or a professional soccer player can look at a snapshot of their respective fields of play and predict what will happen next. Mental representations also define how we structure our skills and their interrelated parts in our minds. Like how a guitarist will structure collections of notes into chords and progressions. I would add that "clear expertise" fields probably have defined mental representations formally, and have them shared across the whole discipline. Where as in other less mature/structured fields, there are a multitude of bespoke mental representations going around and it becomes unclear how easily concepts can be shared.
+Ericsson and Pool place great importance on their concept of _mental representations_. They are important because they must be developed by practitioners for them to be able to critique themselves. Think of how a musician can glance at a score and immediate develop a 'sense' of how it should sound. A dancer feeling the stickiness of their last sequence and knowing that they did not quite nail it. A chess master or a professional soccer player can look at a snapshot of their respective fields of play and predict what will happen next. Mental representations also define how we structure our skills and their interrelated parts in our minds. Like how a guitarist will structure collections of notes into chords and progressions. I would add that "clear expertise" fields probably have defined mental representations formally, and have them shared across the whole discipline. Where as in other less mature/structured fields, there are a multitude of bespoke mental representations going around and it becomes unclear how easily concepts can be shared.
 
 ---
 ###### Focus <a name="foc"></a>
@@ -111,7 +111,7 @@ Specifically for my own circumstances, it reinforces the need to practice coding
 ---
 ### Touching on talent, drive, motivation, opportunity, IQ and privilege 
 
-In all this discussion on deliberate practice and its importance to building expertise, I have not yet talked about the place of 'innate talent' (Addressed in chapter 8 of Peak). As a society, we place a great deal of focus on natural ability (or lack there of); we tend to operate under a mental model where by some folks just have incredible talent and many do *not* have it. We pigeon-hole ourselves; "I don't have a brain for math", "I just can't hold a tune", "I'm not a computer person", "I'm just not good with people", etc. However, one of the consistent themes of Peak is that 'innate talent' and 'natural ability' play a negligible or very limited role in expertise (to be clear, this is not to suggest that 'talented' people don't exist, in the sense that 'talented' people are good in their domain because of their history of practice and not as some genetic blessing). 
+In all this discussion on deliberate practice and its importance to building expertise, I have not yet talked about the place of 'innate talent' (Addressed in chapter 8 of Peak). As a society, we place a great deal of focus on natural ability (or lack thereof); we tend to operate under a mental model whereby some folks just have incredible talent and many do *not* have it. We pigeon-hole ourselves; "I don't have a brain for math", "I just can't hold a tune", "I'm not a computer person", "I'm just not good with people", etc. However, one of the consistent themes of Peak is that 'innate talent' and 'natural ability' play a negligible or very limited role in expertise (to be clear, this is not to suggest that 'talented' people don't exist, in the sense that 'talented' people are good in their domain because of their history of practice and not as some genetic blessing). 
 
 The authors reference the importance of deliberate practice over innate talent through examples including:
  - [The Polgar Family](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) creating-chess-genius experiment (generating three female chess geniuses in an era when women's minds weren't considered suitable for chess);
@@ -136,7 +136,7 @@ Peak feels like the coalescing of learning moments from my past. It has been a f
 
 ![break](img/icon.jpg)
 
-I hope this review has given you a fair and accurate understanding of what Peak has to offer and perhaps, a little fire under you to reengage with your masteries with some deliberate practice.
+I hope this review has given you a fair and accurate understanding of what Peak has to offer and perhaps, a little fire under you to re-engage with your masteries with some deliberate practice.
 
 ---
 
