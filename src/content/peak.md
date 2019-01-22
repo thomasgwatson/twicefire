@@ -8,7 +8,7 @@ date: "2019-01-19T23:46:37.121Z"
 draft: false
 ---
 
-How you ever wondered what sets the best chess players a part from the rest? Or what you, as a novice of any mastery, could learn from that? If your 'lack of talent' is holding you back from taking up singing, carpentry or computer programming? Whether talent even exists?
+Have you ever wondered what sets the best chess players a part from the rest? Or what you, as a novice of any mastery, could learn from that? If your 'lack of talent' is holding you back from taking up singing, carpentry or computer programming? Whether talent even exists?
 
 ## "...Secrets from the new science of expertise"
 
