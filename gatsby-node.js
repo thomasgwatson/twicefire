@@ -1,8 +1,8 @@
-const path = require('path');
-const _ = require('lodash');
+const path = require('path')
+const _ = require('lodash')
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
+  const { createNodeField } = actions
 
   // Sometimes, optional fields tend to get not picked up by the GraphQL
   // interpreter if not a single content uses it. Therefore, we're putting them
@@ -10,13 +10,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // trip up. An empty string is still required in replacement to `null`.
   switch (node.internal.type) {
     case 'MarkdownRemark': {
-      const { permalink, layout, primaryTag } = node.frontmatter;
-      const { relativePath } = getNode(node.parent);
+      const { permalink, layout, primaryTag } = node.frontmatter
+      const { relativePath } = getNode(node.parent)
 
-      let slug = permalink;
+      let slug = permalink
 
       if (!slug) {
-        slug = `/${relativePath.replace('.md', '')}/`;
+        slug = `/${relativePath.replace('.md', '')}/`
       }
 
       // Used to generate URL to view this content.
@@ -24,26 +24,26 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         node,
         name: 'slug',
         value: slug || '',
-      });
+      })
 
       // Used to determine a page layout.
       createNodeField({
         node,
         name: 'layout',
         value: layout || '',
-      });
+      })
 
       createNodeField({
         node,
         name: 'primaryTag',
         value: primaryTag || '',
-      });
+      })
     }
   }
-};
+}
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage } = actions
 
   const result = await graphql(`
     {
@@ -96,19 +96,19 @@ exports.createPages = async ({ graphql, actions }) => {
         }
       }
     }
-  `);
+  `)
 
   if (result.errors) {
-    console.error(result.errors);
-    throw new Error(result.errors);
+    console.error(result.errors)
+    throw new Error(result.errors)
   }
 
   // Create post pages
-  const posts = result.data.allMarkdownRemark.edges;
+  const posts = result.data.allMarkdownRemark.edges
   posts.forEach(({ node }, index) => {
-    const { slug, layout } = node.fields;
-    const prev = index === 0 ? null : posts[index - 1].node;
-    const next = index === posts.length - 1 ? null : posts[index + 1].node;
+    const { slug, layout } = node.fields
+    const prev = index === 0 ? null : posts[index - 1].node
+    const next = index === posts.length - 1 ? null : posts[index + 1].node
 
     createPage({
       path: slug,
@@ -129,18 +129,18 @@ exports.createPages = async ({ graphql, actions }) => {
         next,
         primaryTag: node.frontmatter.tags ? node.frontmatter.tags[0] : '',
       },
-    });
-  });
+    })
+  })
 
   // Create tag pages
-  const tagTemplate = path.resolve('./src/templates/tags.tsx');
+  const tagTemplate = path.resolve('./src/templates/tags.tsx')
   const tags = _.uniq(
     _.flatten(
       result.data.allMarkdownRemark.edges.map(edge => {
-        return _.castArray(_.get(edge, 'node.frontmatter.tags', []));
+        return _.castArray(_.get(edge, 'node.frontmatter.tags', []))
       }),
     ),
-  );
+  )
   tags.forEach(tag => {
     createPage({
       path: `/tags/${_.kebabCase(tag)}/`,
@@ -148,11 +148,11 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         tag,
       },
-    });
-  });
+    })
+  })
 
   // Create author pages
-  const authorTemplate = path.resolve('./src/templates/author.tsx');
+  const authorTemplate = path.resolve('./src/templates/author.tsx')
   result.data.allAuthorYaml.edges.forEach(edge => {
     createPage({
       path: `/author/${_.kebabCase(edge.node.id)}/`,
@@ -160,15 +160,27 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         author: edge.node.id,
       },
-    });
-  });
-};
+    })
+  })
+}
 
 exports.onCreateWebpackConfig = ({ stage, actions }) => {
   // adds sourcemaps for tsx in dev mode
   if (stage === `develop` || stage === `develop-html`) {
     actions.setWebpackConfig({
       devtool: 'eval-source-map',
-    });
+    })
   }
-};
+  if (stage === "build-html") {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /mapbox-gl/,
+            use: ['null-loader']
+          },
+        ],
+      }
+    })
+  }
+}
