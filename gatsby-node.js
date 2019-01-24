@@ -165,6 +165,11 @@ exports.createPages = async ({ graphql, actions }) => {
 }
 
 exports.onCreateWebpackConfig = ({ stage, actions }) => {
+  actions.setWebpackConfig({
+    node: {
+      fs: "empty"
+    }
+  })
   // adds sourcemaps for tsx in dev mode
   if (stage === `develop` || stage === `develop-html`) {
     actions.setWebpackConfig({
