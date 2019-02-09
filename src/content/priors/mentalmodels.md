@@ -3,8 +3,8 @@ layout: post
 title: "Priors: Mental Models"
 author: Tom Watson
 tags: ["priors"]
-image: ../img/bodega.jpg
-date: "2017-01-01T15:11:55.000Z"
+image: ../img/alps.jpg
+date: "2019-02-10T15:11:55.000Z"
 draft: false
 ---
 
