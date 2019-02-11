@@ -4,7 +4,7 @@ title: "Priors: Mental Models"
 author: Tom Watson
 tags: ["priors"]
 image: ../img/alps.jpg
-date: "2019-02-10T15:11:55.000Z"
+date: "2019-02-11T17:11:55.000Z"
 draft: false
 ---
 
