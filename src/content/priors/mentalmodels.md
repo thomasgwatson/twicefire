@@ -10,7 +10,7 @@ draft: false
 
 I use "Mental models" as a shorthand term for the idea that the way a single human mind comprehends reality, is not reality. It is the distinction that the way we think about something is not the totality of that thing.
 
-The saying ["The map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) is the most common expression of this idea. Why is it important to note this distinction? If we forget the distinction, we end up thinking that our perception of reality *is* actually reality. The negative consequence of letting that replacement happen is we lose touch with reality, and as conditions and circumstances change, we fail to adjust are thinking and actions to our context.
+The saying ["The map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) is the most common expression of this idea. Why is it important to note this distinction? If we forget the distinction, we end up thinking that our perception of reality *is* actually reality. The negative consequence of letting that replacement happen is we lose touch with reality, and as conditions and circumstances change, we fail to adjust our thinking and actions to our context.
 
 #### Why can't we know the totality of a thing or reality itself?
 Knowing the totality of a thing, or reality itself requires omniscience: total knowledge and understanding over time. Human cognition currently seems ill-equipped for such a task. _;) sly wink_ 
