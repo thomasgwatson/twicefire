@@ -4,7 +4,7 @@ title: "A generic mental model for geo-data acquisition"
 author: Tom Watson
 tags: []
 image: img/unused/sun.jpg
-date: "2019-02-19T23:46:37.121Z"
+date: "2019-02-16T23:46:37.121Z"
 draft: false
 ---
 
