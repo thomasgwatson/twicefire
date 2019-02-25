@@ -133,3 +133,6 @@ Process duplication is when there are multiple parts an organization repeating t
 ###### Complex coupling
 When different parts of the acquisition cycle are coupling in complex ways, making changes to the different sub-sections or adding new sub-sections to the overall cycle becomes awkward. Changes in one system can cause problems downstream. A common time this becomes apparent is when the acquisition cycle revolves around a particular platform, and then a new platform is introduced.
 
+###### Unclear reference geometry
+Geo-data is unsurprising heavily dependent to having geometric representations. One frustrating challenge that can plague a data acquisition cycle is having reference geometries that do not suit all parts of the cycle, or having unclear ways of translating between the different reference geometry in different parts of the cycle. To provide a task to an acquisition platform, you typically need very well defined geometric instructions: collect all data on these specific roads, or point the sensor at this point on the earth when the platform is at this geometry in space. It is important that these discrete geometries match the intent of geometries defined in requirements, which tend to be coarser. 
+
