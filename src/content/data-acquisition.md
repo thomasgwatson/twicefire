@@ -63,7 +63,8 @@ As an organization grows, its data acquisition cycle graduates from a simple pro
 ##### Common challenges in the data acquisition cycle
 Below is a non-exhaustive list of common challenges organizations encounter when scaling their data acquisition efforts.
 
-![break](img/as.jpg)
+![break](img/icon.jpg)
+
 #### Requirement-related challenges
 ###### Skipping requirements
 When there is no requirement process or individuals in an organization just skip them, the risk is that resources will be misallocated when acquiring data. This risk only increases as the number of acquisition platforms and data requestors increases.
