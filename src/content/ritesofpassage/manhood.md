@@ -3,7 +3,7 @@ layout: post
 title: "The River of Masculinity: A review of 'The New Manhood'"
 author: Tom Watson
 tags: ["review", "rites of passage"]
-image: ../img/peak.jpg
+image: ../img/river2.jpg
 date: "2019-04-09T23:46:37.121Z"
 draft: false
 ---
