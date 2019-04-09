@@ -1,145 +1,140 @@
 ---
 layout: post
-title: "The New Manhood: a review"
+title: "The River of Masculinity: A review of 'The New Manhood'"
 author: Tom Watson
 tags: ["review", "rites of passage"]
-image: img/peak.jpg
-date: "2019-03-27T23:46:37.121Z"
+image: ../img/peak.jpg
+date: "2019-04-09T23:46:37.121Z"
 draft: false
 ---
 
-Have you ever wondered what sets the best chess players a part from the rest? Or what you, as a novice of any mastery, could learn from that? If your 'lack of talent' is holding you back from taking up singing, carpentry or computer programming? Whether talent even exists?
+## The New Manhood
 
-## "...Secrets from the new science of expertise"
+<sub>_Epistemic status: An old mentor recommended this book to me. It overlaps with much of my work and learnings with Stepping Stones but also comes with a strong Australian flavour. I feel strongly about the topics touched on in the book but recognize I have much to learn about the work and different angles being taken around it._</sub>
 
-<sub>_Epistemic status: I have spent some time looking at expertise, starting with physical skill acquisition. Read this book thoroughly but have not yet looked into all my research leads around expertise_<sub/>
-
-If you have an interest in getting better at your pursuits, skills and masteries, read on!
-
-In Peak, Anders Ericsson and Robert Pool have set out to both study and concisely present research into the question of how do humans 'get better at stuff'. Peak seeks to breakdown the research being conducted in the field, add in some little stories to flesh the ideas and concepts out and also wades into some of the implications.
-
-The key concepts the book discusses are **deliberate practice, mental representation, mentorship, and feedback.** I found the book very engaging, due to my interest in this domain and that it was quite disgestable to me; linking to my strong priors, such as _mental models, tight feedback loops, mentorship_ from a rites of passage frame and prior reading about _practice_. In essence, we build mastery most effectively by undertaking focused, limits-of-ability practice, either under direct coaching (mentorship) or after developing powerful _mental representations_ that allow for masterful _feedback_. There are specific conditions attached to these general terms: you can't just do one aspect of deliberate practice and expect to progress. So I will unpack some of those aspects.
-
-![break](img/icon.jpg)
-
-#### Deliberate practice
-
-Why should I care about deliberate practice? Two major drives for acquiring a skill include wanting to survive and, for the sheer joy of its mastery. If you really want to excel at surviving (hey, some of us are quite keen on living) or simply love getting better at the hobbies and disciplines we practice, deliberate practice is something we should be engaging in.
-
-> So I need to work at getting better at stuff, right, of course... 
-
-What one needs to take from the idea of deliberate practice is that just putting in hours of practice is not enough; there are specific conditions that need to happen for it to be fully effective. For illustrative purposes, I'll list some of the things that lead us to 'degraded practice':
+> "There are men who wake up in the morning energised and happy.
+>
+> Whose partners and children love and trust them.
+>
+> Who do work they believe in and enjoy.
+>
+> Have loyal and interesting friends.
+>
+> And are deeply involved in the wider world.
+>
+> They may not be famous or wealthy.
+>
+> They value something quite different.
+>
+> They are learning how to be real."
  
-> We go through the motions; we stop paying attention to our practice; we don't get expert mentorship; we do not analyse our practice to get self-feedback; and ... we bail on practice altogether.
 
-If we place the two on a spectrum, what does it take to push us from the 'degraded practice' end of a spectrum, to the deliberate practice end?
+![break](../img/icon.jpg)
 
- - Having a clearly defined and well established path to mastery, with easily identifiable experts; I am labelling these ["Clear expertise fields"](#cef), something not common to all fields
- - [Mentorship](#mentor) from teachers/masters of the discipline; adjusting if a teacher can no longer push you beyond your limit
- - Meaningful, regular [feedback](#feed)
- - [Mental representations](#menrep), that allow one to self-correct errors during practice
- - Continued [focus](#foc) during practice
- - [Practice that is 'difficult'](#ooc); it continues to push your boundaries, even if this is exhausting
+First published in 1994, [*The New Manhood*](https://www.amazon.com/gp/product/B07GZ56VY7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GZ56VY7&linkCode=as2&tag=twicefire-20&linkId=70a465d2c0eefab8010391427ce66413) (back then just *Manhood*) and Steve Biddulph's consistent touring and writing have touched the lives of countless men in Australia. Steve begins the book with an anecdote tinged with an quintessential Australian male flavour. Steve describes experiencing the tension and flutter of the moments before public speaking. He pops into the foyer, to smooth some of his nerves by chatting and being with some of the folk coming to listen to his talk. He notices a fellow intently staring at him; a big muscular, tattooed bloke, in a singlet top and with a beard for good measure. As this man noticed Steve noticing him, he gathers his two companions and strides purposefully up to Steve, stopping within inches of Steve's face. Frowning, the man speaks:
 
-![break](img/icon.jpg)
+> "You been following me around?"
 
-###### "Clear expertise" fields <a name="cef"></a>
+Steve understandably is confounded by this confrontational tack and breathlessly mouths a non-reply before the man puts him out of his misery; breaking into a wide grin, the man continues:
 
-These fields tend to have two main qualities. 1) The field is already well-developed, so expectations about mastery and paths to achieving that are already well-defined. and 2) the field has direct competition and rankings that make it 'easy' to compare practitioners. Examples of this span chess, classical music, all sorts of sports but particularly individual sports, martial arts, and structured forms of dance. As the authors say on p.98, "What doesn't qualify?"
+> "That bloody book of yours - that's the story of my life, mate."
 
->Pretty much anything in which there is no or little direct competition, such as gardening ... [being a] business manager, teacher, electrician, engineer, consultant, and so on.
+The tension broken, the man goes on to introduce his brother and father, and explains how they had barely spoken for years until he had read *Manhood*, sent copies to them and then they had collectively 'sorted it out'. Its a beautiful, tangible moment for Steve and some of the men he has helped heal. It is also deeply powerful for me, feeling the dry Australian humour of how the man approached Steve (and my nostalgic yearning for such humour) but more so hearing about how this man and his family-men, very 'blokey' embodiments of Australian masculinity, had been reached by Steve Biddulph's work. This gives me hope, assaying one of my fears around contemporary work on masculinity; that it can come off as unaccessible and completely alien to lots of men.
 
-That is somewhat unfortunate if you care muchly about one of those "excluded" fields, something I will explore later with software engineering. I would also argue to include aviation, medicine, civil engineering and similar as 'clear expertise' fields; fields that do not have competition perse but that have well defined metrics (often with life or death consequences!) by which to gauge interventions.
+*The New Manhood* (updated twice more since 1994) rolls on from there. Biddulph defines the challenge men face today, and methodically works through the different arenas of family, love, work and meaning that is bound up in it all. For this review, I want to focus on a couple of key areas that either stood out for me or are connected to the rites of passage work I do.
 
 ---
 
-###### Mentorship <a name="mentor"></a>
+### The River of Masculinity
 
-Mentors guide you on your path to mastery. They often set one's curriculum, shift the focus of practice and, most importantly, they provide rapid, accurate feedback on errors. Getting accurate and speedy feedback is one of the most powerful mechanisms in human experience. It is the essential underpinning of how we learn to navigate reality overtime. Mentors greatly improve this feedback process, particularly if the discipline is well understood. Beyond their instructive guidance, a broader sense of being mentored by someone no doubt has benefits to motivation and well-being.
+While delving into the challenge faced by contemporary masculinity, Biddulph makes use of the metaphor of the "River of Masculinity". The river here represents the handing on of wisdom from men to boys; the preparation that boys go through to join society as adults. It represents the rites of passage, initiations, apprenticing and skill-sharing that tribes, or villages would go through to prepare male youth for sustaining the community. It flows like a river, from generation to generation, over the millennia.
 
+![riverbed](../img/riverbed.jpg)
 
----
+Biddulph makes the case that this river has been interrupted. Specifically, he cites the advent of industrialization as the main cause of this, while also noting the impact of global conflicts such as WWII. For me, this also links to industrialization's parallel processes of urbanization and globalization, a notion that I touched on in [my last post](https://www.twicefire.com/summerschool). This disruption has largely been self-inflicted for most industrialized societies. Biddulph does not dwell heavily on all the different ways the river has been diverted/dammed/blocked/disrupted; the core concept is that change/disruption has occurred and societies have not adapted sufficiently.
 
-###### Feedback <a name="feed"></a>
+After dropping in two references early in the book, Biddulph does not explicitly reference this 'river of masculinity' again. It is not, for example, included in the index. I want to explore the metaphor a little deeper and link it to some other aspects of society and masculinity.
 
-We are constantly predicting what will happen around us and correcting our expectations based on sensory input. The feedback we glean from practice and from our mentors is just a more built-up version of this. While mentor feedback is very valuable, to pursue excellence, one must figure out how to give oneself worthwhile feedback. This leads us to ...
+![river2](../img/river2.jpg)
 
----
-###### Mental representations <a name="menrep"></a>
+--- 
 
-Ericsson and Pool place great importance on their concept of _mental representations_. They are important because they must be developed by practitioners for them to be able to critique themselves. Think of how a musician can glance at a score and immediate develop a 'sense' of how it should sound. A dancer feeling the stickiness of their last sequence and knowing that they did not quite nail it. A chess master or a professional soccer player can look at a snapshot of their respective fields of play and predict what will happen next. Mental representations also define how we structure our skills and their interrelated parts in our minds. Like how a guitarist will structure collections of notes into chords and progressions. I would add that "clear expertise" fields probably have defined mental representations formally, and have them shared across the whole discipline. Where as in other less mature/structured fields, there are a multitude of bespoke mental representations going around and it becomes unclear how easily concepts can be shared.
+#### Down the river...
 
----
-###### Focus <a name="foc"></a>
+To start, the metaphor implies that there is stability and continuity when the river flows strongly. This should not be taken as a positive value judgment on the practices that are passed down via this flow. While the stability and continuity of these 'rivers' is largely missing from industrialized societies, the contents of those rivers no doubt included (or still includes) limiting ideas and concepts that we want to let go of. There is much to gain from understanding how societies functioned in the past and whether we are really addressing the developmental needs of our youth; however the solution is not to try to paddle up the river to a prior time. We must learn and integrate from the past, while forging a new future. I think Biddulph's work would agree with this sentiment.
 
-Being able to stick with your practice, and deeply drop into the _now_ of it. Beyond emphasizing its importance, Peak doesn't go deep into how to cultivate focus. That is left to the reader. Much has been said in contemporary media about the economy of attention/distraction urbanites exist in. I won't delve into that issue here but to ask: If it is true that we are being distracted more so than ever before, are we at risk of diminishing society's (and our own) ability to acquire mastery?
+> There is much to gain from understanding how societies functioned in the past ... however the solution is not to try to paddle up the river to a prior time. 
 
----
-###### Out-of-comfort <a name="ooc"></a>
+![river3](../img/river3.jpg)
 
-Deliberate practice requires constant tuning and shifting; we get less and less value out of revising the same material/pattern over and over again (spaced repetition learning details how to maximise that). Peak is very clear about one aspect related to this: Deliberate practice is uncomfortable. It is frustrating. We learn some aspect of a discipline. It is difficult at first. We get the hang of it. Perhaps even a little feeling of accomplishment comes our way. But then we need to do something different, harder. We probably mess up and get frustrated again. Just to keep making progress. This process can be literally fatiguing. Peak noted this fatigue in the high performing classical music students; putting in huge reps of deliberate practice and integrating afternoon naps to compensate. Obviously there is a very real skill in itself of balancing how exhausting, challenging and difficult practice is, with also making sure we are staying focused, healthy and 'well-rounded'.
+###### Disrupting the river as a means of subjugation 
 
-![break](img/icon.jpg)
+Another reflection that came up for me is that the interruption of some rivers of masculinity has been a very deliberate act of disruption during colonialism, war, and conflict. European and other imperial and colonial ambitions have repeatedly disrupted the flow of the river in other societies, whether via literal killings, through to slavery, genocide, forced removal of children, banning of cultural practices, or encouraging drug dependency (often dove-tailed with increased criminalization, a la the USA "War on Drugs"). This attacking of the social fabric and its flow-on impacts are conveniently forgotten at times, when folks critique other societies as 'backward', 'ungovernable' and 'failed'. This has come up strongly for me as I have just finished reading [*Dark Emu*](https://amzn.to/2KjeOdu), a book that examines archaeological evidence and accounts of aboriginal societies from the writings and records of the earliest white colonists in Australia.
 
-> Hopefully you now have a reasonable grounding in the key concepts of Peak. Next, I will focus on implications inspired by reading Peak or referenced in the book itself.
+![kayak](../img/kayak.jpg)
 
-![break](img/icon.jpg)
+###### Reactionary confusion about the source of disruption
 
-### Implications for education <a name="educ"></a>
+I think men in many societies are feeling the ebb of the river of masculinity. There are tangible senses of loneliness, disconnection, lack of belonging and meaning in many men. But only a vague sense of what is blocking the flow of the river, what the causes of it are. Of course, some men are adequately mentored and flourish. Some men manage to figure it out, and manage to self-initiate themselves in some fashion that gets them to a more holistic maturity.
 
-Education, notionally oriented to improving expertise, is the first field that the authors examine regarding the implications of Peak. Specifically, in chapter 9, they detail a trial conducted at the University of British Columbia, at the undergraduate level. Splitting a large physics course into two cohort, the study only shifted their twelfth week of instruction, on the topic of electromagnetic waves.
+![bridge](../img/bridge.jpg)
 
-In the study cohort, the goal was not to just feed the students the required information for that week but to instead prompt them to practice thinking like physicists. Before each class both cohorts were prompted to read short additional material. The first difference was that the study cohort was also asked a battery of true/false online questions, that would give them immediate feedback about whether they were employing the same mental representations that a physicist ought to be. The next difference was the study cohort dropped the classic lecture style. Instead, the cohort was broken up into small groups and asked 'clicker' questions. These questions could be answered electronically, the answers sent straight to the instructor. Before answering, the students would be given a chance to discuss the question within their group. After the answers were submitted, the instructor would display the answers and discuss, and then answer additional questions students had. Several of these questions were asked and if a decent number of students struggled with a particular concept, the lecturer would take that as a cue to offer a mini-lecture on that topic. This question-discuss-answer-feedback loop was replicated by another 'active learning' task, where students wrote up short answers and the lecturers moved around the groups, dropping into different discussions. This allowed a tighter feedback loop than the traditional lecture: students were regularly tested on their concepts (without the pressure of being 'graded'), got feedback, with some level of expert mentorship and ostensibly built up better mental representations of electromagnetic waves.
+Many men only get part of the way there. They get by in many ways but are also stuck in some areas. And others, lose their way. A self-destructive falling off the path can look like failed attempts to self-initiate (getting into all sorts of edgy situations), self-harm/self-sabotage, mental-health challenges (including suicide), or getting fixated/addicted to coping mechanisms. Losing one's way can also be outward looking, or socially-destructive: joining gangs in search of mentorship, belonging and initiation; adopting victim-identities and blaming 'others', whether its their families, women, religious minorities, queer/trans folk, immigrants, foreigners, and the like, for the disconnection experienced; and/or taking all that a step further and joining far-right and/or nihilistic groups and contributing to harassment and beyond.
 
-So, what was the tested difference between the study and control cohorts after this? Both cohorts received multiple-choice quiz. The control cohort averaged 41% and the study cohort averaged 74% (Random guessing would net you about 23%). That is a huge improvement. The study authors determined that it produced outcomes better than two standard deviations above the mean, overcoming [Bloom's 2 sigma problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). Certainly a result that I would like to see replicated in a wide cross-section of studies. This study was published in 2011, and I would be curious to know to what extent these techniques have been adopted across higher education. On p.254, the authors do touch on this subject, saying that the techniques rapidly spread across science departments at UBC... but we hear nothing about their wider dissemination from the 5-6 years between the referenced study and Peak's publication.
+###### Losing the way
 
-The other main line of study I would like to see more of is: would these educational models also hold for younger learners. The 'test-and-adjust' frame of Wieman and co's work reminds me of another simple educational intervention, ["Teaching At The Right Level"](https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning); testing kids on specific abilities and moving them into different grade classes based on their results. The JPAL studies I just linked to are not the first time I have heard of the effectiveness of avoiding age-class bracketing: [The Finnish Lesson](https://amzn.to/2CjPXPE) cites the idea of 'teaching to the right level' as one of the important aspects of why the Finns performed so well by international educational measures. Wieman and co's study included a micro-level loop of 'testing to the right level', by testing students and slowing down when material was not understood. 
+These 'othered' groups can be lazy targets for men who have lost their way. Women have done extensive work to create new post-industrial possibilities for women and to otherwise reclaim their power. This is a disruption to the classic skinny social contract that men and women got out of industrialization; a gross simplification of such being "men to the public sphere and women to the home". If one gets fixated on thinking that women's liberation is in competition to men's liberation, counterproductive and reactionary behaviors can soon follow. Similar patterns can apply to the existence, survival, liberation and self-actualization efforts of the other groups and identities I touched on above.
 
-![break](img/icon.jpg)
+![kayak2](../img/kayak2.jpg)
 
----
-### Implications for software engineering <a name="engderp"></a>
+Men who start falling down these paths become prime candidates for recruitment by fundamentalist militants, racial supremacists, far-right groups and other nihilistic efforts. They are the boy soldiers taught to rape as a weapon of war in the Congo; they are the Western-born men that are drawn to different flavors of stochastic terrorism. They are the foot-soldiers of ISIS; they are the white supremacists meeting in Charlottesville; they are the 'edge-lords' and shit-posters from 8Chan, egging on the 'lone wolf' mass shooters.
 
-Software engineering is not a ["clear expertise"](#cef) field. It is an immature discipline, relative to other technical industries like aviation, construction, and medicine. There is not a clear path to overall mastery; more so there are many paths to incomplete masteries in different sub-domains and environments. At its worst (hacker news, twitter, blog comments), this is evident in vitriolic arguments, vigilante [gatekeeping](https://www.urbandictionary.com/define.php?term=Gatekeeping), and ['bikeshedding'](https://www.urbandictionary.com/define.php?term=bikeshedding) discussions. This is because it is a relatively new discipline, is rapidly growing and changing, and tends to forget about its history. The industry's rapid growth means it is both difficult to determine what to be mentored on, and where to even find mentors.
+![kayak3](../img/kayak3.jpg)
 
-This paints a rather glum outlook for the aspiring engineer or developer, wanting to pursue deliberate practice in their field. However, despite these legitimate frustrations, the industry does have several bright spots. Partial tight feedback loops are very achievable in software development. Just getting a program to run and getting some output can provide immediate and clear feedback about your efforts. I say it is partial however, since there are many pitfalls and bad habits one might not be alerted with this simple level of feedback loop. Another advantage (relative to the industries mentioned at the beginning of this section), is the bewildering array of open source and free tooling, tutorials, forums, chat channels and help available online. In part these are a direct response to the disorganized nature of computer engineering mastery; and it is certainly challenging to determine the value of feedback and advice garnered from across this mass. 
+In the context of the metaphor, these 'lost boys' have typically been cut off from main-stream rivers of masculinity. But it is important to acknowledge that there are, I would argue small, 'rivers of masculinity' that are flowing strongly, mentoring their youth into socially destructive, dogmatic world-views, such as the various forms of ethno-fascism around the world. The strength of their convictions is attractive to those who have lost their way. Reconnecting and reinventing main-stream rivers of masculinity is a critical project in neutralizing the impact of these misguided lineages.
 
-Specifically for my own circumstances, it reinforces the need to practice coding regularly (partially fulfilled by this blog), continue to seek mentorship (especially since it is lacking at work) where and when I can (Hello [Bradfield!](https://bradfieldcs.com/)) and try to understand what mental representations I am operating with when coding.
-
-![break](img/icon.jpg)
-
----
-### Touching on talent, drive, motivation, opportunity, IQ and privilege 
-
-In all this discussion on deliberate practice and its importance to building expertise, I have not yet talked about the place of 'innate talent' (Addressed in chapter 8 of Peak). As a society, we place a great deal of focus on natural ability (or lack thereof); we tend to operate under a mental model whereby some folks just have incredible talent and many do *not* have it. We pigeon-hole ourselves; "I don't have a brain for math", "I just can't hold a tune", "I'm not a computer person", "I'm just not good with people", etc. However, one of the consistent themes of Peak is that 'innate talent' and 'natural ability' play a negligible or very limited role in expertise (to be clear, this is not to suggest that 'talented' people don't exist, in the sense that 'talented' people are good in their domain because of their history of practice and not as some genetic blessing). 
-
-The authors reference the importance of deliberate practice over innate talent through examples including:
- - [The Polgar Family](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) creating-chess-genius experiment (generating three female chess geniuses in an era when women's minds weren't considered suitable for chess);
- - Experiments into whether folks can develop perfect pitch, widely considered as something you either had or didn't have (In the study, some folk were successful in developing perfect pitch but not all participants);
- - A British study done on chess-playing children of a range of ability and IQs. It found two interesting results: for the whole cohort, practice was the biggest determiner of ability, with IQ having some impact. But for the elite playing part of the cohort, IQ played no role in ability.
-
-The Peak authors consciously avoid detailing the depths of the debate about what IQ actually measures on page 227, while highlighting how IQ intersects with expertise. Seeing as IQ did have a positive correlation for the non-elite chess-kids, they posit that a higher IQ might aid someone slightly in picking up a mental representation or strategy. However, at the elite level, this slight advantage seemed to fade away; deliberate practice reigned supreme when it came to ability. Consequently, from this perspective, we should view the place of education not as some sort of unearthing of innate talent or high IQ individuals, and more as a scaffold for building up mastery across all students.
-
-If IQ is not a decisive accompaniment to deliberate practice, what then is? Peak does not go into this at length but the authors do make references to a range of internal and external factors that matter for building expertise. On the internal side, practitioners need to cultivate motivation to do practice, grit at sticking with mastery challenges, and a willingness to pursue a specific mastery. These may well be meta-skills that can also be cultivated, or innate; this is not really addressed in Peak.
-
-External factors include access to mentorship, privilege and supportive community. If you cannot convince someone to mentor you, progress in your mastery will be tougher. When I say privilege in this context, I am essentially asking: how free is an individual to pursue their mastery? Do they live a monastic lifestyle, free from distractions, provided all required tools and materials to practice, fed and sheltered? Or do they have to work, be a care-giver to others, scrape together funds to buy supplies and tools? As for the presence or absence of a supportive community; these can provide external motivation (practicing with peers, encouragement from family), mentorship opportunities and resources. The book title includes a glowing quote from the Economist:
-
-> "[Peak] offers an optimistic anti-determinism that ought to influence how people educate children, manage employees, and spend their time. The good news is that to excel one need only look within."
-
-It is that last sentence that I think is a misrepresentation of the sum of Peak's findings. If we miss the importance of the factors that support and sustain deliberate practice, we risk being blind to systemic biases against some groups and their pursuit of mastery.
+> Reestablishing these rivers of masculinity is not just the work of helping men self-actualize; it is the work necessary to stop those men who are at risk of totally losing their way and harming others.
 
 ---
 
-### Implications for me!
+### Initiation, mentorship, other men and rites of passage
 
-Peak feels like the coalescing of learning moments from my past. It has been a fantastic reminder that I need to put more care and time into my masteries. While I disparaged the Economist quote, I do strongly agree with its view that Peak offers an optimistic anti-determinism for humanity. Collectively, it *is* worth investing in building skills and education, if we heed the lessons on the research into expertise. We are not wholly the result of some genetic and circumstantial lottery. I do feel the pull between several disciplines, and I must acknowledge that splitting my time does 'slow me down' in any one mastery. But that feels like balance for me.
+Leaving the metaphor of the river, I want to connect *The New Manhood* to the rites-of-passage focus of Stepping Stones. Biddulph focuses on a variety of key male relationships that shape the maturation process of men. The relationship to our fathers and immediate family is a critical one, detailed in the earliest chapters. The father-son relationship is made more critical by the preference for nuclear-family style living in industrialized nations (something worth reconsidering with how we raise youth). There is an important transition however, as youth enter their teenage years, when they need adult figures beyond their parents, to be mentors, guides and stewards. This is the main area of overlap between the *The New Manhood* and Stepping Stones work.
 
-![break](img/icon.jpg)
+![high ropes](../img/high-ropes.jpg)
 
-I hope this review has given you a fair and accurate understanding of what Peak has to offer and perhaps, a little fire under you to re-engage with your masteries with some deliberate practice.
+As a specific buzzword, Biddulph does not use rites-of-passage (although he does reference a poem, *Rites of Manhood* in his chapter about relating to women). However, the chapter "From Boy to Man" lays out a series of efforts that align with the form and content of rites-of-passage work with youth. Biddulph details three different organizations and efforts (including one called "The Rite Journey"), from Australia and Holland, and their ways of dealing with male youth in this transition phase. The two Australian accounts are school-based and involve significant intervention into one school year of the boys that go through the program. In contrast, Stepping Stones is separate from school, arcs over a longer period of time but has vastly less contact time between mentors and the youth. There are key overlapping aspects however: the inclusion of rites or  ceremonial aspects for marking the transition from child to adult life; the involvement of the family unit in this marking; the importance of building a bond between the youth and mentors; the importance of self-reflection; and the forging of a strong container and camaraderie between the boys involved in the programs. Certainly it is exciting and enlivening for me to read about other folks working with this critical rite of passage, and I am planning to research the different programs in greater depth at a later stage.
+ 
+Biddulph does not speak to directly to this developmental phase himself, largely leaving it to the examples to illustrate the importance of this time period in a boy/man's life. Alternatively, since his other best-seller, *Raising Boys*, (I assume) heavily encompasses this period of development, he may just be keeping his powder dry for that book!
+
+![break](../img/icon.jpg)
+
+###### The Time of Ashes
+
+The other important initiation that Biddulph covers is "The Time of Ashes". When life goes wrong, and things turn sour, our character is truly tested and we must find our way again.
+
+> "We are taught that adolescence is the big transition of life, as if there are no over important journey"
+
+![phoenix](../img/phoenix.jpg)
+
+This moments are triggered by the inevitable challenges that life throws at us: an unexpected death in the family, the lost of a job, the end of a core-mastery, the partner that falls out of love with you, a miscarriage, a car crash, the lost of our parents... I wanted to mention this chapter ("The Journey Down"), to both honor the grief, pain and growth that comes from set-backs, if we take the time to process them, and to remind myself of the importance of all rites of passage, not just the one I am facilitating with these sets of boys. I think Stepping Stones does a great job of reminding everyone in the community that we are all constantly being initiated into new roles, and new phases of life; whether as group-leaders, elders of groups, parents or staff.
+
+![break](../img/icon.jpg)
+
+### In summary
+
+*The New Manhood* covers a wide range of the key aspects of 'becoming a man', in a fashion that can connect the 'river of masculinity' with the possibilities of emerging forms of positive masculinity. Biddulph closes the book with one last piece of advice:
+
+> This book is a signpost. Don't climb it, *go where it points*. There is a larger life waiting.
+
+This is an important reminder: we need to do; explore, attempt, learn, fail and repeat. In this learning, we should anticipate the emergence of multitudes of positive masculinities; there will not be a singular 'woke'/positive masculinity that dominates and consumes all. I do not recommend Biddulph's work to you as that singular new way to be explore masculinity but as a great enquiry into the subject, to deepen your own work. It has been a source of great reflection for me; Gratitude for the constant loving (and eccentric) presence of my father throughout my childhood, questions about my felt sense of a lack of mentorship outside a few exceptions, and further questions about the challenge of building new friendships with men. I sincerely hope you get a chance to enjoy a read!
+
+![break](../img/icon.jpg)
+
+> Please support the [Stepping Stones Project](https://www.steppingstonesproject.org/) if you can; donate your money, your time or fill one of the open roles. In particular, the organization is in dire need of male group leaders; we need men to show up for boys. 
 
 ---
 
 ###### Amazon referrals for books mentioned in this review 
- - [Peak](https://amzn.to/2AOgcgW)
- - [The Finnish Lesson 2.0](https://amzn.to/2CjPXPE)
+ - [The New Manhood](https://www.amazon.com/gp/product/B07GZ56VY7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GZ56VY7&linkCode=as2&tag=twicefire-20&linkId=70a465d2c0eefab8010391427ce66413)
+ - [Dark Emu](https://amzn.to/2KjeOdu)
