@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "I just spent my birthday hiking up a windswept hill with my youth group, of teenage boys..."
 title: "Returning from the Bodega Bay Summer Trip"
 author: Tom Watson
 tags: ["rites of passage"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "Chelsey and I visited a friend's pre-burn party. They had built their core camp infrastructure out of shipping containers and other kit, assembled it in a..."
 title: "Inside a dream"
 author: Tom Watson
 tags: ["dance", "new style hustle"]

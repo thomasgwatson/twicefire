@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "Last Thursday I met Dan. This meeting portends the first physical coming together of my next rites-of-passage youth group. It has begun!"
 title: "New Beginnings"
 author: Tom Watson
 tags: ["rites of passage"]

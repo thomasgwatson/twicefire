@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "First published in 1994, 'The New Manhood' (back then just 'Manhood') and Steve Biddulph's consistent touring and writing have touched the lives of countless men in Australia."
 title: "The River of Masculinity: A review of 'The New Manhood'"
 author: Tom Watson
 tags: ["review", "rites of passage"]

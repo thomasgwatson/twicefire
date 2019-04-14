@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "It is hard to pinpoint when we lost Gerald. He had been a member of our three year 'rite of passage' youth group from the very beginning..."
 title: "Losing Gerald*"
 author: Tom Watson
 tags: ["rites of passage"]

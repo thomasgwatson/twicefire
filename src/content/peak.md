@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "Have you ever wondered what sets the best chess players a part from the rest? Or what you, as a novice of any mastery, could learn from that?"
 title: "Peak: a review"
 author: Tom Watson
 tags: ["review"]

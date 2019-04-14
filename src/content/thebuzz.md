@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "About seven months ago, I was out on a dry lake bed with a few chums. We had a little project, an extra reason to get us up before sun-rise..."
 title: "The Buzz"
 author: Tom Watson
 tags: ["dance"]

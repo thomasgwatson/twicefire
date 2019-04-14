@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "I am going to dive into outlining a generic mental model for what organizations tend to do when they have geo-data acquisition needs."
 title: "A generic mental model for geo-data acquisition"
 author: Tom Watson
 tags: []

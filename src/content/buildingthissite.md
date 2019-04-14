@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Words are delightful"
+excerpt: "A confluence of factors have driven me to set up this site: wanting to clarify my thinking by writing; framing my thoughts in prose and paragraph; wanting to have a place to publish these writings..."
 title: "Building this site"
 author: Tom Watson
 tags: ["why"]
