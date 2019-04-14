@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Going to the Global Sustainability Summer School"
 author: Tom Watson
 tags: ["news"]

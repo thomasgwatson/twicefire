@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "New Beginnings"
 author: Tom Watson
 tags: ["rites of passage"]

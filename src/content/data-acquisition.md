@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "A generic mental model for geo-data acquisition"
 author: Tom Watson
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Returning from the Bodega Bay Summer Trip"
 author: Tom Watson
 tags: ["rites of passage"]

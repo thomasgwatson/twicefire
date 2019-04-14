@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: "It only took me just over an hour to hike out to this point."
 title: "Smoke and Mirrors"
 author: Tom Watson
 tags: 

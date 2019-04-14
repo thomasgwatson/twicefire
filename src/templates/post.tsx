@@ -139,6 +139,7 @@ interface PageTemplateProps {
         title: string;
         date: string;
         userDate: string;
+        excerpt: string;
         image: {
           childImageSharp: {
             fluid: any;
@@ -191,6 +192,7 @@ export interface PageContext {
         fluid: any;
       };
     };
+    excerpt: string;
     title: string;
     date: string;
     tags: string[];
@@ -223,11 +225,11 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
 
-        <meta name="description" content={post.excerpt} />
+        <meta name="description" content={post.frontmatter.excerpt} />
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="article" />
         <meta property="og:title" content={post.frontmatter.title} />
-        <meta property="og:description" content={post.excerpt} />
+        <meta property="og:description" content={post.frontmatter.excerpt} />
         <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
         {post.frontmatter.image && (
           <meta property="og:image" content={post.frontmatter.image.childImageSharp.fluid.src} />
@@ -243,7 +245,7 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         <meta property="article:author" content={config.facebook} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.frontmatter.title} />
-        <meta name="twitter:description" content={post.excerpt} />
+        <meta name="twitter:description" content={post.frontmatter.excerpt} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
         {post.frontmatter.image && (
           <meta name="twitter:image" content={post.frontmatter.image.childImageSharp.fluid.src} />

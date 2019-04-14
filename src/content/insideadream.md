@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Inside a dream"
 author: Tom Watson
 tags: ["dance", "new style hustle"]

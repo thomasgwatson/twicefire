@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "The Buzz"
 author: Tom Watson
 tags: ["dance"]

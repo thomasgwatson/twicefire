@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Peak: a review"
 author: Tom Watson
 tags: ["review"]

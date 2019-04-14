@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Priors: Mental Models"
 author: Tom Watson
 tags: ["priors"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "Building this site"
 author: Tom Watson
 tags: ["why"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: "Words are delightful"
 title: "The River of Masculinity: A review of 'The New Manhood'"
 author: Tom Watson
 tags: ["review", "rites of passage"]
