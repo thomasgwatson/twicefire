@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "I use "Mental models" as a shorthand term for the idea that the way a single human mind comprehends reality, is not reality..."
+excerpt: "I use 'Mental models' as a shorthand term for the idea that the way a single human mind comprehends reality, is not reality..."
 title: "Priors: Mental Models"
 author: Tom Watson
 tags: ["priors"]
