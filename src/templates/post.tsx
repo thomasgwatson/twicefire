@@ -244,8 +244,8 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         <meta property="article:publisher" content={config.facebook} />
         <meta property="article:author" content={config.facebook} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={post.frontmatter.title} />
-        <meta name="twitter:description" content={post.frontmatter.excerpt} />
+        <meta name="twitter:title" content={`${post.frontmatter.title} `} />
+        <meta name="twitter:description" content={`${post.frontmatter.excerpt}`} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
         {post.frontmatter.image && (
           <meta name="twitter:image" content={post.frontmatter.image.childImageSharp.fluid.src} />

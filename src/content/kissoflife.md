@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "You gave me the kiss of life! Kiss of life... Sade remixed so wonderfully by Kaytranda"
+excerpt: "You gave me the kiss of life! Kiss of life... Sade remixed so wonderfully by Kaytranada"
 title: "Kiss of Life"
 author: Tom Watson
 tags: ["dance"]
@@ -28,4 +28,4 @@ draft: false
 >
 > Kiss of life...
 
-[Kaytranda's edit of Sade's Kiss of Life](https://soundcloud.com/kaytranada/kiss-of-life-kaytra-edit)
+[Kaytranada's edit of Sade's Kiss of Life](https://soundcloud.com/kaytranada/kiss-of-life-kaytra-edit)
