@@ -13,8 +13,7 @@ I have been on a good spin with keeping up with my reading in 2019. Of course, m
 
 ![break](img/icon.jpg)
 
-### My books of summer 2019 and why
-
+##### My books of summer 2019 and why
 #### China
 
 China plays a huge role in global affairs, and will continue to do so for the rest of the 21st century. I want to continue adding to my understanding and impressions of this huge entity. I have already wolfed down two of Ma Jian's brutal dissident fictions, [*Dark Road*](https://amzn.to/2IvaLJd) and [*Beijing Coma*](https://amzn.to/2DkAIac). Hoping to round out those brillant, dark, and desperate reflections of the brutality of modern China with these next three works.
