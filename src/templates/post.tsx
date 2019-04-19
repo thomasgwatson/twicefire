@@ -225,11 +225,11 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
 
-        <meta name="description" content={` ${post.frontmatter.excerpt}`} />
-        <meta property="og:site_name" content={` ${config.title}`} />
+        <meta name="description" content={post.frontmatter.excerpt} />
+        <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content={` ${post.frontmatter.title}: `} />
-        <meta property="og:description" content={` ${post.frontmatter.title} `} />
+        <meta property="og:title" content={post.frontmatter.title} />
+        <meta property="og:description" content={post.frontmatter.excerpt} />
         <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
         {post.frontmatter.image && (
           <meta property="og:image" content={post.frontmatter.image.childImageSharp.fluid.src} />
@@ -244,15 +244,15 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         <meta property="article:publisher" content={config.facebook} />
         <meta property="article:author" content={config.facebook} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={`${post.frontmatter.title} `} />
-        <meta name="twitter:description" content={`${post.frontmatter.excerpt}`} />
+        <meta name="twitter:title" content={post.frontmatter.title} />
+        <meta name="twitter:description" content={post.frontmatter.excerpt} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
         {post.frontmatter.image && (
           <meta name="twitter:image" content={post.frontmatter.image.childImageSharp.fluid.src} />
         )}
-        <meta name="twitter:label1" content="Written by " />
+        <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content={post.frontmatter.author.id} />
-        <meta name="twitter:label2" content="Filed under " />
+        <meta name="twitter:label2" content="Filed under" />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
         <meta name="twitter:site" content={`@${config.twitter.split('https://twitter.com/')[0]}`} />
         <meta
