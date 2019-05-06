@@ -7,7 +7,7 @@ import ccLogo from './cc.png'
 const PostCCFooterRightDiv = styled.div`
   flex-shrink: 0;
   margin-left: 20px;
-`;
+`
 
 const PostCCFooterRight: React.FunctionComponent<{}> = () => (
   <PostCCFooterRightDiv>

@@ -31,7 +31,7 @@ const HiddenMobile = css`
   @media (max-width: 500px) {
     display: none;
   }
-`;
+`
 
 const AuthorMeta = styled.div`
   z-index: 10;
@@ -42,7 +42,7 @@ const AuthorMeta = styled.div`
   margin: 0 0 10px 0;
   font-family: Georgia, serif;
   font-style: italic;
-`;
+`
 
 const AuthorBio = styled.h2`
   z-index: 10;
@@ -54,13 +54,13 @@ const AuthorBio = styled.h2`
   font-weight: 600;
   letter-spacing: 0.5px;
   opacity: 0.8;
-`;
+`
 
 const Bull = styled.span`
   display: inline-block;
   margin: 0 12px;
   opacity: 0.5;
-`;
+`
 
 const AuthorProfileBioImage = css`
   z-index: 10;
@@ -69,7 +69,7 @@ const AuthorProfileBioImage = css`
   width: 120px;
   height: 120px;
   box-shadow: rgba(255, 255, 255, 0.1) 0 0 0 6px;
-`;
+`
 
 interface AuthorTemplateProps {
   pathContext: {
@@ -299,4 +299,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

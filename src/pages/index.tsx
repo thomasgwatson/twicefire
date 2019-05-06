@@ -64,7 +64,7 @@ const HomePosts = css`
       padding: 0 40px 30px;
     }
   }
-`;
+`
 
 export interface IndexProps {
   data: {
@@ -87,8 +87,8 @@ export interface IndexProps {
 }
 
 const IndexPage: React.FunctionComponent<IndexProps> = props => {
-  const width = props.data.header.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
-  const height = String(Number(width) / props.data.header.childImageSharp.fluid.aspectRatio);
+  const width = props.data.header.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0]
+  const height = String(Number(width) / props.data.header.childImageSharp.fluid.aspectRatio)
   return (
     <IndexLayout className={`${HomePosts}`}>
       <Helmet >
@@ -145,7 +145,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
           <div className={`${inner}`}>
             <div className={`${PostFeed} ${PostFeedRaise}`}>
               {props.data.allMarkdownRemark.edges.map(post => {
-                return <PostCard key={post.node.fields.slug} post={post.node} />;
+                return <PostCard key={post.node.fields.slug} post={post.node} />
               })}
             </div>
           </div>
@@ -155,10 +155,10 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
         <Footer />
       </Wrapper>
     </IndexLayout>
-  );
-};
+  )
+}
 
-export default IndexPage;
+export default IndexPage
 
 export const pageQuery = graphql`
   query {
@@ -219,4 +219,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

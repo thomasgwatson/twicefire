@@ -16,7 +16,7 @@ const HomeNavRaise = css`
     position: relative;
     top: -70px;
   }
-`;
+`
 
 const SiteNavStyles = css`
   position: relative;
@@ -27,7 +27,7 @@ const SiteNavStyles = css`
   overflow-y: hidden;
   height: 40px;
   font-size: 1.2rem;
-`;
+`
 
 const SiteNavLeft = styled.div`
   display: flex;
@@ -46,7 +46,7 @@ const SiteNavLeft = styled.div`
     margin-right: 0;
     padding-left: 4vw;
   }
-`;
+`
 
 const NavStyles = css`
   display: flex;
@@ -73,7 +73,7 @@ const NavStyles = css`
     text-decoration: none;
     opacity: 1;
   }
-`;
+`
 
 const SiteNavRight = styled.div`
   flex-shrink: 0;
@@ -84,7 +84,7 @@ const SiteNavRight = styled.div`
   @media (max-width: 700px) {
     display: none;
   }
-`;
+`
 
 const SocialLinks = styled.div`
   flex-shrink: 0;
@@ -93,7 +93,7 @@ const SocialLinks = styled.div`
   a:last-of-type {
     padding-right: 20px;
   }
-`;
+`
 
 const SubscribeButton = styled.a`
   display: block;
@@ -110,7 +110,7 @@ const SubscribeButton = styled.a`
     opacity: 1;
     cursor: pointer;
   }
-`;
+`
 
 interface SiteNavProps {
   isHome?: boolean;

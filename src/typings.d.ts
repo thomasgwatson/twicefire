@@ -23,5 +23,5 @@ declare module 'rehype-react' {
     Compiler: any
     constructor(options: RehypeOptions);
   }
-  export default RehypeReact;
+  export default RehypeReact
 }

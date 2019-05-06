@@ -14,7 +14,7 @@ const SiteFooter = css`
   padding-bottom: 60px;
   color: #fff;
   background: ${setLightness('0.0015', colors.darkgrey)};
-`;
+`
 
 const SiteFooterContent = css`
   display: flex;
@@ -33,7 +33,7 @@ const SiteFooterContent = css`
   @media (max-width: 650px) {
     flex-direction: column;
   }
-`;
+`
 
 const SiteFooterNav = styled.nav`
   display: flex;
@@ -63,7 +63,7 @@ const SiteFooterNav = styled.nav`
       margin-left: 0;
     }
   }
-`;
+`
 
 const Footer: React.FunctionComponent = () => {
   return (

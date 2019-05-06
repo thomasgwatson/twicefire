@@ -7,7 +7,7 @@ import { colors } from '../styles/colors';
 
 const CreativeCommonsSection = styled.section`
   display: flex;
-`;
+`
 
 const CreativeCommonsContent = styled.section`
   p {
@@ -17,7 +17,7 @@ const CreativeCommonsContent = styled.section`
     line-height: 1.3em;
     width: 80%;
   }
-`;
+`
 
 const CreativeCommonsText: React.FunctionComponent<{}> = () => {
   return (

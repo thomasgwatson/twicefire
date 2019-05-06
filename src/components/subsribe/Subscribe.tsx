@@ -41,7 +41,7 @@ const SubscribeFormSection = styled.section`
       font-size: 1.6rem;
     }
   }
-`;
+`
 
 const SubscribeFormTitle = css`
   margin: 0 0 3px 0;
@@ -53,7 +53,7 @@ const SubscribeFormTitle = css`
   @media (max-width: 650px) {
     font-size: 2.4rem;
   }
-`;
+`
 
 export interface SubscribeProps {
   title: string;

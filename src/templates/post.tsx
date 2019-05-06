@@ -30,12 +30,12 @@ const PostTemplate = css`
     background #fff;
     padding-bottom: 4vw;
   }
-`;
+`
 
 export const PostFull = css`
   position: relative;
   z-index: 50;
-`;
+`
 
 export const NoImage = css`
   .post-full-content {
@@ -46,7 +46,7 @@ export const NoImage = css`
   .post-full-content:after {
     display: none;
   }
-`;
+`
 
 export const PostFullHeader = styled.header`
   margin: 0 auto;
@@ -57,7 +57,7 @@ export const PostFullHeader = styled.header`
   @media (max-width: 500px) {
     padding: 14vw 3vw 10vw;
   }
-`;
+`
 
 const PostFullMeta = styled.section`
   display: flex;
@@ -72,11 +72,11 @@ const PostFullMeta = styled.section`
     font-size: 1.2rem;
     line-height: 1.3em;
   }
-`;
+`
 
 const PostFullMetaDate = styled.time`
   color: ${colors.jade};
-`;
+`
 
 export const PostFullTitle = styled.h1`
   margin: 0;
@@ -84,7 +84,7 @@ export const PostFullTitle = styled.h1`
   @media (max-width: 500px) {
     font-size: 2.9rem;
   }
-`;
+`
 
 const PostFullImage = styled.figure`
   margin: 0 -10vw -165px;
@@ -106,19 +106,19 @@ const PostFullImage = styled.figure`
     margin-bottom: 4vw;
     height: 350px;
   }
-`;
+`
 
 const DateDivider = styled.span`
   display: inline-block;
   margin: 0 6px 1px;
-`;
+`
 
 const ReadNextFeed = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin: 0 -20px;
   padding: 40px 0 0 0;
-`;
+`
 
 interface PageTemplateProps {
   pathContext: {
@@ -211,12 +211,12 @@ export interface PageContext {
 }
 
 const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
-  const post = props.data.markdownRemark;
-  let width = '';
-  let height = '';
+  const post = props.data.markdownRemark
+  let width = ''
+  let height = ''
   if (post.frontmatter.image) {
-    width = post.frontmatter.image.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
-    height = String(Number(width) / post.frontmatter.image.childImageSharp.fluid.aspectRatio);
+    width = post.frontmatter.image.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0]
+    height = String(Number(width) / post.frontmatter.image.childImageSharp.fluid.aspectRatio)
   }
 
   return (
@@ -337,7 +337,7 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
   );
 };
 
-export default PageTemplate;
+export default PageTemplate
 
 export const query = graphql`
   query($slug: String, $primaryTag: String) {
@@ -400,4 +400,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

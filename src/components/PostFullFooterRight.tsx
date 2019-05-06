@@ -10,7 +10,7 @@ import { colors } from '../styles/colors';
 const PostFullFooterRightDiv = styled.div`
   flex-shrink: 0;
   margin-left: 20px;
-`;
+`
 
 const AuthorCardButton = css`
   display: block;
@@ -29,7 +29,7 @@ const AuthorCardButton = css`
     color: ${colors.jade};
     text-decoration: none;
   }
-`;
+`
 
 export interface PostFullFooterRightProps {
   authorId: string;

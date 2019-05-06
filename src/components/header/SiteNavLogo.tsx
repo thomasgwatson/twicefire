@@ -24,7 +24,7 @@ const SiteNavLogoStyles = css`
     width: auto;
     height: 21px;
   }
-`;
+`
 
 interface SiteNavLogoProps {
   logo?: {

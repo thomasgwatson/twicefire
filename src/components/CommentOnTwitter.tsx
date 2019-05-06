@@ -34,7 +34,7 @@ const CommentButton = css`
     color: ${colors.jade};
     text-decoration: none;
   }
-`;
+`
 
 const IconBox = styled.div`
   height: 30px;

@@ -47,14 +47,14 @@ const ReadNextCardHeader = styled.header`
   z-index: 50;
   padding-top: 20px;
   text-align: center;
-`;
+`
 
 const ReadNextCardHeaderSitetitle = styled.small`
   display: block;
   font-size: 1.3rem;
   line-height: 1.3em;
   opacity: 0.8;
-`;
+`
 
 const ReadNextCardHeaderTitle = styled.h3`
   margin: 0;
@@ -73,7 +73,7 @@ const ReadNextCardHeaderTitle = styled.h3`
   a:hover {
     text-decoration: none;
   }
-`;
+`
 
 const ReadNextDivider = styled.div`
   position: relative;
@@ -89,7 +89,7 @@ const ReadNextDivider = styled.div`
     stroke-width: 0.5px;
     stroke-opacity: 0.65;
   }
-`;
+`
 
 const ReadNextCardContent = styled.div`
   position: relative;
@@ -133,7 +133,7 @@ const ReadNextCardContent = styled.div`
   li a:hover {
     opacity: 1;
   }
-`;
+`
 
 const ReadNextCardFooter = styled.footer`
   position: relative;
@@ -143,7 +143,7 @@ const ReadNextCardFooter = styled.footer`
   a {
     color: #fff;
   }
-`;
+`
 
 export interface ReadNextProps {
   tags: string[];

@@ -75,12 +75,12 @@ const SubscribeOverlay = styled.div`
 
     -webkit-font-smoothing: subpixel-antialiased;
   }
-`;
+`
 
 const Open = css`
   opacity: 1;
   pointer-events: auto;
-`;
+`
 
 const SubscribeOverlayClose = styled.a`
   position: absolute;
@@ -119,7 +119,7 @@ const SubscribeOverlayClose = styled.a`
   :hover {
     cursor: default;
   }
-`;
+`
 
 const SubscribeOverlayContent = styled.div`
   position: relative;
@@ -128,14 +128,14 @@ const SubscribeOverlayContent = styled.div`
   padding: 4vw;
   color: #fff;
   text-align: center;
-`;
+`
 
 const SubscribeOverlayTitle = styled.h1`
   display: inline-block;
   margin: 0 0 10px 0;
   font-size: 6rem;
   line-height: 1.15em;
-`;
+`
 
 const SubscribeOverlayDescription = styled.p`
   margin: 0 auto 50px;
@@ -145,7 +145,7 @@ const SubscribeOverlayDescription = styled.p`
   line-height: 1.3em;
   font-weight: 300;
   opacity: 0.8;
-`;
+`
 
 interface SubscribeState {
   isOpen: boolean;

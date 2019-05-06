@@ -382,7 +382,7 @@ export const PostFullContent = styled.section`
       display: none;
     }
   }
-`;
+`
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,

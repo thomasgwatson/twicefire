@@ -27,28 +27,28 @@ const PostCardStyles = css`
     transition: all 0.4s ease;
     transform: translate3D(0, -1px, 0) scale(1.02);
   }
-`;
+`
 
 const PostCardImageLink = css`
   position: relative;
   display: block;
   overflow: hidden;
   border-radius: 5px 5px 0 0;
-`;
+`
 
 const PostCardImage = styled.div`
   width: auto;
   height: 200px;
   background: ${colors.lightgrey} no-repeat center center;
   background-size: cover;
-`;
+`
 
 const PostCardContent = styled.div`
   flex-grow: 1;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-`;
+`
 
 const PostCardContentLink = css`
   position: relative;
@@ -60,7 +60,7 @@ const PostCardContentLink = css`
   :hover {
     text-decoration: none;
   }
-`;
+`
 
 const PostCardTags = styled.span`
   display: block;
@@ -71,22 +71,22 @@ const PostCardTags = styled.span`
   font-weight: 500;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-`;
+`
 
 const PostCardTitle = styled.h2`
   margin-top: 0;
-`;
+`
 
 const PostCardExcerpt = styled.section`
   font-family: Georgia, serif;
-`;
+`
 
 const PostCardMeta = styled.footer`
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
   padding: 0 25px 25px;
-`;
+`
 
 const AuthorList = styled.ul`
   display: flex;
@@ -94,7 +94,7 @@ const AuthorList = styled.ul`
   margin: 0;
   padding: 0;
   list-style: none;
-`;
+`
 
 const AuthorListItem = styled.li`
   position: relative;
@@ -136,7 +136,7 @@ const AuthorListItem = styled.li`
     opacity: 1;
     transform: translateY(0px);
   }
-`;
+`
 
 const AuthorNameTooltip = styled.div`
   position: absolute;
@@ -159,7 +159,7 @@ const AuthorNameTooltip = styled.div`
   @media (max-width: 650px) {
     display: none;
   }
-`;
+`
 
 const StaticAvatar = css`
   display: block;
@@ -169,7 +169,7 @@ const StaticAvatar = css`
   height: 34px;
   border: #fff 2px solid;
   border-radius: 100%;
-`;
+`
 
 const AuthorProfileImage = styled.img`
   display: block;
@@ -179,7 +179,7 @@ const AuthorProfileImage = styled.img`
   background: ${lighten('0.1', colors.lightgrey)}
   border-radius: 100%;
   object-fit: cover;
-`;
+`
 
 const ReadingTime = styled.span`
   flex-shrink: 0;
@@ -190,7 +190,7 @@ const ReadingTime = styled.span`
   font-weight: 500;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-`;
+`
 
 export interface PostCardProps {
   post: PageContext;

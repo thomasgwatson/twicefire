@@ -475,7 +475,7 @@ h6 {
 body {
   background: #f4f8fb;
 }
-`;
+`
 
 interface IndexProps {
   className?: string;
