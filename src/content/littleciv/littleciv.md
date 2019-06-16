@@ -135,7 +135,7 @@ What I have not seriously appreciated in the past was the translation of numbers
 
 ## Decision
 
-What hedges I am personally making ultimately come down to where I am now in my life, and how that tracks against the opportunities to transform society and the risk of collapse. As I have mentioned above, if transformation by choice (heading to a net negative carbon society) is going to happen, it has to happen soon; within the next 15 years at the latest. Politically and financially, I will continue to look for the best opportunities to push for that outcome in the context of "Big Civ"; [Changing government policy](https://www.catf.us/donate/), movement building, [making cities more sustainable](https://twicefire.com/summerschool/), experiments in climate technology, and [supporting coordinating bodies](https://www.rainforestcoalition.org/) as a sample. Beyond that, I will be researching, and where appropriate, investing in other masteries and knowledge that is more useful in a "Little Civ" context. Soil restoration, reforestation, permaculture, precision ag, disaster preparation, food preservation, landscaping, gardening, water management, do-it-yourself skills, etc. And the prospects of community building for and during hard-times. It is certain that at least some of this research/effort will be a dead-end, and there is a risk that none of it will be optimal if I never use it. However, it is my hedge, to be somewhat prepared for later action if required. And, to continue to regulate my balance between different civilizational outlooks, I need to carve out times and conditions for updating my forecasts.
+What hedges I am personally making ultimately come down to where I am now in my life, and how that tracks against the opportunities to transform society and the risk of collapse. As I have mentioned above, if transformation by choice (heading to a net negative carbon society) is going to happen, it has to happen soon; within the next 15 years at the latest. Politically and financially, I will continue to look for the best opportunities to push for that outcome in the context of "Big Civ"; [Changing government policy](https://www.catf.us/donate/), movement building, [making cities more sustainable](https://twicefire.com/summerschool/), experiments in climate technology, and [supporting coordinating bodies](https://www.rainforestcoalition.org/) as a sample. Beyond that, I will be researching, and where appropriate, investing in other masteries and knowledge that is more useful in a "Little Civ" context. Soil restoration, reforestation, permaculture, precision ag, disaster preparation, food preservation, landscaping, gardening, water management, do-it-yourself skills, are all example topics/masteries. And especially; the prospects of community building for and during hard-times. It is certain that at least some of this research/effort will be a dead-end, and there is a risk that any particular topic will not be optimal use of my time. However, it will all go into my attempt at hedging options for future possibilities, to be somewhat prepared for later action if required. And, to continue to regulate my balance between different civilizational outlooks, I need to carve out times and conditions for updating my forecasts.
 
 ![break](../img/Thepathforward.jpg)
 
@@ -154,8 +154,13 @@ Separate from this post, I am compiling a compendium of links, articles, argumen
 - Methane, and whether we have tracked down its unexplained emissions growth ([maybe it is just systemic under-reporting](http://news.cornell.edu/stories/2019/06/industrial-methane-emissions-are-underreported-study-finds))
 - Large Power conflict
 - Negative emissions technology; innovation, adoption and success (or lack thereof)
-- Geo-engineering; political and technological change
-- Nuclear power; political change
-- Introduction of carbon taxes/credits
+- Geo-engineering; adoption/rejection/breakthroughs
+- Nuclear power; adoption/rejection/breakthroughs
+- Introduction and effectiveness of carbon taxes/credits
+- How are nations [tracking against their Paris Agreement commitments](https://climateactiontracker.org/countries/)? 
 
 ![break](../img/shoreline.png)
+
+## What will the future look like?
+Every movie or story of the future has some mix of Big, Little, Survival and Future civ in it. And they are all wrong, in the sense that that isn't how the future will be. While I might illustrate hypothetical futures in later posts, that cannot be because I think that is how things will go down. But such hypotheticals might be useful for folks that are struggling to envision what might occur in specific contexts. Since we are largely familiar with "Big Civ", future examples are likely to be Little Civ focused or hybrids. I hope any readers of this post will have a new model to assess how folks are orienting around climate chaos and a redoubled curiosity about how we can
+work to both avoid collapse and prepare for its possibility.
