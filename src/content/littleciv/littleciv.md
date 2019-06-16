@@ -37,13 +37,13 @@ What was the big thing we came away with from our planning and forecasting? The 
 To be clear, this end is not the death of humanity per se; but it is the end of our current relationship to the earth, of current economics, consumption, and energy. And it will end either by a radical transformation of society and the global economy or 'the end' will be forced upon us by systemic failures of economies and societies across the globe (bought on by ecosystem collapse, more frequent 'natural' disasters/harvest failures, and increasing competition for resources/water/land). Forecasts need specific conditions, distinct time limits and defined probabilities in order for them to be fairly evaluated/judged in the future. Defining what conditions meet the the-world-as-we-know-it-will-end criteria is not very specific with my description so far but I can offer some initial time limits and defined possibilities to begin with, and see if I update over the course of detailing my thoughts.
 
 To begin, the chance of the-world-as-we-know-it-will-end if we stick to current policies is:
-- 90% by or before 2100
-- 70% by or before 2090
-- 53% by or before 2080
-- 35% by or before 2070
-- 28% by or before 2060
-- 22% by or before 2050
-- 17% by or before 2040
+- 84% by or before 2100
+- 69% by or before 2090
+- 55% by or before 2080
+- 44% by or before 2070
+- 34% by or before 2060
+- 25% by or before 2050
+- 18% by or before 2040
 - 12% by or before 2030
 
 These are somewhat nebulous forecasts by their nature, due to the scale of factors and complexity of their inter-relation; they are certainly not built up from the ground level on quantified data. Primarily they integrate the 'transformation by choice' and the less desirable 'transformation by collapse' outcomes. I am rating the likelihood of radical transformation as low throughout the whole century, decreasing as we approach the end of the century. Largely because it is systematically challenging to achieve, and then later in the century it will be too late to avoid 'transformation by collapse' anyway (although still worth it to soften the blow). Getting every major polluting nation to radically shift their behavior, requires practically each of them to come to that place via their internal politics (since international coordination continues to be sorely hampered). It's a lot of separate battles that need to be won, and we are still in a serious hole if even a handful continue to pollute. This *could* be mitigated if other polluters go beyond zero net emissions to significant net negative emissions. 'Transformation by collapse' encapsulates a network of interconnected outcomes; famine from multiple 'breadbasket' failures, conflicts over resources, ecosystem failure, large scale geopolitical conflicts going 'hot', higher frequency of 'natural' disasters, migration/displacement pressures triggered by all of the above. The criteria for 'transformation by collapse' is the partial or full failure of the international political and economic order; a sustained break-down in globalized trade (including prolonged global depression), sustained break-down in globalized political stability or a large proportion (50%+) of the world in sustained conflict and/or sustained economic depression.
