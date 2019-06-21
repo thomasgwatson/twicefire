@@ -261,6 +261,7 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
         />
         {width && <meta property="og:image:width" content={width} />}
         {height && <meta property="og:image:height" content={height} />}
+        <base target="_blank" href="https://twicefire.com/"/>
       </Helmet>
       <Wrapper className={`${PostTemplate}`}>
         <header className={`${SiteHeader} ${outer}`}>

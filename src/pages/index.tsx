@@ -115,6 +115,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
         <meta name="twitter:site" content={`@${config.twitter.split('https://twitter.com/')[0]}`} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
+        <base target="_blank" href="https://twicefire.com/"/>
       </Helmet>
       <Wrapper>
         <header
