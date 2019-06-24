@@ -5,7 +5,7 @@ title: "Big Civilization and Little Civilization"
 author: Tom Watson
 tags: ["littleciv"]
 image: ../img/sun.jpg
-date: "2018-06-15T23:46:37.121Z"
+date: "2019-06-24T23:46:37.121Z"
 ---
 
 ## We all know a change is coming
