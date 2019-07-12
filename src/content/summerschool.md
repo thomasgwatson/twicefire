@@ -1,9 +1,9 @@
 ---
 layout: post
-excerpt: "Words are delightfulI am very excited about this news! I found out in early February that the Santa Fe Institute (SFI) was offering the course in July 2019 and was immediately fascinated."
+excerpt: "I am very excited about this news! I found out in early February that the Santa Fe Institute (SFI) was offering the course in July 2019 and was immediately fascinated."
 title: "Going to the Global Sustainability Summer School"
 author: Tom Watson
-tags: ["news"]
+tags: ["news", "gsss"]
 image: img/santafe.jpg
 date: "2019-04-02T23:46:37.121Z"
 ---
