@@ -12,23 +12,6 @@ This is a first-reactions and follow-up post for my [Big Civ & Little Civ post](
 
 ---
 
-#### Close circle friends
-I shared the post and got early feedback by directly approaching a selection of folks close to me. Unsurprisingly, many I first shared it with I would consider folks that are sympathetic and open to the topics discussed in the post (although none are into forecasting per se), and generally have lots of overlap with me in terms of world outlook and interests. Of course, if folks already have a high degree of world-view overlap, they are often already primed to understand one another, compared to sharing information/thoughts between any given two people. So, to see if one's writing and thoughts are clearer in a more general sense, one must share in wider circles.
-
-![break](../img/icon.jpg)
-
-#### Wider circle (via social media)
-Compared to prior posts of my dancing or rites-of-passage youth mentorship (both shorter and more 'agreeable' content), my Little Civ post got relatively little attention, reaction or click-through. A few of my more contrarian wider circle folk appreciated it, and shared but in general, it did not catch much attention. No feedback is difficult to parse. Was it too boring, too long, too unpalatable, too numeric, etc or a combination of all of the above? Has the Facebook algorithm figured out that all I am posting on their platform is links out of their domain, and thus encouraging folks to spend less time on their platform? Who knows! On to the next group.
-
-![break](../img/icon.jpg)
-
-#### Deep Adaptation
-I wanted to get feedback from folks who are de facto forecasting Big Civilization collapse risks as coming much sooner than I am. The Deep Adaptation movement is such a group. Loosely defined, it is a broad group of folks that are concerned by or certain of civilizational collapse occurring as a result climate chaos, and trying to deeply adapt to that. It includes folks that believe in near-term-human-extinction (NTHE) on one extreme, to folks that see collapse as probable in the next 10-15 years, to folks like myself that are concerned about collapse risk in the coming decades/century.
-
-Did this community have other data, other models, or other analyses as to why collapse will or might happen sooner than anticipated ([beyond the original paper, certainly worth a read](http://lifeworth.com/deepadaptation.pdf))? While more of this community clicked-through to the post, there still was not much substantial feedback generated, aside from a few affirmations (again, that I do greatly appreciate).
-
-![break](../img/agateNorthHigh.JPG)
-
 #### Slate Star Codex
 The open discussion threads of [Slate Star Codex](https://slatestarcodex.com/) are a critique heavy space for wading into almost any hot or intellectual topic of the day. A decent discussion kicked off when I posted in the correct discussion thread, dying off when I could not reply during a lovely seven day spell in different wilderness areas (photos of which I use as visual breaks in my posts).
 
@@ -56,6 +39,23 @@ These analyses were conducted at the end of a 12-15 year 'plateau' in warming, o
 In the last five years there has been a considerable spike in global mean temperature, ~0.4C in a few years (2011-2016), and then another drop of ~0.15C (2016-2018), according to the [NASA data](https://climate.nasa.gov/vital-signs/global-temperature/). This variability over short time periods (between 5 and 20 years) is only surprising if you have a very simple mental model of how the temperature increase is happening, or will be predicted to happen over time. Given the last five or so years of data, talk of the 'pause' has died down, even amongst climate science skeptics, [for example, Judith Curry](https://judithcurry.com/?s=pause). 
 
 [Two](https://iopscience.iop.org/article/10.1088/1748-9326/aaf372) [studies](https://iopscience.iop.org/article/10.1088/1748-9326/aaf342) published at the end of 2018 also comprehensively delved into the question of whether the measurements and the models diverge, and whether the 'pause' exists. They conclude no such 'pause' occurred, and that the models and temperature records do not significantly diverge over the long term. Hopefully when I post this back to the SSC open treads, I will be able to get a little more critique and feedback on these studies.
+
+![break](../img/agateNorthHigh.JPG)
+
+#### Close circle friends
+I shared the post and got early feedback by directly approaching a selection of folks close to me. Unsurprisingly, many I first shared it with I would consider folks that are sympathetic and open to the topics discussed in the post (although none are into forecasting per se), and generally have lots of overlap with me in terms of world outlook and interests. Of course, if folks already have a high degree of world-view overlap, they are often already primed to understand one another, compared to sharing information/thoughts between any given two people. So, to see if one's writing and thoughts are clearer in a more general sense, one must share in wider circles.
+
+![break](../img/icon.jpg)
+
+#### Wider circle (via social media)
+Compared to prior posts of my dancing or rites-of-passage youth mentorship (both shorter and more 'agreeable' content), my Little Civ post got relatively little attention, reaction or click-through. A few of my more contrarian wider circle folk appreciated it, and shared but in general, it did not catch much attention. No feedback is difficult to parse. Was it too boring, too long, too unpalatable, too numeric, etc or a combination of all of the above? Has the Facebook algorithm figured out that all I am posting on their platform is links out of their domain, and thus encouraging folks to spend less time on their platform? Who knows! On to the next group.
+
+![break](../img/icon.jpg)
+
+#### Deep Adaptation
+I wanted to get feedback from folks who are de facto forecasting Big Civilization collapse risks as coming much sooner than I am. The Deep Adaptation movement is such a group. Loosely defined, it is a broad group of folks that are concerned by or certain of civilizational collapse occurring as a result climate chaos, and trying to deeply adapt to that. It includes folks that believe in near-term-human-extinction (NTHE) on one extreme, to folks that see collapse as probable in the next 10-15 years, to folks like myself that are concerned about collapse risk in the coming decades/century.
+
+Did this community have other data, other models, or other analyses as to why collapse will or might happen sooner than anticipated ([beyond the original paper, certainly worth a read](http://lifeworth.com/deepadaptation.pdf))? While more of this community clicked-through to the post, there still was not much substantial feedback generated, aside from a few affirmations (again, that I do greatly appreciate).
 
 ![break](../img/icon.jpg)
 
