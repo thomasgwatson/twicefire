@@ -32,11 +32,11 @@ class StreetArtMap extends React.Component {
   render() {
     return (
       <div style={{width: '100%', height: '100vh', display: 'relative'}}>
-          <Measure
-            render={({ width, height }) => (
-              <Map width={width} height={height} layers={[layer]} />
-            )}
-          />
+        <Measure
+          render={({ width, height }) => (
+            <Map width={width} height={height} layers={[layer]} />
+          )}
+        />
       </div>
     )
   }

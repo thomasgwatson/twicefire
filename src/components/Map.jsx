@@ -48,8 +48,8 @@ class Map extends Component {
 
   render() {
     const { longitude, latitude, zoom, pitch, bearing } = this.state
-    const { minZoom, maxZoom, width, height, children, layers } = this.props
-    const viewport = { width, height, longitude, latitude, zoom, pitch, bearing }
+    const { minZoom, maxZoom, children, layers } = this.props
+    const viewport = { width: "100%", height: "100%", longitude, latitude, zoom, pitch, bearing }
 
     return (
       <MapGL
@@ -73,8 +73,6 @@ Map.propTypes = {
   maxLongitude: PropTypes.number,
   minLatitude: PropTypes.number,
   maxLatitude: PropTypes.number,
-  width: PropTypes.number,
-  height: PropTypes.number,
   longitude: PropTypes.number,
   latitude: PropTypes.number,
   zoom: PropTypes.number,
