@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "This is the first post in a short series of reflections about my time at the Santa Fe Institute's Global Sustainability Summer School. More directed at those in the cohort!"
+excerpt: "This is the second post in a short series of reflections about my time at the Santa Fe Institute's Global Sustainability Summer School."
 title: "Run and done: My wrap up for the GSSS 2019"
 author: Tom Watson
 tags: ["gsss"]
