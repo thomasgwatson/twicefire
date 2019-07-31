@@ -4,7 +4,7 @@ excerpt: "I am going to dive into outlining a generic mental model for what orga
 title: "A generic mental model for geo-data acquisition"
 author: Tom Watson
 tags: []
-image: img/unused/sun.jpg
+image: img/sun.jpg
 date: "2019-02-16T23:46:37.121Z"
 draft: false
 ---
