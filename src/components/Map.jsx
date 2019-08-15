@@ -88,9 +88,9 @@ Map.defaultProps = {
   minLatitude: -90,
   maxLatitude: 90,
   maxBounds: [[], []],
-  longitude: -94.1629,
-  latitude: 34.5133,
-  zoom: 3,
+  longitude: -122.1629,
+  latitude: 37.8133,
+  zoom: 9,
   layers: [],
 }
 
