@@ -96,7 +96,7 @@ Indicator: Global carbon markets
 
 Tracked by: I do not currently have meta-review resources to track progress on this.
 
-![break](../img/watchlist/citywalls.jpg)
+![break](../img/watchlist/citywalls.JPG)
 
 ### Land-use <a name="land"></a>
 
