@@ -200,5 +200,5 @@ Tracked by: I do not currently have meta-review resources to track progress on t
 
 ![break](../img/watchlist/ocean.jpg)
 
-Thanks it for now! Donate to effective climate causes (I donate about 5% of my income), support organizations that seek a regenerative relationship to the land, ocean and nature. PUSH politicians and government services at ALL levels to organize coherent climate policies. Don't let the wish-wash of random happening get you down; focus on the long-term picture (even though it is tough!) and keep pushing to find ways to create the opportunity for a better relationship to our global ecology!
+That's it for now! Donate to effective climate causes (I donate about 5% of my income), support organizations that seek a regenerative relationship to the land, ocean and nature. PUSH politicians and government services at ALL levels to organize coherent climate policies. Don't let the wish-wash of random happening get you down; focus on the long-term picture (even though it is tough!) and keep pushing to find ways to create the opportunity for a better relationship to our global ecology!
 
