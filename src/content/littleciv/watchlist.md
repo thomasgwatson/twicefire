@@ -33,17 +33,17 @@ The intention for the watch-list will be to continue to find good quality interv
 ##### The Watch List
 
   - __Interventions__
-    - [Built-environment](#built)
-    - [Clean Energy](#clean)
-    - [Societal Cost of Emissions](#carbonprice)
-    - [Land-use](#land)
-    - [Net Negative Emissions Techniques](#net)
-    - [Human factors](#human)
+    - Built-environment
+    - Clean Energy
+    - Societal Cost of Emissions
+    - Land-use
+    - Net Negative Emissions Techniques
+    - Human factors
   - __Signals__
-    - [Global Metrics](#metrics)
-    - [The Amazon](#amazon)
-    - [Ice](#ice)
-    - [Ocean Health](#oceanhealth)
+    - Global Metrics
+    - The Amazon
+    - Ice
+    - Ocean Health
     
 ### Built-environment <a name="built"></a>
 
