@@ -5,7 +5,7 @@ title: "The Watch List"
 author: Tom Watson
 tags: ["littleciv", "gsss"]
 image: ../img/watchlist/settingsun.jpg
-date: "2019-08-22T13:46:37.121Z"
+date: "2019-08-27T13:46:37.121Z"
 ---
 
 To avoid getting wrapped up and paralysed by the daily tumble of climate chaos, we need a longer-term perspective. This watch list is my attempt at that longer view. The watch list's goal is to be a list of big-impact interventions and signals pertaining to the climate challenge, ideally with indicators for their state and a link to someone/something that is tracking that state at consistent intervals. It should be something I can come back to periodically to get a recap of the biggest trackable climate chaos factors, with some consistency of comparison from year to year. Without a watch list, it will be too easy for me (or anyone for that matter) to get lost in the weeds and tumble of ad-hoc climate reporting, and my daily life & responsibilities. Why do folks get lost and struggle to direct their actions and thinking about climate matters?
