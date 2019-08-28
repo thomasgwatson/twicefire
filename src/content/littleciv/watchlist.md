@@ -63,6 +63,7 @@ Indicator: Global level of green building adoption
 
 Tracked by: [Global Green Building Council Status Reports](https://www.worldgbc.org/news-media)
 
+
 ![break](../img/watchlist/built.jpg)
 
 ### Clean Energy <a name="clean"></a>
@@ -78,6 +79,7 @@ What to watch in this domain:
 Indicator: Global adoption of clean energy and phasing out of fossil fuels
 
 Tracked by: [REN21 Global Status Reports](https://www.ren21.net/reports/global-status-report/)
+
 
 ![break](../img/watchlist/solar.jpg)
 
@@ -116,6 +118,7 @@ Indicators: I don't think there are globally recognised ways of comparing the le
 Tracked by: I do not currently have meta-review resources to track progress on this.
 
 ![break](../img/watchlist/land.jpg)
+
 
 ### Net Negative Emissions Techniques <a name="net"></a>
 
@@ -184,6 +187,7 @@ Trackers:
 
 ![break](../img/watchlist/snow.jpg)
 
+
 ### Ocean health <a name="oceanhealth"></a>
 The oceans represent a huge part of earth's ecology that we tend to literally just skim over the surface of. It is a huge thermal and chemical buffer in the global ecology; it has absorbed a lot of energy and CO<sub>2</sub> over the centuries since industrialization. We do risk that it will become less capable of acting as this buffer, and that significant system wide chaos and change will stem from changes to the oceans.
 
@@ -199,6 +203,7 @@ Indicators: Ocean health metrics including change in oxygen content, agricultura
 Tracked by: I do not currently have meta-review resources to track progress on this.
 
 ![break](../img/watchlist/ocean.jpg)
+
 
 That's it for now! Donate to effective climate causes (I donate about 5% of my income), support organizations that seek a regenerative relationship to the land, ocean and nature. PUSH politicians and government services at ALL levels to organize coherent climate policies. Don't let the wish-wash of random happening get you down; focus on the long-term picture (even though it is tough!) and keep pushing to find ways to create the opportunity for a better relationship to our global ecology!
 
