@@ -58,6 +58,7 @@ We ascended the stairs of the amphitheater, where at the top we could catch view
 > Think of your boyhood, and all that went into it
 >
 > Think of your parents, who may be here right now, or where-ever they might be, and all their dreams and hopes for you. 
+
 ![down there](/img/downthere.jpg)
 
 Then Chaise, positioned behind the boys, begun from another direction:
