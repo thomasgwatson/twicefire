@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "What does it mean to be 'initiated'? And what does that have to do with the concept of being an adult?"
+excerpt: "What does it mean to be 'initiated'? And what does that have to do with adulthood?"
 title: "Initiation and Adulthood"
 author: Tom Watson
 tags: ["priors", "rites of passage"]
