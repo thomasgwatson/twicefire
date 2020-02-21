@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 06 Nov 2019 00:49:29 GMT</lastBuildDate><item><title><![CDATA[Initiation and Adulthood]]></title><description><![CDATA[Particularly over the last year, I have regularly revisited the ideas of ‘marking’ and ‘initiation’ in discussion with my youth group and…]]></description><link>https://twicefire.com/priors/initiation/</link><guid isPermaLink="false">https://twicefire.com/priors/initiation/</guid><pubDate>Tue, 05 Nov 2019 17:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Particularly over the last year, I have regularly revisited the ideas of ‘marking’ and ‘initiation’ in discussion with my youth group and with others in my life. The frame of these discussions was almost always around the teenage context of the lads in the group. But recently, in part due to a wry comment from one of the youth, I have been thinking about the broader context of initiation, what it means to be initiated into adulthood and where is that initiation meant to lead us.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Feb 2020 13:53:19 GMT</lastBuildDate><item><title><![CDATA[My dream mobile workflow for Roam Research]]></title><description><![CDATA[What is Roam Research? Roam is a web application for note-taking, focusing on structuring one’s notes in a graph (a network, instead of in a…]]></description><link>https://twicefire.com/mobileroam/</link><guid isPermaLink="false">https://twicefire.com/mobileroam/</guid><pubDate>Fri, 21 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h3&gt;What is Roam Research?&lt;/h3&gt;
+&lt;p&gt;Roam is a web application for note-taking, focusing on structuring one’s notes in a graph (a network, instead of in a hierarchy or linear log, the most common mainstream note taking structures). It makes this easy to jump into by starting with a “Daily Notes” section, and by encouraging easy bi-directional linking of topics and pages via hashtags and simple linking shortcuts.&lt;/p&gt;
+&lt;p&gt;I’m not sure how I found out about it, aside from it coming from Twitter but Nate Eliason’s &lt;a href=&quot;https://www.nateliason.com/blog/roam&quot;&gt;“Roam: Why I love it and how I use it”&lt;/a&gt; piece was a big inflection point for me giving Roam a go. If you are doing any sort of writing, research or interested in knowledge management, I would give it a crack.&lt;/p&gt;
+&lt;p&gt;I am writing today to talk about how I &lt;em&gt;imagine&lt;/em&gt; I would like to use the mobile app, which is in the works for Roam.&lt;/p&gt;
+&lt;h2&gt;What would I want out of a mobile app?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Daily notes being available would be an MVP for me&lt;/strong&gt; And the ability to view my db, even if there isn’t &lt;em&gt;yet&lt;/em&gt; a smooth way to update/edit (just my preconception of mobile, harder to do input). This would basically fill the use-case of wanting to be able to quickly put up references/notes on the go.&lt;/p&gt;
+&lt;h4&gt;However, I anticipate note-taking from other sources on mobile to be tricky.&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;At the moment, I can only meaningfully tackle my reading backlog on a desktop/laptop browser&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full figured reading, video watching or podcast listening in one screen&lt;/li&gt;
+&lt;li&gt;2nd screen or fast gesture-flick to 2nd virtual desktop to write notes in roam research web app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;But it is likely that replicating this workflow on mobile will be a disaster.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No 2nd screen, and I have concerns about the clunkiness of switching back and forth on mobile&lt;/li&gt;
+&lt;li&gt;Hotkeys and shortcuts on mobile? Oh boy… Even using # to tag will be a burden on most mobile ‘keyboards’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;So, does one opt for a modified workflow?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Assuming attention and screen time focused on the primary source (Often Pocket for me, Or twitter)…&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My initial thought is integrating the “share” system functionality into a note-taking session&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 922px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/24f4e64042f09f8f60bca967b79d6126/b4514/share.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 46.85466377440348%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHsBpNJS//EABgQAAMBAQAAAAAAAAAAAAAAAAABAjES/9oACAEBAAEFAqpnVCx7On//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAABEDEA/9oACAEBAAY/AodEX//EABoQAQACAwEAAAAAAAAAAAAAAAEAERAxcbH/2gAIAQEAAT8hAtJDR6lkXib+Y//aAAwDAQACAAMAAAAQ5A//xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAEDAQE/EIdX/8QAFhEAAwAAAAAAAAAAAAAAAAAAECEx/9oACAECAQE/EFR//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECExof/aAAgBAQABPxALrGiklMSL0Ko0Ok3gedj/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;share&quot;
+        title=&quot;share&quot;
+        src=&quot;/static/24f4e64042f09f8f60bca967b79d6126/b4514/share.jpg&quot;
+        srcset=&quot;/static/24f4e64042f09f8f60bca967b79d6126/8c376/share.jpg 293w,
+/static/24f4e64042f09f8f60bca967b79d6126/34012/share.jpg 585w,
+/static/24f4e64042f09f8f60bca967b79d6126/b4514/share.jpg 922w&quot;
+        sizes=&quot;(max-width: 922px) 100vw, 922px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hitting this opens a system dialogue that allows one to select an app to share the snippet to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 567px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ffbadde9049f693a5448088e81f72101/e3919/roam-share.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 104.23280423280423%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABu7XmZLCechaAf//EAB0QAAICAgMBAAAAAAAAAAAAAAECAAMSFAQRIjH/2gAIAQEAAQUC1K+xxa5qpC2Jrcll+Y+lpQET/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgIDAQAAAAAAAAAAAAAAASEAAhAxURH/2gAIAQEABj8C2YjabMJsh2WFgA094ZXIT5j/xAAaEAADAQEBAQAAAAAAAAAAAAAAARExIVHB/9oACAEBAAE/Iauu/lOrFvRR+oiA49MxQabgZvtRjpnRlrCTzbdVWGD/2gAMAwEAAgADAAAAEKTfPP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EME7n//EABcRAAMBAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QHl//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMZFRYXHR8P/aAAgBAQABPxBW05sbOs1W0gjT1i6H9x9YXBgHMV4w5QOIiOfX7xgJPxDcrQYSEI24jNcxJsDt7xXdX5z/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;roam share&quot;
+        title=&quot;roam share&quot;
+        src=&quot;/static/ffbadde9049f693a5448088e81f72101/e3919/roam-share.jpg&quot;
+        srcset=&quot;/static/ffbadde9049f693a5448088e81f72101/8c376/roam-share.jpg 293w,
+/static/ffbadde9049f693a5448088e81f72101/e3919/roam-share.jpg 567w&quot;
+        sizes=&quot;(max-width: 567px) 100vw, 567px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One would then hit Roam, with a conditional:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;if there is an active note-session, the snippet is saved and the user is returned to the primary app&lt;/li&gt;
+&lt;li&gt;if there is no active note-session, the user is dropped into the Roam app to activate a session, with the first snippet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maybe the system dialogue can allow multiple sharing options, so you have a ‘save’ action to press and a ‘edit/tag’ action for each of these workflows…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And just like that, we would have taken a quick note in roam that requires minimal context switching&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Some further questions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Would this flow work in the iOS context (for the sake of the Roam devs…)?&lt;/li&gt;
+&lt;li&gt;Does the “share” system functionality include metadata about the source of the share that RoamResearch can make automated use of? Looking for ease of adding metadata to a note-taking session&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does the concept of a “session” warrant inclusion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Allows for some predefined tags to be dropped in but also adds overhead&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Do we extend a note-taking “session” to recording audio and time stamping notes/photos?&lt;/li&gt;
+&lt;li&gt;Do these note-sessions go into an optional queue for further processing/tagging or will it work fine just getting dumped into the bi-directional linking of one’s Roam graph?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That is about the extent of my thoughts for the day on this. What sort of mobile workflows would suit your situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Initiation and Adulthood]]></title><description><![CDATA[Particularly over the last year, I have regularly revisited the ideas of ‘marking’ and ‘initiation’ in discussion with my youth group and…]]></description><link>https://twicefire.com/priors/initiation/</link><guid isPermaLink="false">https://twicefire.com/priors/initiation/</guid><pubDate>Tue, 05 Nov 2019 17:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Particularly over the last year, I have regularly revisited the ideas of ‘marking’ and ‘initiation’ in discussion with my youth group and with others in my life. The frame of these discussions was almost always around the teenage context of the lads in the group. But recently, in part due to a wry comment from one of the youth, I have been thinking about the broader context of initiation, what it means to be initiated into adulthood and where is that initiation meant to lead us.&lt;/p&gt;
 &lt;p&gt;Before the &lt;a href=&quot;https://twicefire.com/ritesofpassage/marking/&quot;&gt;marking ceremony&lt;/a&gt; last month, the group arrived at John Hinkel Park and we orientated them to the space. I explained to the boys that for the ceremony, we would have the youth or uninitiated on one side of the amphitheater and the adults (the implicit assumption being that they are ‘initiated’) would sit on the other side. One of the lads slyly commented at this point:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;My Dad should be sitting with us then&lt;/p&gt;
