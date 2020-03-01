@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Feb 2020 13:53:19 GMT</lastBuildDate><item><title><![CDATA[My dream mobile workflow for Roam Research]]></title><description><![CDATA[What is Roam Research? Roam is a web application for note-taking, focusing on structuring one’s notes in a graph (a network, instead of in a…]]></description><link>https://twicefire.com/mobileroam/</link><guid isPermaLink="false">https://twicefire.com/mobileroam/</guid><pubDate>Fri, 21 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h3&gt;What is Roam Research?&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 01 Mar 2020 15:58:22 GMT</lastBuildDate><item><title><![CDATA[Adjacency: making sense of the context our communities swim in]]></title><description><![CDATA[What Is Adjacency? What does it mean when I say I’m witch-adjacent? Or NFL-adjacent? Or that I live in a Christian-adjacent society. Well…]]></description><link>https://twicefire.com/priors/adjacency/</link><guid isPermaLink="false">https://twicefire.com/priors/adjacency/</guid><pubDate>Sat, 29 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;What Is Adjacency?&lt;/h2&gt;
+&lt;p&gt;What does it mean when I say I’m witch-adjacent? Or NFL-adjacent? Or that I live in a Christian-adjacent society. Well, simply, it means I am near those things (adjacent to them), and I am impacted by them whether or not I identify with them. If I did identify strongly with them, I’d say things like “I’m a witchy-boi”, “I’m pumped for this Superbowl matchup” or “Jesus is the reason for the season”. But often we are adjacent to things that we don’t strongly identify with. And while our sense-making is obviously impacted by our primary interests and identities, these adjacent secondary and tertiary aspects of our communities seep into and impact our lives. I have been thinking about this recently as a way of reflecting on my relationship to different communities I am a part of, and also pondering how adjacency impacts our sense of belonging in community.&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;&lt;em&gt;Epistemic status: Speculative. This piece is about both the ways I have seen ****-adjacent used in the wild and also how I have started using it in my thinking. If you know of academic or other writing that digs into what I am describing, please direct me that way&lt;/em&gt;&lt;sub/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 794px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e5ef5141de2ddf2404ec4d57266ead5c/b5d85/tennessee.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.72795969773299%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB0g75Wp1f/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECEQMEEhP/2gAIAQEAAQUChliPZXdlChZ5pn//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8BpT//xAAaEAACAgMAAAAAAAAAAAAAAAABEAARMUFR/9oACAEBAAY/AsytdYC//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERMSH/2gAIAQEAAT8hj6qgqm5odPRLBVmRm7D/2gAMAwEAAgADAAAAENvf/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EBS//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAf/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITGBUWH/2gAIAQEAAT8QJ2iDDJdkU3WvIVgEdIw3E+MRRkRuNcmRoJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mount&quot;
+        title=&quot;mount&quot;
+        src=&quot;/static/e5ef5141de2ddf2404ec4d57266ead5c/b5d85/tennessee.jpg&quot;
+        srcset=&quot;/static/e5ef5141de2ddf2404ec4d57266ead5c/8c376/tennessee.jpg 293w,
+/static/e5ef5141de2ddf2404ec4d57266ead5c/34012/tennessee.jpg 585w,
+/static/e5ef5141de2ddf2404ec4d57266ead5c/b5d85/tennessee.jpg 794w&quot;
+        sizes=&quot;(max-width: 794px) 100vw, 794px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h6&gt;What is an example of how I can apply the idea of adjacency?&lt;/h6&gt;
+&lt;p&gt;I started writing about adjacency over the last month, and was chuffed when an example of it just popped up in a conversation last week. I was visiting Berlin for the first time, and catching up with an old acquaintance, Danny&lt;em&gt;, who had moved there two years prior. He shared that he had really enjoyed getting deep into the salsa&lt;/em&gt; community in Berlin, went to salsa events across Europe and even was teaching classes but that despite obviously sharing an interest in salsa with the people in that community, he hadn’t really connected with folks from the community deeply. He felt like there wasn’t enough connective overlap of other interests in the community that he shared, and was curious if the dance/movement events I had gone to in my Berlin week would be a more fruitful in this regard. &lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;&lt;em&gt;* not their real name, nor the relevant dance community&lt;/em&gt;&lt;sub/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He had intuitively described one of the key scenarios that had shaped my thinking about adjacency: how our choice (or circumstance) of different communities/interests can shape our sense of belonging and the quality of our connections with folks, depending on the adjacent qualities of that community. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this instance, Danny was probably seeking a community that was more burner-adjacent or more personal-growth-adjacent, than the dance community he had invested in for two years. Equipped with the idea of adjacency, Danny will hopefully be able to more readily figure out if other movement communities will offer a better chance at deeper connection. How to navigate broad social investments as an individual is just one facet of how the idea of adjacency has been tumbling around in my head. The other main facet is the relevance of adjacency when one is trying to build a community; a facet that I will return to later. First I want to lay out some of the qualities or patterns I am linking to this concept of adjacency.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 660px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/78cbd3028fb715f6f51ba295684be4e4/1d5f3/mount.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 91.36363636363637%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAbJ5skdVwqybwsNz/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAExAREiIx/9oACAEBAAEFAgU5r0bZlpJDiXxfMf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB0QAAICAQUAAAAAAAAAAAAAAAABAhESICExMkH/2gAIAQEABj8Cxxs4o3UWWexZ0Wj/xAAcEAACAQUBAAAAAAAAAAAAAAABEQAhMUFRYSD/2gAIAQEAAT8hLSJLBgWQ7IaiSWG3LQqlSkJReQdwbF74P//aAAwDAQACAAMAAAAQxAgA/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQIf/aAAgBAwEBPxBG7Of/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EBLkZ//EAB0QAQACAwEAAwAAAAAAAAAAAAEAESExQYFRYXH/2gAIAQEAAT8Q2VnSHme1mMiU3kL6blANO1Y3OiuOHkUIDOz8V32AFOGKKX5E9OGVglvzP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mount&quot;
+        title=&quot;mount&quot;
+        src=&quot;/static/78cbd3028fb715f6f51ba295684be4e4/1d5f3/mount.jpg&quot;
+        srcset=&quot;/static/78cbd3028fb715f6f51ba295684be4e4/8c376/mount.jpg 293w,
+/static/78cbd3028fb715f6f51ba295684be4e4/34012/mount.jpg 585w,
+/static/78cbd3028fb715f6f51ba295684be4e4/1d5f3/mount.jpg 660w&quot;
+        sizes=&quot;(max-width: 660px) 100vw, 660px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;What are some of the qualities of adjacency?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Communities have explicit or implicit primary affiliations of either geography, theme and/or social clique. Adjacency favors the other, secondary, qualities of a community.&lt;/li&gt;
+&lt;li&gt;Adjacency is about what is near, in both a geographic and a network sense. In prior ages, ones neighbours and surrounding cultures were adjacent and influenced our communities and selves (yes, this is very obvious, bear with me). We might still have had strong network adjacency to trade partners, for example. With the modern density of cities and increased ways of being networked (easier to travel, internet connectivity, etc), network adjacency is more prominent in our lives. The people we know and the hobbies, workplaces and activities we travel to tend to have a bigger influence than the folks on our street.&lt;/li&gt;
+&lt;li&gt;I have seen some uses of adjacency (for example, a figure being described as socialist-adjacent), that imply that the figure views the stated adjacent quality positively. I do not want to confine adjacency to this narrow usage.&lt;/li&gt;
+&lt;li&gt;We tend to have varying low-level stances on things we are adjacent to; acceptance, avoidance, rejection. At times these stances mount into something with more weight.&lt;/li&gt;
+&lt;li&gt;Consequently, adjacency is a great path towards openly embracing something, if we come to like or accept it. However it can also feel imposing or suffocating. &lt;/li&gt;
+&lt;li&gt;For example, in the USA, queer folk as a cohort have been becoming more public about their queer identity over the last few decades. More communities and places are becoming queer-adjacent in some form. This has increased the perceived adjacency of queerness across the population, and has overall led to a significant change in accepting attitudes towards queer-folk. Yes, this progress is real, and yes, there are still people that get upset about crossing rainbow patterned cross-walks. This tiny intrusion into their sense-making space is bringing obscured/latent homophobia in some communities to the surface.&lt;/li&gt;
+&lt;li&gt;The size and density of a community (what city, what suburb, what work, what community group, what household) tends to inversely scale with the strength or weakness of adjacent affiliations in that community. Just by being in Salt Lake City, I might be exposed to the Mormon faith (a gentle Mormon-adjacency) but my incidental exposure could shift dramatically based on more specific choices about neighbourhood, work place, community group, hobbies, etc, even if I never expressly factor Mormonism into my decision making process.&lt;/li&gt;
+&lt;li&gt;Generally the volume of adjacent qualities in a community scales slightly super-linearly with its size and density. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Right! Hopefully now you have a more fleshed out sense of what adjacency is. How can we use adjacency in our sense-making? I will delve into that question in tomorrow’s piece on using adjacency in our sense-making and decision-making.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My dream mobile workflow for Roam Research]]></title><description><![CDATA[What is Roam Research? Roam is a web application for note-taking, focusing on structuring one’s notes in a graph (a network, instead of in a…]]></description><link>https://twicefire.com/mobileroam/</link><guid isPermaLink="false">https://twicefire.com/mobileroam/</guid><pubDate>Fri, 21 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h3&gt;What is Roam Research?&lt;/h3&gt;
 &lt;p&gt;Roam is a web application for note-taking, focusing on structuring one’s notes in a graph (a network, instead of in a hierarchy or linear log, the most common mainstream note taking structures). It makes this easy to jump into by starting with a “Daily Notes” section, and by encouraging easy bi-directional linking of topics and pages via hashtags and simple linking shortcuts.&lt;/p&gt;
 &lt;p&gt;I’m not sure how I found out about it, aside from it coming from Twitter but Nate Eliason’s &lt;a href=&quot;https://www.nateliason.com/blog/roam&quot;&gt;“Roam: Why I love it and how I use it”&lt;/a&gt; piece was a big inflection point for me giving Roam a go. If you are doing any sort of writing, research or interested in knowledge management, I would give it a crack.&lt;/p&gt;
 &lt;p&gt;I am writing today to talk about how I &lt;em&gt;imagine&lt;/em&gt; I would like to use the mobile app, which is in the works for Roam.&lt;/p&gt;
