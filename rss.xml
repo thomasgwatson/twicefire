@@ -1,4 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 01 Mar 2020 15:58:22 GMT</lastBuildDate><item><title><![CDATA[Adjacency: making sense of the context our communities swim in]]></title><description><![CDATA[What Is Adjacency? What does it mean when I say I’m witch-adjacent? Or NFL-adjacent? Or that I live in a Christian-adjacent society. Well…]]></description><link>https://twicefire.com/priors/adjacency/</link><guid isPermaLink="false">https://twicefire.com/priors/adjacency/</guid><pubDate>Sat, 29 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;What Is Adjacency?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 09 Apr 2020 03:14:42 GMT</lastBuildDate><item><title><![CDATA[Fork-in-the-Path]]></title><description><![CDATA[Got a lot on your mind about how things might pan out in the future? Sometimes it is really worth the time to map out the ways you are…]]></description><link>https://twicefire.com/2020/forkinpath/</link><guid isPermaLink="false">https://twicefire.com/2020/forkinpath/</guid><pubDate>Wed, 08 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Got a lot on your mind about how things might pan out in the future? Sometimes it is really worth the time to map out the ways you are making sense of a situation, to tease out the nuance, the gaps, the relationships and the key factors in how things might unfold. Fork-in-the-path is my attempt at structuring that.&lt;/p&gt;
+&lt;p&gt;The goal of the fork-in-the-path is to identify some big questions you have about a handful of key interleaving issues and map out how they will shift over time.
+These issues could span from the personal, household-level, community, state/province, nation-state, region, global and beyond.&lt;/p&gt;
+&lt;p&gt; It is a thought-exercise, best conducted with a sprinkle of forecasting, some risk and impact assessments and some poetic license. You are mapping out your sense-making space, hopefully in a way that will help you uncover gaps in your thinking.&lt;/p&gt;
+&lt;p&gt; &lt;sub&gt;&lt;em&gt;Epistemic status: Trying out an explicit scenario building exercise, roughly influenced by my dubious professional past in the intelligence community and recent hobby forecasting.&lt;/em&gt;&lt;sub/&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5&gt;First, identify the interleaving scopes, often as questions&lt;/h5&gt;
+&lt;p&gt;The different questions do need to have some relationship to one another. Otherwise, why include them in the same exercise? For example&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens with X during this time&lt;/li&gt;
+&lt;li&gt;How does the relationship between X and Y shift?&lt;/li&gt;
+&lt;li&gt;What is happening in the wider region that X and Y are operating?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Second, identify the time chunks you want to focus on&lt;/h5&gt;
+&lt;p&gt;These chunks should be different sizes: the further away from now they represent, the larger the chunk. This is a built-in hedge against the reality that projections of how things might go in the future are more susceptible to chaos.
+For example, building out a fork-in-the-path at the start of April:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;April/May&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;June/July/August&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sep/Oct/Nov/Dec&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Q1/Q2 Next year&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chunks are imprecise, they are a little messy. The boundaries between them are defined but events/phenomena we are projecting can cross those boundaries with ease. Don’t get too worked up on the details for now.  &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Third, map the time chunks to the questions&lt;/h5&gt;
+&lt;p&gt;And just start vibing on them. Punch out assertions and possible forks first, don’t (yet) stress about linking them to references etc.
+It is easy to get bogged down or side-tracked; just keep throwing assertions under the different time chunks for a question. If you are slowing down because you are hitting big cleaves in your thinking “But things could looks really different if this key situation changes”, then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a median branch (the default branch)&lt;/li&gt;
+&lt;li&gt;Create a sub-branch for under that same time chunk with a catchy name&lt;/li&gt;
+&lt;li&gt;Add the assertions specific to that scenario&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Actually, if you aren’t hitting branches in your different time chunks, especially those further away(should be more common the further you are projecting into the future), you should really question that: Am I too confident in my rough narrative for how things will go? &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Fourth, scan, vet and backfill&lt;/h5&gt;
+&lt;p&gt; If time allows it, give yourself a few days to come back to this part with fresh eyes. After your frenzied assertion writing and scenario wilding, we need to make time to slow down and pick things apart. Did I comment on a facet in one place but it is missing elsewhere (don’t fall into the trap of feeling like you have to touch on EVERY topic in every time chunk)? Are there key assertions that one should question or research? Are there easy links or references to add to source material?&lt;/p&gt;
+&lt;h5&gt;Fifth: Profit!&lt;/h5&gt;
+&lt;p&gt;You’ve just created a snapshot of your sense-making! This is its own separate process that you can then plug into something else you are doing or want to do. What are some ways you can build off this?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reflection and learning;&lt;/strong&gt; treat this like a particularly structured journal piece. Come back to it and reflect on how your sense-making in the past didn’t end up making sense or really did! Remember, we can only make sense of the world with the views and information we hold at the time, be gentle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Forecasting question generation;&lt;/strong&gt; Generate sets of forecasting questions that are related to these interleaving domains but that are targeted, somewhat measurable and time specific. Then you can run your own forecasting exercise (I know everyone’s dream, right?).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make decisions based on your sense-making;&lt;/strong&gt; Don’t forget, you are defacto doing this anyway ;) If you are considering big decisions, best to add some rigor to all this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Key assertions need extra attention, try to reference/vet all of them&lt;/li&gt;
+&lt;li&gt;Add a few forecasts for each time-chunk, to keep you honest as time progresses&lt;/li&gt;
+&lt;li&gt;Identify how your decision making would be impacted by different branching through the time-chunks&lt;/li&gt;
+&lt;li&gt;Figure out what decisions you might need to make, and how changes in conditions will make them necessary, redundant or otherwise influence them.&lt;/li&gt;
+&lt;li&gt;If any of these decisions require some legwork or preparation, include that in your writeup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hopefully I’ll have a real-life example to show off shortly!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Adjacency: making sense of the context our communities swim in]]></title><description><![CDATA[What Is Adjacency? What does it mean when I say I’m witch-adjacent? Or NFL-adjacent? Or that I live in a Christian-adjacent society. Well…]]></description><link>https://twicefire.com/priors/adjacency/</link><guid isPermaLink="false">https://twicefire.com/priors/adjacency/</guid><pubDate>Sat, 29 Feb 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;What Is Adjacency?&lt;/h2&gt;
 &lt;p&gt;What does it mean when I say I’m witch-adjacent? Or NFL-adjacent? Or that I live in a Christian-adjacent society. Well, simply, it means I am near those things (adjacent to them), and I am impacted by them whether or not I identify with them. If I did identify strongly with them, I’d say things like “I’m a witchy-boi”, “I’m pumped for this Superbowl matchup” or “Jesus is the reason for the season”. But often we are adjacent to things that we don’t strongly identify with. And while our sense-making is obviously impacted by our primary interests and identities, these adjacent secondary and tertiary aspects of our communities seep into and impact our lives. I have been thinking about this recently as a way of reflecting on my relationship to different communities I am a part of, and also pondering how adjacency impacts our sense of belonging in community.&lt;/p&gt;
 &lt;p&gt;&lt;sub&gt;&lt;em&gt;Epistemic status: Speculative. This piece is about both the ways I have seen ****-adjacent used in the wild and also how I have started using it in my thinking. If you know of academic or other writing that digs into what I am describing, please direct me that way&lt;/em&gt;&lt;sub/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
