@@ -1,4 +1,219 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 13 Apr 2020 00:26:04 GMT</lastBuildDate><item><title><![CDATA[Fork-in-the-Path: COVID19; USA, California and the World edition]]></title><description><![CDATA[What a fork-in-the-path process looks like Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition…]]></description><link>https://twicefire.com/2020/forkcovid/</link><guid isPermaLink="false">https://twicefire.com/2020/forkcovid/</guid><pubDate>Sat, 11 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h4&gt;What a fork-in-the-path process looks like&lt;/h4&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Sep 2020 03:23:38 GMT</lastBuildDate><item><title><![CDATA[Van House Power trouble-shooting]]></title><description><![CDATA[Writing out my house power/battery situation and my different options. Pile in with opinions as you like Brief context: 2001 Ford E35…]]></description><link>https://twicefire.com/van/housepower/</link><guid isPermaLink="false">https://twicefire.com/van/housepower/</guid><pubDate>Thu, 10 Sep 2020 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Writing out my house power/battery situation and my different options. Pile in with opinions as you like&lt;/p&gt;
+&lt;h4&gt;Brief context:&lt;/h4&gt;
+&lt;p&gt;2001 Ford E350 Econoline. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Probably converted to SMB in 2002/2003 (1st owner)&lt;/li&gt;
+&lt;li&gt;Original setup detailed in the owners manual: engine battery + engine alternator + engine inverter, house battery (thermoil 1427), house inverter with Trace Engineering RC6 panel, house generator slung under van. Fridge, water pump, microwave, Starcool house AC (not that we use it), house lights, 12v outlets, US plug outlets etc on house power/battery.&lt;/li&gt;
+&lt;li&gt;1st owner added solar panel, connected to Kyocera Commander IV unit, I assume after initial build (no details in owners manual)&lt;/li&gt;
+&lt;li&gt;2nd owner switched in LED lights across house to limit power draw.&lt;/li&gt;
+&lt;li&gt;2nd owner has also replaced battery at least once. Not sure what brand but assuming typical 200 amp hour RV battery (Deka or … LifeLong?? Whats the other common one?). The house battery is slung under the barn doors. Its a unit; best removed with a jack.&lt;/li&gt;
+&lt;li&gt;Me, 3rd owner, still figuring out what each of these system components does and represents&lt;/li&gt;
+&lt;li&gt;Engine battery voltage has always been strong, from the dash readout. Maybe up to 14v or 15v? It reliably charges the house battery, acknowledging that this charging can be slower if things like the van AC are running.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, when received in March 2020, the battery seemed solid and the solar panel was pushing about 2 solar amps into the system on a good day (best I ever saw was 2.5 solar amps; its a fairly old panel and its small).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7f2e53262f51f80ae040b9b73a31dc9/8b975/breitenbush.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.67676767676768%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABoFoNQUIf/8QAGBABAQEBAQAAAAAAAAAAAAAAAgEAIRL/2gAIAQEAAQUCC4TaoDcx0lb2pv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABgRAAIDAAAAAAAAAAAAAAAAAAARARIh/9oACAECAQE/AViKSf/EABoQAAICAwAAAAAAAAAAAAAAAAABEBESMUL/2gAIAQEABj8CcdRsrJn/xAAdEAACAgEFAAAAAAAAAAAAAAABEQAhMUFhgZGx/9oACAEBAAE/IbQFshWoIvAs7QO7cGHsEprK+wDp2T//2gAMAwEAAgADAAAAEGA//8QAFhEAAwAAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EFWQ/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARMf/aAAgBAgEBPxCohrB//8QAGxABAQADAQEBAAAAAAAAAAAAAREAITFBUXH/2gAIAQEAAT8Q37FBDZ1xVa3d2R5+4flvUYuBSapLx+4wVRNQVwIgnNs//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;breitenbush campground&quot;
+        title=&quot;breitenbush campground&quot;
+        src=&quot;/static/c7f2e53262f51f80ae040b9b73a31dc9/0e916/breitenbush.jpg&quot;
+        srcset=&quot;/static/c7f2e53262f51f80ae040b9b73a31dc9/8c376/breitenbush.jpg 293w,
+/static/c7f2e53262f51f80ae040b9b73a31dc9/34012/breitenbush.jpg 585w,
+/static/c7f2e53262f51f80ae040b9b73a31dc9/0e916/breitenbush.jpg 1170w,
+/static/c7f2e53262f51f80ae040b9b73a31dc9/8b975/breitenbush.jpg 1584w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;sub&gt;The Graceful Tripper&lt;/sub&gt;&lt;/h5&gt;
+&lt;h4&gt;Issues&lt;/h4&gt;
+&lt;p&gt;However, now I suspect at possibly three issues at play:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fault between panel and Kyocera; Now the Kyocera shows 0 solar amps at all times&lt;/li&gt;
+&lt;li&gt;battery misbehaving; doesn’t seem to hold much charge&lt;/li&gt;
+&lt;li&gt;House inverter misbehaving; I can get charge into the battery when the engine is running but not when the generator is running&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On our first small trips, we weren’t consciously managing power or thinking too hard about how much driving we were doing. Between the solar panel, driving, and messing around with the generator, we weren’t really paying attention to battery levels. I have memories of the Kyocera and the RC6 reading the battery voltage as high as 13 or 13.5ish &lt;em&gt;but&lt;/em&gt; I can’t recall whether we were running the engine or generator at the time (which would then we telling us about the voltage output of the engine/gen-set, not the battery)
+We have just returned from a longer trip (4 weeks roughly), and this is where these issues started to bubble up.&lt;/p&gt;
+&lt;p&gt;For one thing, we went backpacking for four days and three nights in the middle Sierras (at the very start of the trip). I wanted to test whether the battery would last that long, keeping the fridge on. The idea of a reheated curry at the trailhead was certainly enticing! Unfortunately, it didn’t last and we lost the curry. :(
+But after that, I started to notice some of these issues with the house battery. I was working under the assumption that the inverter would protect the house battery from load when it got too low (as described in the owner manual) but perhaps that was incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ba905917abd7a2a30e2d33baa7623cec/6aeb6/backpacking.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.99705014749262%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAQswk4x//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAECAxITITH/2gAIAQEAAQUChUcTOXyHoXWf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABgQAAIDAAAAAAAAAAAAAAAAAAEQESAx/9oACAEBAAY/AjJW0//EABoQAAMBAQEBAAAAAAAAAAAAAAABIRFBMVH/2gAIAQEAAT8hStunz6eXKa2NF4GEPD//2gAMAwEAAgADAAAAEGPP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QZ//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxCwn//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQZGh/9oACAEBAAE/ECzShXon3FjF9NS4vvtTjAIEJxjwMR0jkxGjRn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;backpacking&quot;
+        title=&quot;backpacking&quot;
+        src=&quot;/static/ba905917abd7a2a30e2d33baa7623cec/0e916/backpacking.jpg&quot;
+        srcset=&quot;/static/ba905917abd7a2a30e2d33baa7623cec/8c376/backpacking.jpg 293w,
+/static/ba905917abd7a2a30e2d33baa7623cec/34012/backpacking.jpg 585w,
+/static/ba905917abd7a2a30e2d33baa7623cec/0e916/backpacking.jpg 1170w,
+/static/ba905917abd7a2a30e2d33baa7623cec/a849f/backpacking.jpg 1755w,
+/static/ba905917abd7a2a30e2d33baa7623cec/6aeb6/backpacking.jpg 2034w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;sub&gt;Rae Lakes Loop&lt;/sub&gt;&lt;/h5&gt;
+&lt;h6&gt;Discovering that something was up&lt;/h6&gt;
+&lt;p&gt;After the backpacking, we drove 6 hours home and after a few days at home (getting our motorcycle carrier setup), we also drove another 4 hours.&lt;/p&gt;
+&lt;p&gt;In the second week of the trip, we parked the van near Mt Shasta for several days and I noticed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The generator would not charge the house battery, only the engine (I had assumed the generator did charge the battery). The generator would still power the house appliances though (microwave being the very obvious example)&lt;/li&gt;
+&lt;li&gt;In fact, the RC6 unit lights for bulk or float charge never come on.&lt;/li&gt;
+&lt;li&gt;The solar panel was no longer showing any solar amps coming out of it what so ever.&lt;/li&gt;
+&lt;li&gt;After a day, the battery couldn’t keep the fridge on overnight (despite running the engine and generator for over an hour to recharge it)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 964px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/24f59f13898fa37166d7c7ddcaf780cd/40862/tracerc6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.53941908713692%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZLWaiUAf//EABwQAAEEAwEAAAAAAAAAAAAAAAIAAQMSBBETFP/aAAgBAQABBQISKvQ2UxWKPHuPkUzaP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAfEAACAQIHAAAAAAAAAAAAAAAAAQIQMhESISJBkaH/2gAIAQEABj8CW6XZdIXOgnmwL/Kf/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITHB/9oACAEBAAE/ITAF2Qwf9szVVIrgL6HkxYXxhwPJzf/aAAwDAQACAAMAAAAQ28//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBGf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EAT/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGxkf/aAAgBAQABPxARKC4AJom1C2nsAKEC1bY5kCuu/YwrRXfL2A7eo9FpP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Trace Engineering RC6 panel&quot;
+        title=&quot;Trace Engineering RC6 panel&quot;
+        src=&quot;/static/24f59f13898fa37166d7c7ddcaf780cd/40862/tracerc6.jpg&quot;
+        srcset=&quot;/static/24f59f13898fa37166d7c7ddcaf780cd/8c376/tracerc6.jpg 293w,
+/static/24f59f13898fa37166d7c7ddcaf780cd/34012/tracerc6.jpg 585w,
+/static/24f59f13898fa37166d7c7ddcaf780cd/40862/tracerc6.jpg 964w&quot;
+        sizes=&quot;(max-width: 964px) 100vw, 964px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;sub&gt;Trace RC6 unit while the engine is running&lt;/sub&gt;&lt;/h5&gt;
+&lt;h6&gt;The journey continued&lt;/h6&gt;
+&lt;p&gt;We got smoked out of Shasta and headed for the Oregon coast (This was mainly a PNW trip). As we bumped up towards North Washington, we had several days with different hours of driving, and I started taking notes about what voltage was coming out of the battery&lt;/p&gt;
+&lt;p&gt;After a longer day of driving (the 23rd), the battery voltage seemed to top out at 12 volts. The next morning (24th), the fridge had dropped it to 9.3. We drove less than 2 hours on the 24th, and the next morning (25th), we only had 7.9 volts and the fridge wasn’t running. On the 26th we drove over four hours, getting the battery to 12 volts at the end of the day and it fell to 7.3 by the next morning (on this morning the RC6 was also flashing strangely… I assume an error code that isn’t listed in the owners manual)&lt;/p&gt;
+&lt;p&gt;After this, we arrived at a relative’s house in Washington, cleared out the fridge and turned it off for a week, with a bunch of driving.&lt;/p&gt;
+&lt;p&gt;In the last week back, we drove more per day, so avoided the fridge conking out. At this point, we were dodging the wildfires in Oregon that were coming up everywhere, and making tracks home to Northern California. The voltage at the end of all that driving (including over 9 hours on the last day) got up to 12.2 volts.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/310da394e1df4bd8fa291dbbdb4f6bf5/a5af8/sidecoast.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.18116520351157%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGVAZgP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAITAQP/2gAIAQEAAQUCXoylymn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIhMlGR/9oACAEBAAY/Arl02zFH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERIXGBof/aAAgBAQABPyFZbhJ6OVRooYn/2gAMAwEAAgADAAAAEAv/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxBtf//EABwQAQACAQUAAAAAAAAAAAAAAAEAESExUXGRof/aAAgBAQABPxAENbS8K4Zgiu+RHqW9Duf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Side view of van at our fav boondock of the trip&quot;
+        title=&quot;Side view of van at our fav boondock of the trip&quot;
+        src=&quot;/static/310da394e1df4bd8fa291dbbdb4f6bf5/0e916/sidecoast.jpg&quot;
+        srcset=&quot;/static/310da394e1df4bd8fa291dbbdb4f6bf5/8c376/sidecoast.jpg 293w,
+/static/310da394e1df4bd8fa291dbbdb4f6bf5/34012/sidecoast.jpg 585w,
+/static/310da394e1df4bd8fa291dbbdb4f6bf5/0e916/sidecoast.jpg 1170w,
+/static/310da394e1df4bd8fa291dbbdb4f6bf5/a849f/sidecoast.jpg 1755w,
+/static/310da394e1df4bd8fa291dbbdb4f6bf5/2be76/sidecoast.jpg 2340w,
+/static/310da394e1df4bd8fa291dbbdb4f6bf5/a5af8/sidecoast.jpg 2506w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;sub&gt;Side view of van at our fav boondock of the trip&lt;/sub&gt;&lt;/h5&gt;
+&lt;h4&gt;Questions&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;What is a healthy voltage range coming out of house battery? I was expecting over 13 volts for a full charge. The RC6 manual states: “A completely dead battery will read about 11.6 volts or less in an at-rest position”. So I suspect something is funky there for sure…&lt;/li&gt;
+&lt;li&gt;Should I expect the generator to charge the house battery?&lt;/li&gt;
+&lt;li&gt;Should one expect a correctly functioning inverter from discharging a house battery to a level that damages it? Again, the RC6 manual states that it ought to do this. But if the inverter is partially busted, perhaps some of its features aren’t working.&lt;/li&gt;
+&lt;li&gt;Could there be a blown fuse between solar panel and Kyocera commander? Or just a bad wire?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Possible actions to take&lt;/h4&gt;
+&lt;p&gt;So, there is a mix of a few different issues here and I need to figure out how to resolve them.
+Some options:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Maintain the battery (check fluid level etc)&lt;/li&gt;
+&lt;li&gt;Replace the battery&lt;/li&gt;
+&lt;li&gt;Switch battery to DIY lithium battery&lt;/li&gt;
+&lt;li&gt;Replace inverter?&lt;/li&gt;
+&lt;li&gt;Upgrade solar panel (I want a bigger panel)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;Maintain or Replace battery&lt;/h6&gt;
+&lt;p&gt;No change to the power setup here; just fixing or replacing stuff. Either way, I would need to figure out how to access the battery. Considering its bulk and position, I would need a hand (or a flat jack) and also I haven’t figured out how to remove the battery from its carry cage under the van. Any links to youtube videos of someone doing that?&lt;/p&gt;
+&lt;h6&gt;Switch to lithium&lt;/h6&gt;
+&lt;p&gt;A friend in Washington has set up their own bespoke lithium setup for their overlanding rig. Getting 2nd hand cells, testing them all, throwing them into a purpose built case and away you go. Well, of course there are important differences between the AGM and lithium batteries (AC/DC stuff I’m not fully aware of) and I suspect I will have to  make changes to the inverter (but if the current one is already busted…)
+Feels like a high effort, high risk, high reward possibility…&lt;/p&gt;
+&lt;h6&gt;Replace the inverter&lt;/h6&gt;
+&lt;p&gt;Given the weird behavior, and the corrosion on the POWER SWITCH (is that the inverter?), I suspect something needs to be sorted on the inverter. Since the generator can still run the appliances but seemingly not charge the battery, I would guess there is a break in the circuit between inverter and house battery. But then how is the fridge pulling volts from the house battery? &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 882px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7eea2dbb907450bfbca10b96192f46dd/38f29/powerswitch.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 90.47619047619047%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGt4mhl4sDLnDRGb//EABsQAAMAAgMAAAAAAAAAAAAAAAABAhESEBMh/9oACAEBAAEFAqWSlUPNFrWa9XWjZkt8f//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB4QAAIABgMAAAAAAAAAAAAAAAABEBESITEyUXGR/9oACAEBAAY/AkkSqNn6WFyLoy4//8QAHRABAQEAAgIDAAAAAAAAAAAAAREAITEQUUFxwf/aAAgBAQABPyFEiN9ybuAidOpyB95JatyqHl8ZQp5AOI/tvYfH/9oADAMBAAIAAwAAABDAAH7/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQMBAT8QmiC48f/EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QNQ5//8QAHRABAQACAwADAAAAAAAAAAAAAREAITFBYVFxof/aAAgBAQABPxA0igVgPXrGFNkeYDBaWIT9yQERXnWAeJixxNDk3yQfJhzA+ljiMtd+YbC71n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;breitenbush campground&quot;
+        title=&quot;breitenbush campground&quot;
+        src=&quot;/static/7eea2dbb907450bfbca10b96192f46dd/38f29/powerswitch.jpg&quot;
+        srcset=&quot;/static/7eea2dbb907450bfbca10b96192f46dd/8c376/powerswitch.jpg 293w,
+/static/7eea2dbb907450bfbca10b96192f46dd/34012/powerswitch.jpg 585w,
+/static/7eea2dbb907450bfbca10b96192f46dd/38f29/powerswitch.jpg 882w&quot;
+        sizes=&quot;(max-width: 882px) 100vw, 882px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;sub&gt;Corrosion on the power switch&lt;/sub&gt;&lt;/h5&gt;
+&lt;h6&gt;Upgrade the solar panel&lt;/h6&gt;
+&lt;p&gt;So, I’ve been wanting to do this since before there were these power issues. I’m not sure whether I’ll have to update the Kyocera Commander unit as well; the ideal would just be taking off the old panel, mounting the new ones on the roof tracks and plugging in new panel(s). However I have a vague recollection that the control unit can also have a big impact on what power you can get out of panels, so an update might be needed anyway?&lt;/p&gt;
+&lt;p&gt;That’s basically where I am at today. Air quality is insanely bad outside right now, so I doubt I’m going to get to any of this on the weekend but I would love to hear from folks about what gaps I have in my understanding or plans.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fork-in-the-Path: COVID19; USA, California and the World edition]]></title><description><![CDATA[What a fork-in-the-path process looks like Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition…]]></description><link>https://twicefire.com/2020/forkcovid/</link><guid isPermaLink="false">https://twicefire.com/2020/forkcovid/</guid><pubDate>Sat, 11 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h4&gt;What a fork-in-the-path process looks like&lt;/h4&gt;
 &lt;p&gt;Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition. This is an example of the scenario mapping exercise, &lt;a href=&quot;https://twicefire.com/2020/forkinpath/&quot;&gt;fork-in-the-path&lt;/a&gt;, that I described earlier this week. This is going to be pretty raw, bulky and not super edited but I want to ‘publish’ it now as a snapshot of my sense-making in this period. The process has already illuminated some big assumptions and assertions for me, that I have already got to research and add more defined shape to my sense-making.&lt;/p&gt;
 &lt;p&gt;This is a look behind what could go into a vetted and extensively polished piece.  This is long and sprawling by nature. Please excuse the mess ;)&lt;/p&gt;
 &lt;p&gt; &lt;span
