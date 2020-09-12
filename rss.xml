@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Sep 2020 03:40:45 GMT</lastBuildDate><item><title><![CDATA[Van House Power trouble-shooting]]></title><description><![CDATA[Writing out my house power/battery situation and my different options. Pile in with opinions as you like Brief context: 2001 Ford E35…]]></description><link>https://twicefire.com/van/housepower/</link><guid isPermaLink="false">https://twicefire.com/van/housepower/</guid><pubDate>Thu, 10 Sep 2020 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Writing out my house power/battery situation and my different options. Pile in with opinions as you like&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Sep 2020 02:03:57 GMT</lastBuildDate><item><title><![CDATA[Van House Power trouble-shooting]]></title><description><![CDATA[Writing out my house power/battery situation and my different options. Pile in with opinions as you like Brief context: 2001 Ford E35…]]></description><link>https://twicefire.com/van/housepower/</link><guid isPermaLink="false">https://twicefire.com/van/housepower/</guid><pubDate>Thu, 10 Sep 2020 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Writing out my house power/battery situation and my different options. Pile in with opinions as you like&lt;/p&gt;
 &lt;h4&gt;Brief context:&lt;/h4&gt;
 &lt;p&gt;2001 Ford E350 Econoline. &lt;/p&gt;
 &lt;ul&gt;
@@ -40,7 +40,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;sub&gt;The Graceful Tripper&lt;/sub&gt;&lt;/h5&gt;
+&lt;h5&gt;&lt;sup&gt;The Graceful Tripper&lt;/sup&gt;&lt;/h5&gt;
 &lt;h4&gt;Issues&lt;/h4&gt;
 &lt;p&gt;However, now I suspect at possibly three issues at play:&lt;/p&gt;
 &lt;ul&gt;
@@ -82,7 +82,7 @@ But after that, I started to notice some of these issues with the house battery.
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;sub&gt;Rae Lakes Loop&lt;/sub&gt;&lt;/h5&gt;
+&lt;h5&gt;&lt;sup&gt;Rae Lakes Loop&lt;/sup&gt;&lt;/h5&gt;
 &lt;h6&gt;Discovering that something was up&lt;/h6&gt;
 &lt;p&gt;After the backpacking, we drove 6 hours home and after a few days at home (getting our motorcycle carrier setup), we also drove another 4 hours.&lt;/p&gt;
 &lt;p&gt;In the second week of the trip, we parked the van near Mt Shasta for several days and I noticed:&lt;/p&gt;
@@ -120,7 +120,7 @@ But after that, I started to notice some of these issues with the house battery.
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;sub&gt;Trace RC6 unit while the engine is running&lt;/sub&gt;&lt;/h5&gt;
+&lt;h5&gt;&lt;sup&gt;Trace RC6 unit while the engine is running&lt;/sup&gt;&lt;/h5&gt;
 &lt;h6&gt;The journey continued&lt;/h6&gt;
 &lt;p&gt;We got smoked out of Shasta and headed for the Oregon coast (This was mainly a PNW trip). As we bumped up towards North Washington, we had several days with different hours of driving, and I started taking notes about what voltage was coming out of the battery&lt;/p&gt;
 &lt;p&gt;After a longer day of driving (the 23rd), the battery voltage seemed to top out at 12 volts. The next morning (24th), the fridge had dropped it to 9.3. We drove less than 2 hours on the 24th, and the next morning (25th), we only had 7.9 volts and the fridge wasn’t running. On the 26th we drove over four hours, getting the battery to 12 volts at the end of the day and it fell to 7.3 by the next morning (on this morning the RC6 was also flashing strangely… I assume an error code that isn’t listed in the owners manual)&lt;/p&gt;
@@ -157,7 +157,7 @@ But after that, I started to notice some of these issues with the house battery.
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;sub&gt;Side view of van at our fav boondock of the trip&lt;/sub&gt;&lt;/h5&gt;
+&lt;h5&gt;&lt;sup&gt;Side view of van at our fav boondock of the trip&lt;/sup&gt;&lt;/h5&gt;
 &lt;h4&gt;Questions&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;What is a healthy voltage range coming out of house battery? I was expecting over 13 volts for a full charge. The RC6 manual states: “A completely dead battery will read about 11.6 volts or less in an at-rest position”. So I suspect something is funky there for sure…&lt;/li&gt;
@@ -210,12 +210,93 @@ Feels like a high effort, high risk, high reward possibility…&lt;/p&gt;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;sub&gt;Corrosion on the power switch&lt;/sub&gt;&lt;/h5&gt;
+&lt;h5&gt;&lt;sup&gt;Corrosion on the power switch&lt;/sup&gt;&lt;/h5&gt;
 &lt;h6&gt;Upgrade the solar panel&lt;/h6&gt;
 &lt;p&gt;So, I’ve been wanting to do this since before there were these power issues. I’m not sure whether I’ll have to update the Kyocera Commander unit as well; the ideal would just be taking off the old panel, mounting the new ones on the roof tracks and plugging in new panel(s). However I have a vague recollection that the control unit can also have a big impact on what power you can get out of panels, so an update might be needed anyway?&lt;/p&gt;
 &lt;p&gt;That’s basically where I am at today. Air quality is insanely bad outside right now, so I doubt I’m going to get to any of this on the weekend but I would love to hear from folks about what gaps I have in my understanding or plans.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.sportsmobileforum.com/forums/f20/van-house-power-trouble-shooting-26974.html#post281313&quot;&gt;Posted this on the Sportsmobile forum&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;And on the &lt;a href=&quot;https://www.facebook.com/groups/63027624960/permalink/10158282697314961&quot;&gt;Sportsmobile facebook group&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fork-in-the-Path: COVID19; USA, California and the World edition]]></title><description><![CDATA[What a fork-in-the-path process looks like Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition…]]></description><link>https://twicefire.com/2020/forkcovid/</link><guid isPermaLink="false">https://twicefire.com/2020/forkcovid/</guid><pubDate>Sat, 11 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h4&gt;What a fork-in-the-path process looks like&lt;/h4&gt;
+&lt;p&gt;And on the &lt;a href=&quot;https://www.facebook.com/groups/63027624960/permalink/10158282697314961&quot;&gt;Sportsmobile facebook group&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 425px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6690d9f85fb79a5255c1c181d12be233/eb9be/fuses-on-panel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.88235294117646%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAIBBAUD/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAAB5l7MDS3ONerHrJTPhAuBvj//xAAcEAACAwEAAwAAAAAAAAAAAAABAgADEhEQIjH/2gAIAQEAAQUCi+LAN11rrKy49KRa0zk8qBSIBlx6D5P/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPwHpROMm/wD/xAAZEQACAwEAAAAAAAAAAAAAAAAAARARE0H/2gAIAQIBAT8B5ZUaJQj/xAAcEAADAAEFAAAAAAAAAAAAAAAAARARAhIhMuH/2gAIAQEABj8Crycao2M6o2jyj2Of/8QAGxAAAwEBAQEBAAAAAAAAAAAAAAERITFBUZH/2gAIAQEAAT8hm1qpfGIxRdJpFqXRqoZqQvdUkHmD5ZAvP4N1MGi3s6MI6Eb9R+YsbP/aAAwDAQACAAMAAAAQ4Aax+8//xAAZEQEBAQADAAAAAAAAAAAAAAABABEhMUH/2gAIAQMBAT8QHMEaNshbTzez23//xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhQTH/2gAIAQIBAT8Qd0Y4cOYNiM4eEf/EAB8QAQEAAgMAAgMAAAAAAAAAAAERACExQVFhcYGRof/aAAgBAQABPxCkdrA3HFinxiIEDmmw4jkLf7MZQ6fNdFuJsn6rgABJrurx+gwRBqGp85zURbhS/Mb1rh+sA+YUUd9e4mALaaTfmHROFH8zJpNozQQd9mf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fuses on panel&quot;
+        title=&quot;fuses on panel&quot;
+        src=&quot;/static/6690d9f85fb79a5255c1c181d12be233/eb9be/fuses-on-panel.jpg&quot;
+        srcset=&quot;/static/6690d9f85fb79a5255c1c181d12be233/8c376/fuses-on-panel.jpg 293w,
+/static/6690d9f85fb79a5255c1c181d12be233/eb9be/fuses-on-panel.jpg 425w&quot;
+        sizes=&quot;(max-width: 425px) 100vw, 425px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 567px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3a763c81cc53551ca0e194500bb39a21/e3919/low-voltage-panel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAa0Iqlwdx5+jNLSo9lUBH//EABsQAAMAAwEBAAAAAAAAAAAAAAABAhETMQMi/9oACAEBAAEFAsjZuk+mKYMQciYQvE2ulIuQkSZP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPwEjHj//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEB/9oACAECAQE/AS4o/wD/xAAdEAACAQQDAAAAAAAAAAAAAAAAAQIQESEyMUFx/9oACAEBAAY/AjLOTYzJXNkS8NkdEle9WOn/xAAfEAADAAEDBQAAAAAAAAAAAAAAAREhQWGBMVFxocH/2gAIAQEAAT8hWJFYEtyOp+EbtKaYHHkbmKf0Gqmo0HpOUfOrcjxi9xaLBNCPUJof/9oADAMBAAIAAwAAABCH9k4AH//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEx/9oACAEDAQE/EDVyhTSPCv/EABoRAAICAwAAAAAAAAAAAAAAAAABEDERIVH/2gAIAQIBAT8QergSMuiuP//EAB4QAQACAQUBAQAAAAAAAAAAAAEAESExUXGRoRBh/9oACAEBAAE/EMI8gM6itVFVc1Ug5ygLU5Q66oq9O4Wnlg5gEdoCOwIjEm4YRyhWGav8larxrUQCAIDiC1227Hf5H//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;low voltage&quot;
+        title=&quot;low voltage&quot;
+        src=&quot;/static/3a763c81cc53551ca0e194500bb39a21/e3919/low-voltage-panel.jpg&quot;
+        srcset=&quot;/static/3a763c81cc53551ca0e194500bb39a21/8c376/low-voltage-panel.jpg 293w,
+/static/3a763c81cc53551ca0e194500bb39a21/e3919/low-voltage-panel.jpg 567w&quot;
+        sizes=&quot;(max-width: 567px) 100vw, 567px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 567px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08cb8296155a1e4715a311e46ca1b253/e3919/RC6-yellow.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcuhypbiEG+KOREMB2kFZ4Cf/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAERIhAyIyQv/aAAgBAQABBQIgmIzLByLTjdSo+nPU5MZWaYkrdQGj8ep//8QAFxEAAwEAAAAAAAAAAAAAAAAAARAgQf/aAAgBAwEBPwExi//EABcRAAMBAAAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8BKqav/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERIQIQIjFBYoH/2gAIAQEABj8C55SV0W4J87jLVHsiH8ZFIRkiz//EAB8QAQACAgICAwAAAAAAAAAAAAEAETFBUWEhcaHB8P/aAAgBAQABPyFUU6Ec+FjMhxEAgFKVLfmOgmnL9y6eOx65iixR6ua3T6jiTfAzYVNMdxzEFx4IALFuLn//2gAMAwEAAgADAAAAEKTkwfPf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxAY2MuNk8f/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EEyCVYWP/8QAIBABAAIBBAMBAQAAAAAAAAAAAQARITFBUWFxgfCRwf/aAAgBAQABPxBG0uEx94h4JTGweN7gZ5JXiGZRGgF3ua5uuLxFWyy85gnhkPU4EdoXFjTor4iroCl7jVFeVbvCEUcqf4eGGfDRvw9dRq6Qe7a/sHIoJ7FSPBktmrU//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;rc6 yellow cable&quot;
+        title=&quot;rc6 yellow cable&quot;
+        src=&quot;/static/08cb8296155a1e4715a311e46ca1b253/e3919/RC6-yellow.jpg&quot;
+        srcset=&quot;/static/08cb8296155a1e4715a311e46ca1b253/8c376/RC6-yellow.jpg 293w,
+/static/08cb8296155a1e4715a311e46ca1b253/e3919/RC6-yellow.jpg 567w&quot;
+        sizes=&quot;(max-width: 567px) 100vw, 567px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fork-in-the-Path: COVID19; USA, California and the World edition]]></title><description><![CDATA[What a fork-in-the-path process looks like Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition…]]></description><link>https://twicefire.com/2020/forkcovid/</link><guid isPermaLink="false">https://twicefire.com/2020/forkcovid/</guid><pubDate>Sat, 11 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h4&gt;What a fork-in-the-path process looks like&lt;/h4&gt;
 &lt;p&gt;Well, hardly unexpected in these times but here it is; Fork-in-the-path COVID19 April edition. This is an example of the scenario mapping exercise, &lt;a href=&quot;https://twicefire.com/2020/forkinpath/&quot;&gt;fork-in-the-path&lt;/a&gt;, that I described earlier this week. This is going to be pretty raw, bulky and not super edited but I want to ‘publish’ it now as a snapshot of my sense-making in this period. The process has already illuminated some big assumptions and assertions for me, that I have already got to research and add more defined shape to my sense-making.&lt;/p&gt;
 &lt;p&gt;This is a look behind what could go into a vetted and extensively polished piece.  This is long and sprawling by nature. Please excuse the mess ;)&lt;/p&gt;
 &lt;p&gt; &lt;span
