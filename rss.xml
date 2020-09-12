@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Sep 2020 02:03:57 GMT</lastBuildDate><item><title><![CDATA[Van House Power trouble-shooting]]></title><description><![CDATA[Writing out my house power/battery situation and my different options. Pile in with opinions as you like Brief context: 2001 Ford E35…]]></description><link>https://twicefire.com/van/housepower/</link><guid isPermaLink="false">https://twicefire.com/van/housepower/</guid><pubDate>Thu, 10 Sep 2020 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Writing out my house power/battery situation and my different options. Pile in with opinions as you like&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 12 Sep 2020 16:27:03 GMT</lastBuildDate><item><title><![CDATA[Van House Power trouble-shooting]]></title><description><![CDATA[Writing out my house power/battery situation and my different options. Pile in with opinions as you like Brief context: 2001 Ford E35…]]></description><link>https://twicefire.com/van/housepower/</link><guid isPermaLink="false">https://twicefire.com/van/housepower/</guid><pubDate>Thu, 10 Sep 2020 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;Writing out my house power/battery situation and my different options. Pile in with opinions as you like&lt;/p&gt;
 &lt;h4&gt;Brief context:&lt;/h4&gt;
 &lt;p&gt;2001 Ford E350 Econoline. &lt;/p&gt;
 &lt;ul&gt;
@@ -293,6 +293,90 @@ Feels like a high effort, high risk, high reward possibility…&lt;/p&gt;
         srcset=&quot;/static/08cb8296155a1e4715a311e46ca1b253/8c376/RC6-yellow.jpg 293w,
 /static/08cb8296155a1e4715a311e46ca1b253/e3919/RC6-yellow.jpg 567w&quot;
         sizes=&quot;(max-width: 567px) 100vw, 567px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 850px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/caa6cd4a9bf1cddccb7ce131e706123a/0c205/Apline.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.23529411764706%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB56aENJBF/8QAGhABAAMBAQEAAAAAAAAAAAAAAQACAxESIf/aAAgBAQABBQLyqZ7VnSZnaikt9f/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAASEyM//aAAgBAQAGPwJqnNmSkZT/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFxUf/aAAgBAQABPyEozX2MAU+RPKWc2Q+1kUpA9ibtM//aAAwDAQACAAMAAAAQm+//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBTP//EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QjFP/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMVFx/9oACAEBAAE/EDq7jQPyoEAmr0B7kXHQBgbhdFhoq9hbwwVS8zwtn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Apline&quot;
+        title=&quot;Apline&quot;
+        src=&quot;/static/caa6cd4a9bf1cddccb7ce131e706123a/0c205/Apline.jpg&quot;
+        srcset=&quot;/static/caa6cd4a9bf1cddccb7ce131e706123a/8c376/Apline.jpg 293w,
+/static/caa6cd4a9bf1cddccb7ce131e706123a/34012/Apline.jpg 585w,
+/static/caa6cd4a9bf1cddccb7ce131e706123a/0c205/Apline.jpg 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 756px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4abd60f316d39e5f9aea39ecb2128b97/96a7a/HI-AMP-BUSS-135A.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.21693121693122%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABjbjR4Lhv/8QAGhAAAwEAAwAAAAAAAAAAAAAAAQIDEQAhMv/aAAgBAQABBQJ1wdAjOU9qAZSlNk//xAAXEQEAAwAAAAAAAAAAAAAAAAAAERJB/9oACAEDAQE/AZ1d/8QAFxEBAAMAAAAAAAAAAAAAAAAAABESQf/aAAgBAgEBPwGMVf/EABoQAAICAwAAAAAAAAAAAAAAAAABAiExQYH/2gAIAQEABj8CMRNHC0JuJ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAIRFBMVFhkaH/2gAIAQEAAT8huW+iGKLDviDX4l2OqTIgU8QSOfU//9oADAMBAAIAAwAAABD83//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQMBAT8QhKkTh//EABURAQEAAAAAAAAAAAAAAAAAABBR/9oACAECAQE/EID/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhUXGh8P/aAAgBAQABPxAj0L2QEitovoLghEwU1L5OIGRxHdaAUfMdlRtX4J//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;low voltage&quot;
+        title=&quot;low voltage&quot;
+        src=&quot;/static/4abd60f316d39e5f9aea39ecb2128b97/96a7a/HI-AMP-BUSS-135A.jpg&quot;
+        srcset=&quot;/static/4abd60f316d39e5f9aea39ecb2128b97/8c376/HI-AMP-BUSS-135A.jpg 293w,
+/static/4abd60f316d39e5f9aea39ecb2128b97/34012/HI-AMP-BUSS-135A.jpg 585w,
+/static/4abd60f316d39e5f9aea39ecb2128b97/96a7a/HI-AMP-BUSS-135A.jpg 756w&quot;
+        sizes=&quot;(max-width: 756px) 100vw, 756px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 850px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8a52138e1ef335249ea3fd45a23eea3c/0c205/traceM2512.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.23529411764706%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFDETFplEv/xAAYEAADAQEAAAAAAAAAAAAAAAAAAQIDEf/aAAgBAQABBQLOFVLM4RTketodU3//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRECEyQWH/2gAIAQEABj8Cn4Pi994lTNSZbZ//xAAYEAEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAQABPyHBGxlRjBRTE7RQRlkYXsyxS1FWf//aAAwDAQACAAMAAAAQBC//xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQMBAT8Qq5//xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQIBAT8QYZ//xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRgcH/2gAIAQEAAT8QWFSXXr4yxYKA3gNeMyzWgdYaIuQ73LcU5S+u4q3ibn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;inverter/charger&quot;
+        title=&quot;inverter/charger&quot;
+        src=&quot;/static/8a52138e1ef335249ea3fd45a23eea3c/0c205/traceM2512.jpg&quot;
+        srcset=&quot;/static/8a52138e1ef335249ea3fd45a23eea3c/8c376/traceM2512.jpg 293w,
+/static/8a52138e1ef335249ea3fd45a23eea3c/34012/traceM2512.jpg 585w,
+/static/8a52138e1ef335249ea3fd45a23eea3c/0c205/traceM2512.jpg 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
