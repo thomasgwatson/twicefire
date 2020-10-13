@@ -24,7 +24,7 @@ Writing out my house power/battery situation and my different options. Pile in w
 So, when received in March 2020, the battery seemed solid and the solar panel was pushing about 2 solar amps into the system on a good day (best I ever saw was 2.5 solar amps; its a fairly old panel and its small).
 
 ![breitenbush campground](/img/breitenbush.jpg)
-##### <sub>The Graceful Tripper</sub>
+##### <sup>The Graceful Tripper</sup>
 
 #### Issues
 However, now I suspect at possibly three issues at play:
@@ -39,7 +39,7 @@ For one thing, we went backpacking for four days and three nights in the middle 
 But after that, I started to notice some of these issues with the house battery. I was working under the assumption that the inverter would protect the house battery from load when it got too low (as described in the owner manual) but perhaps that was incorrect.
 
 ![backpacking](/img/backpacking.jpg)
-##### <sub>Rae Lakes Loop</sub>
+##### <sup>Rae Lakes Loop</sup>
 
 ###### Discovering that something was up
 
@@ -52,7 +52,7 @@ In the second week of the trip, we parked the van near Mt Shasta for several day
 - After a day, the battery couldn't keep the fridge on overnight (despite running the engine and generator for over an hour to recharge it)
 
 ![Trace Engineering RC6 panel](/img/tracerc6.jpg)
-##### <sub>Trace RC6 unit while the engine is running</sub>
+##### <sup>Trace RC6 unit while the engine is running</sup>
 
 ###### The journey continued
 
@@ -65,7 +65,7 @@ After this, we arrived at a relative's house in Washington, cleared out the frid
 In the last week back, we drove more per day, so avoided the fridge conking out. At this point, we were dodging the wildfires in Oregon that were coming up everywhere, and making tracks home to Northern California. The voltage at the end of all that driving (including over 9 hours on the last day) got up to 12.2 volts.
 
 ![Side view of van at our fav boondock of the trip](/img/sidecoast.jpg)
-##### <sub>Side view of van at our fav boondock of the trip</sub>
+##### <sup>Side view of van at our fav boondock of the trip</sup>
 
 #### Questions
 1. What is a healthy voltage range coming out of house battery? I was expecting over 13 volts for a full charge. The RC6 manual states: "A completely dead battery will read about 11.6 volts or less in an at-rest position". So I suspect something is funky there for sure...
@@ -93,7 +93,7 @@ Feels like a high effort, high risk, high reward possibility...
 Given the weird behavior, and the corrosion on the POWER SWITCH (is that the inverter?), I suspect something needs to be sorted on the inverter. Since the generator can still run the appliances but seemingly not charge the battery, I would guess there is a break in the circuit between inverter and house battery. But then how is the fridge pulling volts from the house battery? 
 
 ![breitenbush campground](/img/powerswitch.jpg)
-##### <sub>Corrosion on the power switch</sub>
+##### <sup>Corrosion on the power switch</sup>
 
 ###### Upgrade the solar panel
 So, I've been wanting to do this since before there were these power issues. I'm not sure whether I'll have to update the Kyocera Commander unit as well; the ideal would just be taking off the old panel, mounting the new ones on the roof tracks and plugging in new panel(s). However I have a vague recollection that the control unit can also have a big impact on what power you can get out of panels, so an update might be needed anyway?
@@ -103,3 +103,10 @@ That's basically where I am at today. Air quality is insanely bad outside right 
 [Posted this on the Sportsmobile forum](https://www.sportsmobileforum.com/forums/f20/van-house-power-trouble-shooting-26974.html#post281313)
 
 And on the [Sportsmobile facebook group](https://www.facebook.com/groups/63027624960/permalink/10158282697314961)
+
+![fuses on panel](/img/fuses-on-panel.jpg)
+![low voltage](/img/low-voltage-panel.jpg)
+![rc6 yellow cable](/img/RC6-yellow.jpg)
+![Apline](/img/Apline.jpg)
+![low voltage](/img/HI-AMP-BUSS-135A.jpg)
+![inverter/charger](/img/traceM2512.jpg)
