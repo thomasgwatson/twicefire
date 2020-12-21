@@ -11,7 +11,7 @@ draft: false
 
 Over my working career I have often dealt with large-scale imagery mosaics, built up of satellite and aerial imagery. While I am familiar with the process required to get orthorecitified imagery mosaics for mapping purposes, I had never gone through the whole process myself. But alas, I am not (to my knowledge ;) ) a government agency, scrappy startup or tech enterprise giant with lots of funding! Whatever am I to do? So I researched how feasible it is to make aerial imagery mosaics with as minimal outlay as possible. I was pleasantly surprised at how doable it is today! Finally I could get my personal photo mosaics, 'hand-made', 'bespoke', 'artisan' and 'consciously sourced'! ;P
 
-I love the idea of providing an updated aerial photo mosaic to intentional communities in the region, so this walk-through of how I went through the photo mosaic process follows my attempt at doing this for the first time. I looked at many options for how to do all the pieces of the process and in the end I settled on using my DJI Mavic Pro, Drone Harmony for mission planning and Open Drone Maps. If you aren't a mapping/imagery nerd, buckle up, its going to get jargony at point but the results are worth it!
+I love the idea of providing an updated aerial photo mosaic to intentional communities in the region, so this walk-through of how I went through the photo mosaic process follows my attempt at doing this for the first time. I looked at many options for how to do all the pieces of the process and in the end I settled on using my DJI Mavic Pro, Drone Harmony for mission planning and Open Drone Maps. If you aren't a mapping/imagery nerd, buckle up, it's going to get jargony at points but the results are worth it!
 
 ### Research phase
 Research included checking out a range of open-source and low-cost tooling in the drone mapping space. The minimum three pieces of software needed for drone mapping include mission planning software (how you instruct the drone what needs to be collected), mission control software (how you execute the mission and control the drone in the field) and something to perform the image processing and mosaicing. I did check out a range of options, each of which fulfilled one or more of those roles:
@@ -28,7 +28,7 @@ Following the general adage of "Cost, time and quality: pick two", I was seeking
 ![Selfie](img/opendronemap.png)
 
 ### Mission Planning
-The terrain and features of the area where you want to make an image mosaic unsurprisingly as an impact on mission planning. I wanted to collect over a 90 acre, heavily forested area, that also included some decent elevation change. I also wanted to have a crack at getting a data-set that *could* be processed into a 3D model, even if that was not my overall goal. It'd just be cool to see how easy or hard that was in this day and age! 
+The terrain and features of the area where you want to make an image mosaic unsurprisingly as an impact on mission planning. I wanted to collect over a 80 acre, heavily forested area, that also included some decent elevation change. I also wanted to have a crack at getting a data-set that *could* be processed into a 3D model, even if that was not my overall goal. It'd just be cool to see how easy or hard that was in this day and age! 
 
 Elevation change over the collection area meant I needed to have terrain-aware mission planning. Otherwise, if all the images were taken from the same flight elevation (height above sea level), the relative distance to the ground would be varied across all the images. This could lead to wonky stitching of the mosaic. This helped me pick Drone Harmony over other options; they had an obvious terrain-aware mission planning option.
 
@@ -72,7 +72,9 @@ One thing to note is that the collection area I started with was a large rectang
 As for the image quality while largely decent, there were a bunch of image glitches (often referred to as processing artifacts). Here is a sample, including some wonky tennis court lines and wonky asphalt, and a pool slide that certainly does not curve like *that*.
 
 ![1st tennis](img/1strun-tennis.png)
+
 ![1st road](img/1strun-road.png)
+
 ![1st pool](img/1strun-pool.png)
 
 At this point, I actually rolled out a two week trial for PIX4D and tried the processing there. The big learning from that was the impressive processing metadata report that PIX4D produced, alerting me that more than half the images were unable to be used because of various issues; incorrect sensor pose, lack of GCPs to tie the images together and other issues. The big gap between the two collection missions (to recharge the batteries), with there different shadows, certainly didn't help in this regard.
@@ -97,6 +99,7 @@ And a closeup
 Overall a much better output. You can see the tennis court and pool-slide look normal in images below.
 
 ![2nd tennis](img/lastrun-tennis.png)
+
 ![2nd pool](img/lastrun-pool.png)
 
 And you can see the author here!
@@ -106,11 +109,13 @@ And you can see the author here!
 There are still some interesting artifacts, mainly focused on the challenges provided by the tall trees all over the property. Perhaps these could be worked out I have included some choice cuts of these oddities below.
 
 ![Tree related artifacts](img/lastrun-trees.png)
+
 ![Artifacts near the parking](img/lastrun-parking.png)
 
 The 3D stuff was still weird but showed promise. I might be able to get better results for the 3D outputs by tweaking the processing parameters. 
 
 ![3D snapshot 1](img/last-3d-trip1.png)
+
 ![3D snapshot 1](img/last-3d-trip2.png)
 
 ### The end!
