@@ -96,7 +96,7 @@ And a closeup
 
 ![2nd closeup](img/lastrun-gardenhouse.png)
 
-Overall a much better output. You can see the tennis court and pool-slide look normal in images below.
+Overall a much better output. You can see the tennis court and pool-slide look better in images below.
 
 ![2nd tennis](img/lastrun-tennis.png)
 
@@ -106,7 +106,7 @@ And you can see the author here!
 
 ![Selfie](img/lastrun-authot.png)
 
-There are still some interesting artifacts, mainly focused on the challenges provided by the tall trees all over the property. Perhaps these could be worked out I have included some choice cuts of these oddities below.
+There are still some interesting artifacts, mainly focused on the challenges provided by the tall trees all over the property. Perhaps these could be worked out with some tweaks to the processing. I have included some choice cuts of these oddities below.
 
 ![Tree related artifacts](img/lastrun-trees.png)
 
