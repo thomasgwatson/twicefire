@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 21 Dec 2020 02:37:28 GMT</lastBuildDate><item><title><![CDATA[Making an aerial photo mosaic with a DJI drone, OpenDroneMap and Drone Harmony]]></title><description><![CDATA[Over my working career I have often dealt with large-scale imagery mosaics, built up of satellite and aerial imagery. While I am familiar…]]></description><link>https://twicefire.com/geo/opendronemap/</link><guid isPermaLink="false">https://twicefire.com/geo/opendronemap/</guid><pubDate>Sun, 20 Dec 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Over my working career I have often dealt with large-scale imagery mosaics, built up of satellite and aerial imagery. While I am familiar with the process required to get orthorecitified imagery mosaics for mapping purposes, I had never gone through the whole process myself. But alas, I am not (to my knowledge ;) ) a government agency, scrappy startup or tech enterprise giant with lots of funding! Whatever am I to do? So I researched how feasible it is to make aerial imagery mosaics with as minimal outlay as possible. I was pleasantly surprised at how doable it is today! Finally I could get my personal photo mosaics, ‘hand-made’, ‘bespoke’, ‘artisan’ and ‘consciously sourced’! ;P&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 21 Dec 2020 02:45:33 GMT</lastBuildDate><item><title><![CDATA[Making an aerial photo mosaic with a DJI drone, OpenDroneMap and Drone Harmony]]></title><description><![CDATA[Over my working career I have often dealt with large-scale imagery mosaics, built up of satellite and aerial imagery. While I am familiar…]]></description><link>https://twicefire.com/geo/opendronemap/</link><guid isPermaLink="false">https://twicefire.com/geo/opendronemap/</guid><pubDate>Sun, 20 Dec 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Over my working career I have often dealt with large-scale imagery mosaics, built up of satellite and aerial imagery. While I am familiar with the process required to get orthorecitified imagery mosaics for mapping purposes, I had never gone through the whole process myself. But alas, I am not (to my knowledge ;) ) a government agency, scrappy startup or tech enterprise giant with lots of funding! Whatever am I to do? So I researched how feasible it is to make aerial imagery mosaics with as minimal outlay as possible. I was pleasantly surprised at how doable it is today! Finally I could get my personal photo mosaics, ‘hand-made’, ‘bespoke’, ‘artisan’ and ‘consciously sourced’! ;P&lt;/p&gt;
 &lt;p&gt;I love the idea of providing an updated aerial photo mosaic to intentional communities in the region, so this walk-through of how I went through the photo mosaic process follows my attempt at doing this for the first time. I looked at many options for how to do all the pieces of the process and in the end I settled on using my DJI Mavic Pro, Drone Harmony for mission planning and Open Drone Maps. If you aren’t a mapping/imagery nerd, buckle up, its going to get jargony at point but the results are worth it!&lt;/p&gt;
 &lt;h3&gt;Research phase&lt;/h3&gt;
 &lt;p&gt;Research included checking out a range of open-source and low-cost tooling in the drone mapping space. The minimum three pieces of software needed for drone mapping include mission planning software (how you instruct the drone what needs to be collected), mission control software (how you execute the mission and control the drone in the field) and something to perform the image processing and mosaicing. I did check out a range of options, each of which fulfilled one or more of those roles:&lt;/p&gt;
@@ -88,7 +88,34 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;With the DEM ready, I just needed to outline my mission area, set the parameters for each of my missions, and then sync those missions back to the cloud. Once the plans were synced to the cloud, they were available for me to download on the Drone Harmony mission controller application, which in my case I was running on an Android phone. The regular DJI Mavic Pro setup allows you to control the drone via a combination of hooking your smart phone into the Mavic Pro remote controller. The Drone Harmony mission controller would take over the software role that was usually provided by the DJI flight controller software. After downloading the plans to my Android device, I was ready to fly!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;img/mission-planning.png&quot; alt=&quot;1st mission planning&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 772px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a618cf772b8503e9e52bf713d5772d29/5da30/mission-planning.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.03108808290155%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAGfWCHGoTX/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIREjEy/9oACAEBAAEFAonYqZw4Quvyf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExEHH/2gAIAQEAAT8htpfJn3v2IbTYkw1OT5//2gAMAwEAAgADAAAAEIQP/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBITH/2gAIAQMBAT8Qt6OT/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EIiI/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBof/aAAgBAQABPxBnrJ+QCwPPURKPWyhNY2nuR3SLhps//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;1st mission planning&quot;
+        title=&quot;1st mission planning&quot;
+        src=&quot;/static/a618cf772b8503e9e52bf713d5772d29/5da30/mission-planning.jpg&quot;
+        srcset=&quot;/static/a618cf772b8503e9e52bf713d5772d29/8c376/mission-planning.jpg 293w,
+/static/a618cf772b8503e9e52bf713d5772d29/34012/mission-planning.jpg 585w,
+/static/a618cf772b8503e9e52bf713d5772d29/5da30/mission-planning.jpg 772w&quot;
+        sizes=&quot;(max-width: 772px) 100vw, 772px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;First collection effort&lt;/h3&gt;
 &lt;p&gt;Now, with all my planning, I still didn’t know how the missions that I had built out would fair with the realities of the battery life of my drone. When I launched my first collection effort, I found out that this had a big impact. I needed to fly two missions to get all the data I wanted. I launched the first mission, all very smooth with the Drone Harmony mission controlling app, and watched the drone go to work. As the drone captured image after image, I saw its mission progress matched against its remaining battery. I hadn’t even got to the half-way point of the first mission before I hit the battery limit (about 30%) where I usually land the drone. I pushed the drone to finish just over half way and rushed it back to the landing spot. Landed with less than 10% battery… something that does not feel comfortable at all. &lt;/p&gt;
 &lt;p&gt;I only had two functioning batteries, so now I was going to have a big gap between the collections for my first mission and my second, since I’d need to charge the batteries between them. This would mean I would have two sets of images with very different shadows in them, causing weirdness when they are photo mosaiced and increasing the risk of other image glitches. Boo! I finished the missions anyway, keen to see what the results were like.&lt;/p&gt;
@@ -122,7 +149,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;One thing to note is that the collection area I started with was a large rectangle and this resulting image is an unusual smaller shape. The difference is a result of images that were thick with many homogenous trees. These images could not be meaningfully stitched into the larger mosaic with the other images.&lt;/p&gt;
+&lt;p&gt;One thing to note is that the collection area I started with was a large rectangle and this resulting image is an unusual smaller shape. The difference is a result of images that were thick with many homogenous trees. These images could not be meaningfully stitched into the larger mosaic with the other images. Try stitching a bunch of these together!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
@@ -500,8 +527,62 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The 3D stuff was still weird but showed promise. I might be able to get better results for the 3D outputs by tweaking the processing parameters. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;img/last3d-trip1.png&quot; alt=&quot;3D snapshot 1&quot;&gt;
-&lt;img src=&quot;img/last3d-trip2.png&quot; alt=&quot;3D snapshot 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 911px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1a998c56de7cc6be8899bb7759bee896/5639a/last-3d-trip1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.1668496158068%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAD00lEQVQ4yx2R+zvUaRjGv5RUcoX2KluKcT7OOLNZQomwG5HKYVeGTZoWu2PYcZ6SZjAmaQ6MTLXYwuiKcogtld12u+wv+9P+NZ9988N93e/7PvdzP8/7PNK9B51MPx3hxdIkH15bWVscZWtjgg/rdjbXxvhjzcLSrAHnswG2NyfYXLrH6pyB3A4daVojU9ZWDJ1VmPQ/YjTUIb1ytKIf0dJrus17Ybj9/hHWGRvXDHqWnANsLJpYeKjl1UyPMBtm/kkvDquG9qEeBuwmpsc7KbzZyInablq0pUgbcx1YxnQMmdr5a2OMv9/YmZm3YrIbWJztZ8bRzdXWZu5bOtjeuI9xSEXfnUrajD9hsA2KDjuF1oxae4NcZSVS18BNWg19fFq3sP3WztaKeeebmy+HKW5RE1KjIblJR/cDIwuOXvo6lNRq67htVDFu7aKtowXr6ia1omhsWTHSwfNKykXiv2/H+PjazNbyCH8K860VE2ZbF716NQ7nFJ/++4ep5RckK5vZW9xI6JUbO3Pr0A8wsf6O7Gsqjl5QIrnkNVCnvs67+T5WnQZ+f27g08oIH18O8nHxLm+cd2nv1zDmuMXwYzMVmha+UzcIqJiwtlHY2ELY9xoya+oJLxNL2XX6KnGXr6LT3eSxXcfMoz4mfrMwLrqanjHzzDmBbdJE99AtLJNG5p7qWZ43sSzYbNdjG+9C29VActU1Gno0SMHFNRTW36Cppw3lLxrUPS2kqXvIH5pEP6RjYFAszDyM5YmNkdF+bGP9zC44WFh9zvLKQxacNn6dHsVu62XW0YV0IvcSSSXlZFTW4J1ZREzueQ5lnMe/4BLV1ZeR5xYhE5rU0grq6qspqirn585GmvruUnG9lh+aa6lUqShV1lCvqkJyT8gjLqeAzKISPFPykWLOsi8pXyAPn5Q83ONzkRRncY3NISD9HAkXSogrvYiL/DRS9GmKKopJKfiW2MJSfNIKkKSIDBSnzhD6dQ5u0Zm4iLuHIguXyAyk8Iwd/vwmhQmEpuMWk4lXYjae8dk78WOpZ8i/UsK5i0Xsk58ShrJEJFkSkr/gQMGBibgGJ+MZnbZz/hzfG5HCobiT7ApO4qA8Db+vMjmccJLdIcm4h6WSV/YNUdlZYn4JSAeCFUjHonDxixIcievxaA5FxbMnQM7eQAXeYfHsD1JwRBGPm38MXuFxyFJTCUhMJiI9C7cABR6BQiuTC49opC/DI/EMCMfjeDiHwxTsOhLEbt8gpC9k7DkawgH/MCQfGb5R0cjTU/AKEgVDI9jvF4qHfwS+kbF4B0ft6F1F7v+1xl+quI9VWQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3D snapshot 1&quot;
+        title=&quot;3D snapshot 1&quot;
+        src=&quot;/static/1a998c56de7cc6be8899bb7759bee896/5639a/last-3d-trip1.png&quot;
+        srcset=&quot;/static/1a998c56de7cc6be8899bb7759bee896/8bef6/last-3d-trip1.png 293w,
+/static/1a998c56de7cc6be8899bb7759bee896/7b7df/last-3d-trip1.png 585w,
+/static/1a998c56de7cc6be8899bb7759bee896/5639a/last-3d-trip1.png 911w&quot;
+        sizes=&quot;(max-width: 911px) 100vw, 911px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 687px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4f458d7af1a819b2dd8d145d621a0f3b/f2266/last-3d-trip2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 92.28529839883552%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAAEt0lEQVQ4yzWU2VNTVxzHLwhxpaDiQztonSojjmOxDy5TiwiKVJQ1BCmENRsJ2QNJWAJhkdCAEEAwIiADVKCooKBQBJWKWpdWH/rY/+XTA50+fOZ7fsv5nd/9nXuvFKYJ8D8h6gDhQnfpu4k0dCGpejjh8hNt6EBS9xCl70Sm3Yh1c8DSgUwXYK+pi73GbpEbYJuwpS1lfqRCP6frfCTUt7BL7SNK5+Nbu5cITfumfqVv5YixkUPGJmLNzSTWNHHJ5SLVUcnhihrCRI2daj/hG7VOOLzEWVsp8deT43VzyNREksvNkcp6YvX1fKOt4UtVPV+r3RzWe/jO7Cam3MVJUw3nTUb2FFQRXdrAPpWXcGULUkFzFe4+J95eM0Z/FZ4eK7Y2PSqvkVS7mUzRRbzWQmRRHeH5HkLzPIQoaonTNhCr8whfPZEFbvaVuJEUHqQMp4EUu4WTFSbOVDqIV9uIUVpJthpJMqg5qDTxhcKGTOFCynETKt/ARWiOk8hrDmTy6k3/cYObOJUoGvdTOdFyA9JVu8DGriwzEblWDhSZic41EJFjRZZlJyTdxp5cI+GZws62sT3HxrZMM1szLGKfhf2FFo6VVSFFZhrYkW4gNK2SsCv/sbHeQHZFz+4cI3sFG/a+bA1bLuuJyDZyKL+Cq2XFaKtNJKitHFcaiC/UIR3M0RKeKhIvaZAuCJK1hKRoCBV2SIqW7WlawlI30LD1x408NZKIH8pRcVZZTpLGTGK5gW9yNezPLEeKyVITeakE6Wwx0VdLOKpQsuNiEaFJwpegRJZcJLRwc70luZiwpCJkF0uRzhULhJ5XClUSJfaEJQlfjCgiS8jnQKYSU10httoijmbIkb4vYPflcmIV4mKytexPF6efzOKouNlEX5CdFwvYkywnMjmfpHwlpcUKDqbmie5LK1A426jt9WNqrkXT1s8ZeQEpefnoWzqw+9oprKpDrjWg0RVzwVTLjgwDp1RWUktUnC7QkGuyoHZYSFeLkZW73eQZK1C57AI9uhobvp9rGZsY4ObcAsNPlmganqCly8fkeABvuwedy0F7dysPJwM8mg6wMNXBxICb5roypOBggM7OGubHGujvM9LYaMDXaidRZaa6+xb3lpYpdnuYudvI06lWntxr4vNqL59f9PN+uY8Pv/Xy8dlN/l4f4dWsDylNfo26xmqmglXoKvKIij/HsR8ukHstmyqnFnO1llNpaTiqy5GLOamNRSzNtLA6H2B9aYB3y/18eNbPX7+PMDUoXuxWZwlDA17Gxm+gUOZyWZ7Fw6CTtQdt/LHYzbvFTsZuOhjwm3l8r4WV+S5W5vz0BdxM/dLFx7UR3qwOsb58i7FB8en1NJcwHbRxe+g6ZRXFWE2FrNz3sTrXwdpCgPcrQVZ+FY863sDLuU6e3r+xyerjHj69neTN8xFerw7zanGAP18MIc3dNTPdp0avU1BhUIpu7LxdvcOb5QHePu3m/WIXz2eub/Jo1MX0HZc4LMDr5Tt8Wh/mn88zfFobZfl+O+vz4r84NyGGPeahpU4tLsTKRNDD7KiH6UEnD2/bRczNrNAHt8zMBPUsjthZGK1kftyAUZuGXpvH/EQzC5ONvJxt51/fBCTicKzohwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3D snapshot 1&quot;
+        title=&quot;3D snapshot 1&quot;
+        src=&quot;/static/4f458d7af1a819b2dd8d145d621a0f3b/f2266/last-3d-trip2.png&quot;
+        srcset=&quot;/static/4f458d7af1a819b2dd8d145d621a0f3b/8bef6/last-3d-trip2.png 293w,
+/static/4f458d7af1a819b2dd8d145d621a0f3b/7b7df/last-3d-trip2.png 585w,
+/static/4f458d7af1a819b2dd8d145d621a0f3b/f2266/last-3d-trip2.png 687w&quot;
+        sizes=&quot;(max-width: 687px) 100vw, 687px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;The end!&lt;/h3&gt;
 &lt;p&gt;I really enjoyed this process. I got to step back into the nitty-gritty of actual collection ops, and create my bespoke aerial photo mosaic. Now I get to use it to help plan out the garden at this spot!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Going the Distance: Creating transformational community]]></title><description><![CDATA[Going the Distance There is a growing movement of folk who are seeking a way out of the dominant paradigm for living life This is not new…]]></description><link>https://twicefire.com/priors/goingthedistance/</link><guid isPermaLink="false">https://twicefire.com/priors/goingthedistance/</guid><pubDate>Sun, 15 Nov 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h1&gt;Going the Distance&lt;/h1&gt;
 &lt;p&gt;There is a growing movement of folk who are seeking a way out of the dominant paradigm for living life&lt;/p&gt;
