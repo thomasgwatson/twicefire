@@ -9,6 +9,8 @@ date: "2022-05-10T23:46:37.121Z"
 draft: false
 ---
 
+_This is the second post in a three part series on bioregions. If you aren't familiar with bioregions, best to start at [part one](https://twicefire.com/bioregional/bioregion-1/)_
+
 The obvious first challenge is that very few people know what Bioregionism is or what bioregions are. Or have even heard the terms at all. However, the terminology, values and related concepts around Bioregionism are more familiar to folks now than decades ago. Ecological thinking is widespread (even if ecological action is less common). Bioregional-adjacent ideas about villaging, cosmo-localism, circular or doughnut economics, ecofeminism, decolonization, right relationship to land, indigenous knowledge, and more are bubbling at the edges of society's consciousness. So the lattice of knowledge is increasingly there for Bioregionism to be understood.
 
 ![break](../img/icon.jpg)

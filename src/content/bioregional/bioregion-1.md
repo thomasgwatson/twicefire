@@ -57,7 +57,7 @@ And then a Raymond and a Peter (Peter passed in 2011, RIP) seem big in the scene
 
 > A bioregion can be determined initially by use of climatology, physiography, animal and plant geography, natural history and other descriptive natural sciences. The final boundaries of a bioregion, however, are best described by the people who have lived within it, through human recognition of the realities of living-in-place.
 
-I am an ecologically minded sort, that has been getting more and more curious about humanity's relationship to land, air and sea. These are the definitions of bioregion that interest me and, as we have seen in our search, it takes a bit of digging to get to them. They interest me because I have come to believe that:
+I am an ecologically minded sort, who has been getting more and more curious about humanity's relationship to land, air and sea. These are the definitions of bioregion that interest me and, as we have seen in our search, it takes a bit of digging to get to them. They interest me because I have come to believe that:
 1. Changing our personal and communal relationships to the land and sea are needed for society to have longevity
 2. The administrative division of ecologies by county, city, state, province, shire and country borders actively gets in the way of human coordination, particularly ecological or land-sea-air-relating
 
