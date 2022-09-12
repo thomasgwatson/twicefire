@@ -147,6 +147,16 @@ As a tent placer for a '10 x 10'-per-person-space-allocation camp, I have a list
 
 Perhaps this list of things that make tent placement sad could be codified into something we as a community agree on.
 
+###### Anahasa village moved from corner plot to center plot in a block
+A quick run-down of how this caused problems
+- Not having the natural advantages of a corner plot for Arrival and initial drop-off ==> We need to put extra planning into improving arrival and drop-off
+- Water distribution was really hard this year; is it worth changing the placing of structures to reduce the amount of hose and the amount of traffic going over them?
+- We parked in the Alps (event space) because of weird village parking. And space at the front of camp wasn't very utilitized while we were crowded elsewhere.
+- The dorm to dining hall trail was impinged by the showers; can we tweak placement there?
+- With the cram of everything else, we didn't really have good spaces for internal camp bike ramps and bikes where everywhere
+
+And there are probably a host of other learnings from this year about how to adapt to a new placement.
+
 ###### Complex systems cascade: will Camp Contact recover?
 If you think of Camp Contact as an entity over time, it is a complex emergent system that has slowly grown, and grown and added things and rumbled through the years and years of BRC and east coast shenanigans. The organizational instigation has come from Spacious, and the organizational power has come from a whole host of people sticking around for long enough to keep adding new infrastructure and new things. Do-ocarcy woo! 
 
@@ -161,7 +171,7 @@ What is the way out? We certainly need to stage a series of interventions. Some 
 - Document more; FYI Slack is the graveyard of corporate knowledge; all messages now disappear after three months unless we pay the big dollars. Is there some other central hub
 - Do a whole retrospective on Strike; having a strike play-book and better comms to the whole camp about strike would be a great start. Lots of camps start strike earlier than us, perhaps we need to follow suit.
 
-As it stands now, there is a very good chance that I will not attend the next burn. But I hope the above gives Camp Contact some documentation for the years ahead. So, I will end with a literal reiterate of my key points, and wish y'all good luck.
+As it stands now, there is a very good chance that I will not attend the next burn. But I hope the above gives Camp Contact some documentation for the years ahead. So, I will end with a literal reiteration of my key points, and wish y'all good luck.
 
 #### Key Difficulties
 - Strongest winds in BRC living memory during build
