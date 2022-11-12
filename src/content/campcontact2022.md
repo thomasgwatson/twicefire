@@ -12,7 +12,7 @@ draft: false
 2022 was probably the harshest build and strike weeks Camp Contact has experienced at BRC. I write to document elements of that experience, to analyze what I saw as the key difficulties that lead to this being the hardest build, and to go a little deeper into the camp responsibility that I am calling Reception (Arrival, off-load, parking, tent placement, RV placement and orientation). Before the burn, I was trying to line up being the orientation lead. Thus a bunch of my experience is shaped by this. I will also talk to the four major phases of a large theme camp being out at BRC; Build, Finishing, Burn and Strike.
 
 ###### Report style:
-I will attempt to echo the report writing style from my intel report writing days; observations and 'factual' (as far as we can be) details, separated from my comments/opinions/analysis (either in italics in-line or in a separate), sandwiched on both ends by key findings/summaries. _Comment from later in the writing: this writing style peetered out somewhat, because, spoiler alert, I left halfway through the writing of it to briefly return to the playa to help with strike._
+I will attempt to echo the report writing style from my intel report writing days; observations and 'factual' (as far as we can be) details, separated from my comments/opinions/analysis (either in italics in-line or in a separate paragraph), sandwiched on both ends by key findings/summaries. _Comment from later in the writing: this writing style peetered out somewhat, because, spoiler alert, I left halfway through the writing of it to briefly return to the playa to help with strike._
 
 #### Key Difficulties
 - Strongest winds in BRC living memory during build
@@ -167,11 +167,11 @@ This emergent system has kept the camp running for a long long time; and its org
 What is the way out? We certainly need to stage a series of interventions. Some possible ideas: 
 - Hard-cap camp numbers
 - Maybe even reduce numbers down from our previous highs of 170
-- Offer and do LESS; are there things we can put do without? Do we need to trim down our offerings to mitigate being overwhelmed by complexity
+- Offer and do LESS; are there things we can do without? Do we need to trim down our offerings to mitigate being overwhelmed by complexity
 - Document more; FYI Slack is the graveyard of corporate knowledge; all messages now disappear after three months unless we pay the big dollars. Is there some other central hub
 - Do a whole retrospective on Strike; having a strike play-book and better comms to the whole camp about strike would be a great start. Lots of camps start strike earlier than us, perhaps we need to follow suit.
 
-As it stands now, there is a very good chance that I will not attend the next burn. But I hope the above gives Camp Contact some documentation for the years ahead. So, I will end with a literal reiteration of my key points, and wish y'all good luck.
+As it stands now, there is a very good chance that I will not attend the next burn. On playa I was like "I want a do-over; to come back and do my job right". And returning to my partner and sharing the stories... well, she's not as keen. But I hope the above gives Camp Contact some documentation for the years ahead. So, I will end with a literal reiteration of my key points, and wish y'all good luck.
 
 #### Key Difficulties
 - Strongest winds in BRC living memory during build
