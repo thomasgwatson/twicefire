@@ -33,7 +33,7 @@ As one starts to read the various resources, slowly we find that **there seem to
 
  - The dictionary definitions that pop up favor the purely ecological
  - Wikipedia on ['bioregion'](https://en.wikipedia.org/wiki/Bioregion) only covers the ecological concept of bioregions; If you find the [entry for Bioregionalism](https://en.wikipedia.org/wiki/Bioregionalism), it has an overview and touches on the two different concepts of 'bioregions' (one purely ecological and one that is ecological and 'human scale' to facilitate the humans role/relationship to the land). The 'bioregion' entry doesn't even link to the 'Bioregionalism' entry.
- - The WWF, with ecoregions and [One Earth's bioregions](https://www.oneearth.org/bioregions-2020/), follow purely ecological lines. These definitions are handy for conversation efforts but typically too large or non-contiguous to be human-scale. For example in the One Planet scheme, the West coast of North America has three bioregions, each of which is close to or larger than California. 
+ - The WWF, with ecoregions and [One Earth's bioregions](https://www.oneearth.org/bioregions-2020/), follow purely ecological lines. These definitions are handy for conservation efforts but typically too large or non-contiguous to be human-scale. For example in the One Planet scheme, the West coast of North America has three bioregions, each of which is close to or larger than California. 
 
 > So all in all, if I was newly discovering the concept of bioregions, and I was relying on the internet, I would mainly think they were just ecologically defined and that there is not much more to them than that. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Mapping Bioregions"
-title: "Approaches to the challenges of mapping bioregions (Part 3)"
+title: "The challenges of mapping bioregions (Part 3)"
 author: Tom Watson
 tags: ["bioregionalism", "mapping", "Terran", "Hylo"]
 image: ../img/high-desert.jpg
@@ -117,7 +117,7 @@ Similarly to the "How ought it be shared" question, there are many many tangents
 ### What other systems and/or uses might be layered on top of a bioregional mapping scheme?
 How might these choices help or hinder other processes layered on top of this system? In a future where bioregionalism grows, do we want the mapping of those bioregions to remain just a geographic 'vibe' for a region, or do we want the mapping scheme to help underpin our coordination at a deeper level? If we take the 'vibe' route, a bioregional boundary will be useful as a banner to rally folks together and little more. If we invest more effort and thought into answering the prickly questions about how to define a bioregional mapping system, then we can build a foundation of a deeper coordination system. A deeper mapping scheme can underpin how we identify who is impacted by a possible decision or intervention and a possible estimation for how much someone is impacted. In essence, a deeper mapping scheme is needed if we want bioregional governance to scale. 
 
-Think of the complexity and contention around the geography of the USA political system; allocation of senators via state-boundaries. Gerrymandering of districts to consolidate one party's political power. The rural/urban schism papered over by 'blue' or 'red' states. The geographies of all of the states, counties and districts in the USA electoral system are the water in which USA politics swims in. If there are any aspirations to one day surpass this factious system, we will need a 'better' mapping scheme for our coordination to swim in.
+Think of the complexity and contention around the geography of the USA political system; allocation of senators via state-boundaries. Gerrymandering of districts to consolidate one party's political power. The rural/urban schism papered over by 'blue' or 'red' states. The geographies of all of the states, counties and districts in the USA electoral system are the water in which USA politics swims in. If there are any aspirations to one day surpass this fractious system, we will need a 'better' mapping scheme for our coordination to swim in.
 
 ### Do we have the skill-sets, resources, access and time to achieve the scheme that is the outcome of answering these questions?
 Phew, this is a tough one. Do we even have enough bandwidth to define the problem space, let alone any solutions!? (I've been pecking away at the problem space, here and there for most of 2022 now). We would need to go through a prolonged 'gathering-support -> building -> validation -> gathering support' cycle to drive this, and over time we would need to keep coming back to this question.
