@@ -1,4 +1,454 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Dec 2022 16:46:31 GMT</lastBuildDate><item><title><![CDATA[A bioregional mapping scheme (Part 4)]]></title><description><![CDATA[This is the fourth post in a four part series on bioregions. If you aren’t familiar with bioregions, best to start at part one
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[twicefire]]></title><description><![CDATA[The internal life of Tom Watson]]></description><link>https://twicefire.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Jan 2023 21:27:45 GMT</lastBuildDate><item><title><![CDATA[Bioregions: ChatGPT edition]]></title><description><![CDATA[ChatGPT enters the room… ChatGPT is one of the several artificial intelligence tools that have pushed their way into the public…]]></description><link>https://twicefire.com/bioregional/bioregion-chatgpt/</link><guid isPermaLink="false">https://twicefire.com/bioregional/bioregion-chatgpt/</guid><pubDate>Sun, 08 Jan 2023 23:46:37 GMT</pubDate><content:encoded>&lt;h3&gt;ChatGPT enters the room…&lt;/h3&gt;
+&lt;p&gt;ChatGPT is one of the several artificial intelligence tools that have pushed their way into the public consciousness in the last year. Users submit prompts via text input, and ChatGPT tried to answer, within the bounds of its ‘guard-rails’ and the canon of material it has been trained on. ChatGPT, ‘remembers’ context from earlier in conversations and the user can layer questions and prompts on each other as the conversation/dialogue continues. You can play with ChatGPT and learn about it &lt;a href=&quot;https://openai.com/blog/chatgpt/&quot;&gt;here&lt;/a&gt; For a lark, I was curious how much ChatGPT knew about bioregionalism and how solidly it might grasp questions about it. I’ll share my prompts (in header form), its responses and my reflections below.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;What is bioregionalism?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bioregionalism is a philosophy and social movement that emphasises the connection between people and the natural environment in which they live. It seeks to foster a sense of place and a sense of belonging to a specific geographic region, and to promote sustainable and self-sufficient communities that are adapted to the unique natural and cultural characteristics of their region.&lt;/p&gt;
+&lt;p&gt;Bioregionalism advocates for the creation of bioregions, which are defined by natural features such as mountains, rivers, and vegetation, rather than by political boundaries. It promotes the idea that people should live in harmony with the natural systems of their bioregion and should make use of the resources available to them in a way that is sustainable and does not harm the environment.&lt;/p&gt;
+&lt;p&gt;Bioregionalism also emphasises the importance of local decision-making and local control, and advocates for decentralisation and grassroots organising. It promotes the idea that people should be actively engaged in the management and stewardship of their local environment and should work together to solve local problems and meet local needs.&lt;/p&gt;
+&lt;p&gt;Bioregionalism has inspired a range of initiatives, including the development of sustainable communities, the promotion of local food systems, the protection of natural habitats, and the development of alternative economic and political models.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/acdbdd07e8e75de9828b7c8230536e08/a984a/kylemore-abbey.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.60926532522228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFheXmio8v/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDECH/2gAIAQEAAQUCW6Nd6ri9gR//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEv/aAAgBAgEBPwGj/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQESEx/9oACAEBAAY/Apg0Ur2//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERMSFRcYHw/9oACAEBAAE/IXlWeUSHQMz5iWLYlwVP/9oADAMBAAIAAwAAABCvD//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAC2//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCmVn//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAh0YGR/9oACAEBAAE/EA7xFj7akxSMVfuW+J+PcFsAtOIW5Xvvd//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/acdbdd07e8e75de9828b7c8230536e08/0e916/kylemore-abbey.jpg&quot;
+        srcset=&quot;/static/acdbdd07e8e75de9828b7c8230536e08/8c376/kylemore-abbey.jpg 293w,
+/static/acdbdd07e8e75de9828b7c8230536e08/34012/kylemore-abbey.jpg 585w,
+/static/acdbdd07e8e75de9828b7c8230536e08/0e916/kylemore-abbey.jpg 1170w,
+/static/acdbdd07e8e75de9828b7c8230536e08/a849f/kylemore-abbey.jpg 1755w,
+/static/acdbdd07e8e75de9828b7c8230536e08/a984a/kylemore-abbey.jpg 2137w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Commentary&lt;/h5&gt;
+&lt;p&gt;Pretty solid all up, even if I baulk at some of the terminology. Expressions I would avoid or employ in a different way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;‘self-sufficient’, since I think, in its pure form, it is an impractical utopian goal. But moving in the direction of greater regional sufficiency is very much the vibe&lt;/li&gt;
+&lt;li&gt;‘local control’. Compared to typical political ‘group-think’ in Western democracies, which deattaches us from the local and gets us to focus on the federal/national level, yes, bioregionalism is very much about focusing peeps on their region. However, one bioregion exercising ‘local control’ and changing the flow of a river, impacting the bioregions downstream… that’s not it. Managing watersheds collectively, something I think is critical for bioregionalism, would really stretch the concept of ‘local control’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;How can we map bioregions?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are a number of ways to map bioregions, depending on the specific goals and characteristics of the region being mapped. Here are a few approaches that are commonly used:&lt;/p&gt;
+&lt;p&gt;Natural features: Bioregions can be mapped based on natural features such as mountains, rivers, vegetation, and climate. This approach can help to identify areas that share similar physical characteristics and that may be subject to similar ecological processes.&lt;/p&gt;
+&lt;p&gt;Cultural and historical ties: Bioregions can also be mapped based on cultural and historical ties, such as shared language, traditions, and ways of life. This approach can help to identify areas that have a shared sense of identity and that may have a shared history or cultural heritage.&lt;/p&gt;
+&lt;p&gt;Ecological systems: Bioregions can be mapped based on ecological systems, such as ecosystems, biomes, or ecological niches. This approach can help to identify areas that support particular types of plants and animals and that may be subject to similar ecological pressures.&lt;/p&gt;
+&lt;p&gt;Resource use and management: Bioregions can also be mapped based on patterns of resource use and management, such as land use, resource extraction, and environmental impacts. This approach can help to identify areas that have similar resource management challenges and that may be suitable for collaborative resource management efforts.&lt;/p&gt;
+&lt;p&gt;There are many different tools and techniques that can be used to map bioregions, including GIS (geographic information systems), satellite imagery, and field surveys. It is important to consider the specific goals of the mapping effort and to choose the most appropriate tools and techniques for the task at hand.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d05ebc453932f24404bc7515c1f789d0/6b652/new-garange-stone.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.3583180987203%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABTo2yyKr/xAAZEAADAQEBAAAAAAAAAAAAAAABAhEAAxL/2gAIAQEAAQUC8VefIIsysZcWN//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAEAEBFR/9oACAEBAAY/AsZi69ov/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERMUEh/9oACAEBAAE/IXc3UO9F0NVrRIXhUFPDP//aAAwDAQACAAMAAAAQrx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBH/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBcVGBof/aAAgBAQABPxACwaNaeH1uOQs2VJ9lFkJ1MmaAZl+TefEXFJ0T/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/d05ebc453932f24404bc7515c1f789d0/0e916/new-garange-stone.jpg&quot;
+        srcset=&quot;/static/d05ebc453932f24404bc7515c1f789d0/8c376/new-garange-stone.jpg 293w,
+/static/d05ebc453932f24404bc7515c1f789d0/34012/new-garange-stone.jpg 585w,
+/static/d05ebc453932f24404bc7515c1f789d0/0e916/new-garange-stone.jpg 1170w,
+/static/d05ebc453932f24404bc7515c1f789d0/a849f/new-garange-stone.jpg 1755w,
+/static/d05ebc453932f24404bc7515c1f789d0/6b652/new-garange-stone.jpg 2188w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Commentary&lt;/h5&gt;
+&lt;p&gt;The scatteredness of this answer reflections the corpus of information out there. Collectively there isn’t one defined way to map bioregions. I do notice the lack of explicit mentions of watersheds, even if rivers are touched on. The answer here seems vaguely on topic but not particularly insightful or interesting.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Why don’t people understand the importance of bioregions?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are many reasons why people may not understand the importance of bioregions. Here are a few possible reasons:&lt;/p&gt;
+&lt;p&gt;Lack of awareness: Many people may not be aware of bioregions and the concept of place-based living. They may not have learned about bioregions in school or through other educational experiences, and they may not have encountered the idea in mainstream media or popular culture.&lt;/p&gt;
+&lt;p&gt;Disconnection from nature: Some people may live in urban or suburban areas where they are disconnected from the natural environment and may not have opportunities to experience the unique features and characteristics of their bioregion. This can make it difficult for them to understand the importance of place and the value of living in harmony with the natural world.&lt;/p&gt;
+&lt;p&gt;Focus on global issues: Some people may be more focused on global issues, such as international politics, economics, or social justice, and may not consider the importance of local or regional issues. This can make it difficult for them to understand the relevance of bioregions and the ways in which they can contribute to the well-being of their local community.&lt;/p&gt;
+&lt;p&gt;Misconceptions about bioregionalism: Some people may have misconceptions about bioregionalism or may misunderstand its goals and values. They may see it as narrow-minded or isolationist, or they may not understand how it relates to broader issues of sustainability and social justice.&lt;/p&gt;
+&lt;p&gt;There are many ways to increase awareness and understanding of bioregions and the importance of place-based living. Some approaches include education and outreach efforts, such as public talks, workshops, and events, and the development of resources and materials that explain the concepts and values of bioregionalism in an accessible and engaging way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/e026d/finally-at-peace.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.71249397009166%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEA//EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdnGkZID/8QAGxABAAICAwAAAAAAAAAAAAAAAQACAwQRIUH/2gAIAQEAAQUCplUtmSOzfnwe7z//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITFx/9oACAEBAAY/AtGFcsXD/8QAGxABAAICAwAAAAAAAAAAAAAAAQARMWEhQVH/2gAIAQEAAT8hDqzYzLk+AaqK05iZWJWz0n//2gAMAwEAAgADAAAAEBjv/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8QR//EABYRAQEBAAAAAAAAAAAAAAAAAAAhUf/aAAgBAgEBPxCrr//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFhMUFRscH/2gAIAQEAAT8QULLwAd5Ym0XkT5ceqd63uKsXfemBEIDFMUkVyLP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/0e916/finally-at-peace.jpg&quot;
+        srcset=&quot;/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/8c376/finally-at-peace.jpg 293w,
+/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/34012/finally-at-peace.jpg 585w,
+/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/0e916/finally-at-peace.jpg 1170w,
+/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/a849f/finally-at-peace.jpg 1755w,
+/static/05b9d867dfbfcb9d2d0a7d6d892c56d5/e026d/finally-at-peace.jpg 2073w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h5&gt;Commentary&lt;/h5&gt;
+&lt;p&gt;This response was the most generative for me; it inspired the most reflection. I gave space to the discoverability issues that bioregionalism faces via search-engines in earlier bioregionalism posts (And, I have to say that ChatGPT provides a better return on someone’s twenty minute investment into research on bioregionalism). But I haven’t given much space to the other concepts or ideas competing with bioregionalism. Yes, lack of awareness is the absolute baseline challenge, and I doubt we’ll be squeaking bioregionalism into school curriculum anytime soon (although now you got me thinking…). Following along the ChatGPT response, I don’t think misconceptions about bioregionalism are truly much of an issue; few even know the term, and it’s rather difficult to have misconceptions about something one has never heard of. But disconnection from nature and a focus on ‘global’ or other issues are salient problems I haven’t spoken to, and that got me thinking about some of the competing&lt;/p&gt;
+&lt;h6&gt;Disconnection from nature&lt;/h6&gt;
+&lt;p&gt;Bioregionalism is both blocked by and an answer to our disconnection from nature. I think there are lots of people that are concerned about the impacts of climate chaos, that do not have a strong bond with nature, to place, or to our individual place in our local ecologies. And I include myself in that category; albeit I am working on it. Modernity, and arguably Post-modernity, are “the water we swim in”, conceptually. This broadly underpins so much of how we operate and think, without us collectively understanding their impact and influence. And both of those tend to place ‘man’ as separate from ‘nature’. Even some well-meaning environmentalists, seeing the havoc humanity has wrought on landscapes, argue for the de facto erasure of humanity from these landscapes, as a return to their ‘nature’ state. One of the worst outcomes of this extreme is when ‘environmental’ reasons are used to strip indigenous ways of being from a place and its peoples. This too is an example of humanity’s current separation from ‘nature’. Bioregionalism needs to place humanity into its rightful context; we are nature, we need to be integrated into the places and regions we reside and live in. And we need to be stewards of those places.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 745px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3977924077704d94650c6cc3018a268b/aa03c/can-you-hear-it.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 130.46979865771812%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAFWl0mRB0gzIvJLRIX/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQMRAhITIUH/2gAIAQEAAQUCUTtxs4smIraQvpNovZ+mbd//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8BxVR//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAS/9oACAECAQE/ASn/AP/EABwQAAEFAAMAAAAAAAAAAAAAAAABEBEhMSJRcf/aAAgBAQAGPwK8ON+mEidSyFkwK2n/xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMVGBQXGhsf/aAAgBAQABPyFNEdLZQz+E3r9JG4UL1WkVS6i8XLNKs28xaXlw/CHj3AYqf//aAAwDAQACAAMAAAAQzxxC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIWH/2gAIAQMBAT8Q0ntshl12/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREEH/2gAIAQIBAT8QTfSy5//EAB8QAQACAgEFAQAAAAAAAAAAAAEAESExcUFhgZHwsf/aAAgBAQABPxCrPTZ8OZhRGnbcVWTvQ/YQK2tWMUdAPLzFAFApZiEu2ljeY8NuhHUOK9xNIWquegxt8blLAUYGf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/3977924077704d94650c6cc3018a268b/aa03c/can-you-hear-it.jpg&quot;
+        srcset=&quot;/static/3977924077704d94650c6cc3018a268b/8c376/can-you-hear-it.jpg 293w,
+/static/3977924077704d94650c6cc3018a268b/34012/can-you-hear-it.jpg 585w,
+/static/3977924077704d94650c6cc3018a268b/aa03c/can-you-hear-it.jpg 745w&quot;
+        sizes=&quot;(max-width: 745px) 100vw, 745px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h6&gt;Global issues&lt;/h6&gt;
+&lt;p&gt;I don’t really think the particular ‘global’ issues suggested by ChatGPT are particularly relevant, but the various non-local orientations of folks are somewhat obstacles for getting them to think bioregionally. The different flavours of non-local orientations include the normie ones like “the national-level drama-rama”, and “just vibing” orientations and more esoteric ones such as “terminally online”, “Living in the Metaverse”, “Living in the past”, “Narrow optimizers” and “Ad Astra”. I will flesh out each of these orientations and detail how they can deflect the concepts of bioregionalism away from folks. &lt;em&gt;Side-note: I would say it’s rare for someone to be completely absorbed or aligned with one of these orientations and that we tend to end up with a primary one, and a taste of others, and this also shifts over our lives&lt;/em&gt;&lt;/p&gt;
+&lt;h6&gt;Just vibing&lt;/h6&gt;
+&lt;p&gt;There is a certain subset of humanity and also a certain subset of each of our lives, when we are ‘just vibing’. We are absorbed in the now, the present, the “what is”. No fucks are given, ignorance is bliss and fatalism abounds… I actually think it’s a healthy state to visit from time to time, and trying to coordinate, shift or work with folks that are stuck in this mode all the time is a lost cause. One can certainly argue that different societal factors are contributing to this orientation, and there are ways to shift the prevalence of apathy in our societies. However, that’s a sticky and complex thing in its own right. Included in the ‘just vibing’ contingent are ‘perfect consumers’. There are a lot of marketing departments spending big resources to funnel the psychological needs and yearning of society into endless-consumption. So while there is an emergent level of ‘just-vibing’ in any population, there are serious efforts to build and take advantage of this segment.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b072a6bf9267c753329410ed678a9d9f/cbc55/kylemore-sheep.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.188261351052056%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEauWYVDk//xAAZEAEBAAMBAAAAAAAAAAAAAAABAAMQERL/2gAIAQEAAQUCCPBJi0t2/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAZEAEAAgMAAAAAAAAAAAAAAAABABEgIZH/2gAIAQEABj8CgWza9w//xAAaEAEAAgMBAAAAAAAAAAAAAAABACEQETFR/9oACAEBAAE/IUNXyoG7HjNuw4IRU//aAAwDAQACAAMAAAAQEB//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QtNf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qpdf/xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMZFBcf/aAAgBAQABPxAVBAAlX983NHq0Zx2s4yqgO1ayyeZSk6wn5v/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/b072a6bf9267c753329410ed678a9d9f/0e916/kylemore-sheep.jpg&quot;
+        srcset=&quot;/static/b072a6bf9267c753329410ed678a9d9f/8c376/kylemore-sheep.jpg 293w,
+/static/b072a6bf9267c753329410ed678a9d9f/34012/kylemore-sheep.jpg 585w,
+/static/b072a6bf9267c753329410ed678a9d9f/0e916/kylemore-sheep.jpg 1170w,
+/static/b072a6bf9267c753329410ed678a9d9f/a849f/kylemore-sheep.jpg 1755w,
+/static/b072a6bf9267c753329410ed678a9d9f/cbc55/kylemore-sheep.jpg 1806w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h6&gt;The national-level drama-rama&lt;/h6&gt;
+&lt;p&gt;Folks wrapped up in this orientation have the impulse to be ‘informed about what is going on’, but that impulse is subsumed into the noise and drama of national-level affairs. The USA perhaps sees the defining pinnacle of this orientation; the interpretation of everything, whether local, international or even in a foreign country, through the lens of American federal politics, aka Blue vs Red, Dems vs Repubs. National level media reinforces this, pitching up the melodrama of Federal/National level politics to the abandonment of all else. Witness the exhausting obsession with the presidential primaries and then the presidential election itself. Folks who are completely absorbed in this melodrama won’t notice or act on local issues or otherwise align with the things that matter in bioregionalism.&lt;/p&gt;
+&lt;h6&gt;Terminally Online&lt;/h6&gt;
+&lt;p&gt;There are many manifestations of being terminally-online. I like the internet. It has been a part of my life since I was very young, an amazing trove of information and knowledge and communication. And there is a way one can be completely wrapped up in everything we can learn about the world via the internet that it can take us away from the immediacy of our lived experiences. I can certainly look at myself as being in the ‘at-risk’ category of the terminally-online. Some examples of the different manifestations of being terminally-online; extensive doom-scrolling on Twitter (knowing who the ‘main character’ is on twitter daily), sinking one’s heart and soul into global conspiracies (eg, QAnon) via telegram, or endless insta/facie/tiktok video loops. With all of this living ‘rent-free’, as the terminally-online would say, in one’s head, what space do we have to build relationship to the place where we are?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5c00bd9078076a55354edced738a4997/9bfde/kylemore-sun-rise-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.38353413654619%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHqmZYqJA3/xAAYEAEAAwEAAAAAAAAAAAAAAAAAAhESE//aAAgBAQABBQLUWoOsFMqf/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECERL/2gAIAQMBAT8BzEpH/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIC/9oACAECAQE/Ab0p/8QAFxAAAwEAAAAAAAAAAAAAAAAAABAxAf/aAAgBAQAGPwIquv8A/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAERIXEQUWH/2gAIAQEAAT8hupVpJ0GpwnOLiP0zbP/aAAwDAQACAAMAAAAQQP8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAARBR/9oACAEDAQE/EDJH/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxCNln//xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhgTFBccH/2gAIAQEAAT8QrSfQ1ipjzeJlyJ98GZsDswLy/Zk399//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/5c00bd9078076a55354edced738a4997/0e916/kylemore-sun-rise-3.jpg&quot;
+        srcset=&quot;/static/5c00bd9078076a55354edced738a4997/8c376/kylemore-sun-rise-3.jpg 293w,
+/static/5c00bd9078076a55354edced738a4997/34012/kylemore-sun-rise-3.jpg 585w,
+/static/5c00bd9078076a55354edced738a4997/0e916/kylemore-sun-rise-3.jpg 1170w,
+/static/5c00bd9078076a55354edced738a4997/a849f/kylemore-sun-rise-3.jpg 1755w,
+/static/5c00bd9078076a55354edced738a4997/9bfde/kylemore-sun-rise-3.jpg 1992w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h6&gt;Living in the Metaverse&lt;/h6&gt;
+&lt;p&gt;This orientation is similar to terminally online, in that it is anchored in the internet and the ‘cyber-realm’. But instead of it being focused on the internet that relates or is a direct commentary on the world at large, it is instead focused on the worlds and realities that exist only in cyber-space. The escape of computer games, of MMOs, of Stardew Valley, of fan-fiction LARPing, of Second-life and, if Zuck has his way, of Meta. Reality dismediated from physical place. The internet can be an escape for folks and the challenges they face in the real world; that can be a healthy and helpful thing. When we lose ourselves completely in escapism; that tends to not be healthy for an individual and it certainly limits their ability to build relationship to place and orient towards bioregionalism.&lt;/p&gt;
+&lt;h6&gt;Narrow Optimisers&lt;/h6&gt;
+&lt;p&gt;Our global trade networks and contemporary corporate/private bureaucracies are filled with narrow optimisiers; those squeezing ‘efficiency’ or ‘performance’ in their specific realm, without regard for overall systemic health or the health of things connected to them (and they are often rewarded and incentivised to do this). This impulse has hidden costs/risks; shipping peaches halfway around the globe where it is cheapest to have them canned, and then shipping them back for sale, because it’s ‘cheaper’ to do so, despite the transportation costs (which rarely have their environmental impact factored into their cost). Buying unverifiable carbon credits for afforestation projects in a distant country, instead of changing industrial processes to reduce their carbon footprint, because it’s ‘cheaper’. Running large-scale sustainability analyses while treating one acre of pastureland as completely interchangeable with one acre of floodplain cropland. Narrow optimizers tend to paper over or reduce the nuance and complexities of our ecologies and interconnectedness; so it might take time for them to value what bioregionalism has to offer.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c9990142a69c19b77c8f3f3b333c114b/c3f1e/pasture-cow.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.868320610687014%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFA//EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB0clmbREI/8QAGhAAAgIDAAAAAAAAAAAAAAAAABMBAhARQf/aAAgBAQABBQJ0bZQdXHIP/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQMBAT8BlL//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISE//aAAgBAgEBPwG8jRn/xAAZEAACAwEAAAAAAAAAAAAAAAAAIQEgMVH/2gAIAQEABj8CcI4bT//EABsQAQACAgMAAAAAAAAAAAAAAAEAIRARYXHw/9oACAEBAAE/IdtHowbVK4Z5mGosT//aAAwDAQACAAMAAAAQeN//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8Qgp//xAAXEQADAQAAAAAAAAAAAAAAAAAAAUFx/9oACAECAQE/EEqmJ//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQWH/2gAIAQEAAT8Qu0avNfmy+I3tkKTc0Q2p05EivZ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/c9990142a69c19b77c8f3f3b333c114b/0e916/pasture-cow.jpg&quot;
+        srcset=&quot;/static/c9990142a69c19b77c8f3f3b333c114b/8c376/pasture-cow.jpg 293w,
+/static/c9990142a69c19b77c8f3f3b333c114b/34012/pasture-cow.jpg 585w,
+/static/c9990142a69c19b77c8f3f3b333c114b/0e916/pasture-cow.jpg 1170w,
+/static/c9990142a69c19b77c8f3f3b333c114b/a849f/pasture-cow.jpg 1755w,
+/static/c9990142a69c19b77c8f3f3b333c114b/c3f1e/pasture-cow.jpg 2096w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h6&gt;Living in the Past&lt;/h6&gt;
+&lt;p&gt;Nostalgia is a powerful force. There are plenty of folks distracted by longings for real or imagined ideas of ‘how things were’, to the extent that they will not engage with other orientations like bioregionalism. Of course, it is entirely possible for forms of nostalgia to exist inside the bioregional community as well. We can imagine an alluring past, where humans were living in harmony with the lands, and imbue that vision with facets that aren’t entirely true or reflective of what was (perhaps we pretend that there was no hunger, disease or conflict… or we become enamoured with the trope of the “Noble Savage”). Like with almost all the orientations I am touching on, there are ideas and inspirations that we can draw on when bringing a new world into life (via bioregionalism or otherwise). Again, the need is that we don’t get lost or stuck in an orientation that is always looking backward, and not doing so truthfully. Folks looking back to 1950s America or the good ole days of the USSR will struggle to get on board with what bioregionalism has to offer (and both of these nostalgia traps are a yearning to return to the simplicity of modernity’s peak).&lt;/p&gt;
+&lt;h6&gt;Ad Astra, ‘To the stars’&lt;/h6&gt;
+&lt;p&gt;Another niche of folks that would struggle with the need in bioregionalism to be grounded in place, are those whose hearts and eyes are turned to the stars. They look so far ahead, I fear they neglect where they stand today (and will continue to stand for decades/centuries). I loved Kim Stanley-Robinson’s Mars trilogies as a teen; the colonisation of Mars and all the human complexities of that. Imagine, to be a part of the fabled “First Hundred” humans to spread civilization beyond our home, what an adventure! And as the years go by, the more I notice Stanley-Robinson’s subtle depiction of earth from these books; climate-strained, dysfunctional, broken. I fear that too many in the ‘Ad Astra’ crowd either gloss-over, or do not care enough about the problems we face here on earth, in stewarding our home. In recent years, I have also become increasingly of the view that the hardest space travel problems are not the big engineering complexities of moving matter over incredible distances but instead the subtle fractal complexity of keeping our bodies functioning outside of our biosphere for any long-term duration. And thus, we can’t just&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These different orientations likely require different strategies for getting folks onboard with bioregionalism. How soon will it be that ChatGPT-clones are trained to deeply understand an orientation like bioregionalism, and conflicting or competing orientations, and then be able to probe, question and query someone to understand their particular blockages towards an orientation and directly address those?&lt;/p&gt;
+&lt;p&gt;Instead of reading a blog post or listening to a podcast about a subject, targeted at a broad audience, we can have an interactive chat with a bot that can push us straight to the crux of whether we align with something or not?&lt;/p&gt;
+&lt;p&gt;And how do we trust that these bots won’t lead us down a path to confusion (because they are flat out factually wrong, which ChatGPT is in repeatable ways) or bias us in a certain direction (Someone chatting with the ‘Bioregionalism-persuader bot’ has assumably given consent but how do we trust the ‘educational history chatbot’ our school district has just introduced from another Silicon Valley startup?)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/786c774a63ad722a2d7bd04bd9c2fd99/c02fd/kylemore-abbey-from-connemara.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.6859344894027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABBOXM14I//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBAxMg/9oACAEBAAEFAtXIvc2s4//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGq/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAhAiAy/9oACAEBAAY/Au2Xkyl0/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITFhcYH/2gAIAQEAAT8h03omrS0T5K6RYsobcn//2gAMAwEAAgADAAAAEM8//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EANi/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Qtb//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMZFRYcH/2gAIAQEAAT8QU16SIaFwqnuL784JBXDhm7t4+wjBQKy/U//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/786c774a63ad722a2d7bd04bd9c2fd99/0e916/kylemore-abbey-from-connemara.jpg&quot;
+        srcset=&quot;/static/786c774a63ad722a2d7bd04bd9c2fd99/8c376/kylemore-abbey-from-connemara.jpg 293w,
+/static/786c774a63ad722a2d7bd04bd9c2fd99/34012/kylemore-abbey-from-connemara.jpg 585w,
+/static/786c774a63ad722a2d7bd04bd9c2fd99/0e916/kylemore-abbey-from-connemara.jpg 1170w,
+/static/786c774a63ad722a2d7bd04bd9c2fd99/a849f/kylemore-abbey-from-connemara.jpg 1755w,
+/static/786c774a63ad722a2d7bd04bd9c2fd99/c02fd/kylemore-abbey-from-connemara.jpg 2076w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;And now for something completely different&lt;/h4&gt;
+&lt;p&gt;The last few questions I asked ChatGPT about Bioregionalism were a bit silly…&lt;/p&gt;
+&lt;h4&gt;Write me a synopsis for a movie about two bioregions figuring out who is responsible for someone building a small dam in the watershed that both bioregions share&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The Dam Mystery” is a film about two bioregions that share a watershed and must work together to solve a mystery surrounding a small dam that has been built in their shared water source.&lt;/p&gt;
+&lt;p&gt;The film begins with the discovery of the dam, which has caused confusion and concern among the residents of both bioregions. Both sides suspect the other of building the dam, and tensions begin to rise as each side becomes more convinced that the other is responsible.&lt;/p&gt;
+&lt;p&gt;As the investigation into the dam’s origins begins, the leaders of both bioregions are forced to work together and overcome their differences in order to find the truth. They encounter a number of challenges along the way, including conflicting accounts of the dam’s construction, lack of evidence, and hostile reactions from some members of their respective communities.&lt;/p&gt;
+&lt;p&gt;Despite these obstacles, the leaders of the bioregions remain determined to find out who is responsible for the dam. They eventually uncover a plot by a group of outsiders who had built the dam in order to disrupt the water supply and create chaos between the two bioregions.&lt;/p&gt;
+&lt;p&gt;In the end, the leaders of the bioregions are able to expose the true perpetrators and bring them to justice, and they are able to rebuild the damaged relationships between their communities. The film ends with the two bioregions working together to restore the watershed and to prevent future conflicts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pretty cliched but could we spice it up a little bit?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 32px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHw3kxbgpVY0DmNP//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQSEzM0/9oACAEBAAEFAtVGORM0sAtW8izM7X7uRtTZyWYsf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEbhSR//8QAGxAAAwADAQEAAAAAAAAAAAAAAAECESFBEjH/2gAIAQEABj8CmvO8kTMrY0iSM9KFPEJt/DLP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRBhMUGh/9oACAEBAAE/IWgT5O5VYaYItB6n1Qj7OIHY0syWQVWZEe6z/9oADAMBAAIAAwAAABDrF0H/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAeluP/xAAZEQEBAQADAAAAAAAAAAAAAAABACExYXH/2gAIAQIBAT8Q5FXdtHy6owv/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQVGBkbGh/9oACAEBAAE/EMvqs3i3Jg6Vd6JhCGuKHGE1X1+s0sxbpps8T9x8IADSGmI3AQWSnH1EA5TVT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg&quot;
+        srcset=&quot;/static/518bcb7b2b6c3d418f39962492f9eac8/62dc3/icon.jpg 32w&quot;
+        sizes=&quot;(max-width: 32px) 100vw, 32px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Could you add another plot twist to “The Dam Mystery”?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sure, here is a potential additional plot twist for “The Dam Mystery”:&lt;/p&gt;
+&lt;p&gt;As the leaders of the two bioregions continue their investigation into the dam’s origins, they begin to uncover evidence that suggests that the dam was not built by outsiders as they had originally suspected. Instead, they discover that the dam was actually built by a group of rogue scientists who were working on a secret project to manipulate the water supply in order to test a new type of water purification technology.&lt;/p&gt;
+&lt;p&gt;The scientists had hoped to secretly test their technology and then present it as a solution to the water supply problem once it was discovered. However, their plan backfired when the dam was discovered earlier than they had expected, and they were forced to go into hiding in order to avoid being caught.&lt;/p&gt;
+&lt;p&gt;The leaders of the bioregions are shocked by this revelation, and they must decide how to handle the situation. Do they expose the scientists and risk causing a panic, or do they keep the secret and allow the scientists to continue their work in the hope that it will lead to a solution to the water supply problem? The leaders are faced with a difficult decision, and they must weigh the potential risks and benefits of each option before ultimately making a decision.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Well that settles it then, I better get working on my great bioregional propaganda movie, “The Dam Mystery”!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6cdb0499cee508db234af4e497671390/00cac/kylemore-lake-barn.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.011315417256014%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAVj3xQMSj//EABsQAAICAwEAAAAAAAAAAAAAAAABAxICBBEh/9oACAEBAAEFArdM9hou2Mn9hP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAABEBExQf/aAAgBAQAGPwLGUlRrhvsf/8QAHBABAAIBBQAAAAAAAAAAAAAAAQARITFBcYHB/9oACAEBAAE/IcXlLQ/MzFFqdxJvCIhTRis//9oADAMBAAIAAwAAABDQP//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPxCaj//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAgEBPxB0nb//xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUFRYaH/2gAIAQEAAT8QXVX0DLF1jF+jWXAfOBFFxecQ0ho2bMFI9Z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;break&quot;
+        title=&quot;break&quot;
+        src=&quot;/static/6cdb0499cee508db234af4e497671390/0e916/kylemore-lake-barn.jpg&quot;
+        srcset=&quot;/static/6cdb0499cee508db234af4e497671390/8c376/kylemore-lake-barn.jpg 293w,
+/static/6cdb0499cee508db234af4e497671390/34012/kylemore-lake-barn.jpg 585w,
+/static/6cdb0499cee508db234af4e497671390/0e916/kylemore-lake-barn.jpg 1170w,
+/static/6cdb0499cee508db234af4e497671390/a849f/kylemore-lake-barn.jpg 1755w,
+/static/6cdb0499cee508db234af4e497671390/00cac/kylemore-lake-barn.jpg 2121w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A bioregional mapping scheme (Part 4)]]></title><description><![CDATA[This is the fourth post in a four part series on bioregions. If you aren’t familiar with bioregions, best to start at part one
  than with…]]></description><link>https://twicefire.com/bioregional/bioregion-4/</link><guid isPermaLink="false">https://twicefire.com/bioregional/bioregion-4/</guid><pubDate>Sun, 11 Dec 2022 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This is the fourth post in a four part series on bioregions. If you aren’t familiar with bioregions, best to start at &lt;a href=&quot;https://twicefire.com/bioregional/bioregion-1/&quot;&gt;part one&lt;/a&gt;&lt;/em&gt;
 &lt;em&gt;than with this post!).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After out-lining challenges to mapping bioregions in part 3 of this little sequence on bioregionalism, it is time for me to make a coherent pitch for how I think we should address them.&lt;/p&gt;
